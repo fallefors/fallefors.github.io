@@ -1,0 +1,4010 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>TEX</name>
+			<longname>Tarkir: Extinction</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-06-01</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>RU01 Avenform Guide</name>
+			<text>Flying
+Accord — Whenever this creature deals combat damage to a player, draw a card. Then discard a card unless you&apos;ve cast both a creature spell and a noncreature spell this turn.</text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/0.jpg" num="45">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG01 Guardian of the Wild</name>
+			<text>Trample
+Accord — At the beginning of your end step, if you&apos;ve cast both a creature spell and a noncreature spell this turn, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/1.jpg" num="129">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR04 Qal Sisma Scavengers</name>
+			<text>Menace
+Accord — This creature gets +2/+0 and has haste as long as you&apos;ve cast both a creature spell and a noncreature spell this turn.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/2.jpg" num="100">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ape</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB01 Afterlife Aspirant</name>
+			<text>This creature is ceremonialized with two +1/+1 counters on it.
+Ceremony—{4}{B}, Exile two other cards from your graveyard. (You may cast a copy of this from your graveyard by exiling it and paying the ceremony cost.)</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/3.jpg" num="65">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW02 Emesh Cadet</name>
+			<text>Heritage 2 (This enters with two +1/+1 counters. At the beginning of your combat, you may move a +1/+1 counter from this onto another target permanent you control.)</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/4.jpg" num="2">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB04 Salt Road Escort</name>
+			<text>Heritage 2 (This enters with two +1/+1 counters. At the beginning of your combat, you may move a +1/+1 counter from this onto another target permanent you control.)
+At the beginning of combat on your turn, target creature gains menace until end of turn if it has a counter on it.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/5.jpg" num="68">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW06 Respected Strike Leader</name>
+			<text>Vigilance
+Glory — When this creature dies, create a 1/1 red Warrior creature token. If it was attacking, create two of those tokens instead.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/6.jpg" num="6">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW01 Small morph, pump team</name>
+			<text>Morph {4}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When this creature is turned face up, put three +1/+1 counters on it.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/7.jpg" num="1">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW03 Coordinated Students // Joint Effort</name>
+			<text>During your turn, this creature has first strike.
+
+---
+
+Put a +1/+1 counter on each of up to two target creatures. (Cast a copy of this spell only once. Cast only if this creature attacked this turn.)</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/8.jpg" num="3">TEX</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Monk // Instant — Technique</type>
+				<maintype>Creature</maintype>
+				<manacost>1W // 2W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW04 Vanguard Gallant</name>
+			<text>Lifelink
+Glory — When this creature dies, if it was attacking, draw a card.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/9.jpg" num="4">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW05 Citadel Sentry</name>
+			<text>Flying
+When this creature enters, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/10.jpg" num="5">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW07 Debilitating Assault</name>
+			<text>Choose one —
+• Tap up to three target creatures.
+• Create three 1/1 red Warrior creature tokens.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/11.jpg" num="7">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW08 Medium Flying, hate</name>
+			<text>Flying, vigilance
+When this creature enters, exile up to one card from a graveyard.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/12.jpg" num="8">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG09 Awaited Return</name>
+			<text>Mill two cards, then you may return a permanent card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/13.jpg" num="137">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG10 Lavish Dance</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1 and has trample.
+Ceremony—{2}{G}, Exile another card from your graveyard. (You may cast a copy of this from your graveyard by exiling it and paying the ceremony cost.)</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/14.jpg" num="138">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW11 Superior Form</name>
+			<text>Put a +1/+1 counter on target creature you control. It gains first strike until end of turn.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/15.jpg" num="11">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG12 Trick</name>
+			<text>Put a +1/+1 counter on target creature you control. It gains reach, trample, and indestructible until end of turn. Untap it. (Damage and effects that say &quot;destroy&quot; don&apos;t destroy it.)</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/16.jpg" num="140">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU02 Aspect of Winter</name>
+			<text>When this creature enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{2}, Sacrifice this creature, draw a card.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/17.jpg" num="34">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB03 Small sac</name>
+			<text>{2}, Sacrifice a creature: Each opponent loses 2 life. Activate only once each turn.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/18.jpg" num="67">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU04 Medium flying recursion</name>
+			<text>Flying
+{3}, Sacrifice this creature: Put target instant or sorcery card from your graveyard on top of your library.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/19.jpg" num="36">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB05 Medium flying</name>
+			<text>Flying
+Whenever this creature attacks, you may exile a card from your graveyard. If you do, target opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/20.jpg" num="69">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR06 Introspective Strongarm</name>
+			<text>Trample
+Whenever you cast a noncreature spell, put a +1/+1 counter on this creature. This ability triggers only once each turn.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/21.jpg" num="102">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elephant Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR07 Medium temp menace</name>
+			<text>{1}, Sacrifice a permanent: This creature gets +2/+0 and gains menace until end of turn. Activate this ability only once each turn.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/22.jpg" num="103">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR08 Large</name>
+			<text>When this creature enters, choose one — 
+• Exile the top card of your library. Until end of turn, you may play that card.
+• Put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/23.jpg" num="104">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW09 Full Force</name>
+			<text>Full Force deals 4 damage to target attacking or blocking creature. Then if you control an attacking creature, draw a card.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/24.jpg" num="9">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW10 Pacifism</name>
+			<text>Enchant creature
+Enchanted creature can&apos;t attack or block.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/25.jpg" num="10">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU11 Bounce</name>
+			<text>Return target nonland permanent to its owner&apos;s hand. If it was attacking, draw a card.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/26.jpg" num="43">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW12 Disenchant</name>
+			<text>Destroy target artifact or enchantment. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/27.jpg" num="12">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU01 Small flash tap</name>
+			<text>Flash
+When this creature enters, tap target creature an opponent controls.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/28.jpg" num="33">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR02 Small first strike</name>
+			<text>During your turn, this creature has first strike.
+When this creature dies, you may discard a card. If you do, draw a card.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/29.jpg" num="98">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU03 Small // Loot</name>
+			<text>---
+
+Draw two cards, then discard a card. (Cast a copy of this spell only once. Cast only if this creature attacked this turn.)</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/30.jpg" num="35">TEX</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature // Instant — Technique</type>
+				<maintype>Creature</maintype>
+				<manacost>1U // 2U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU05 Avalanche Escort</name>
+			<text>Accord — As long as you&apos;ve cast both a creature and a noncreature spell this turn, this creature can&apos;t be blocked.
+Whenever this creature deals combat damage to a player, draw a card.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/31.jpg" num="37">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU06 Medium flying bounce</name>
+			<text>Flying
+Whenever you cast a noncreature spell, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/32.jpg" num="38">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU07 Large morph</name>
+			<text>Morph {4}{U}
+When this creature is turned face up, draw a card, then discard a card.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/33.jpg" num="39">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU08 Counter</name>
+			<text>Choose one — 
+• Counter target creature spell.
+• Draw two cards, then discard a card.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/34.jpg" num="40">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU09 Augur&apos;s Incense</name>
+			<text>Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.
+Ceremony—{4}{U}, Exile three other cards from your graveyard (You may cast a copy of this from your graveyard by exiling it and paying the ceremony cost.)</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/35.jpg" num="41">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU10 Frogify</name>
+			<text>Flash
+Enchant creature
+When this Aura enters, enchanted creature loses all abilities until end of turn.
+Enchanted creature has base power and toughness 1/1.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/36.jpg" num="42">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG11 Take the Upper hand</name>
+			<text>Put a +1/+1 counter on target creature you control. Then that creature fights target creature you don&apos;t control. (Each deals damage equal to its power to the other.)</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/37.jpg" num="139">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU12 Draw spell</name>
+			<text>Draw three cards, then discard a card.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/38.jpg" num="44">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR01 Death&apos;s Challenger</name>
+			<text>Haste
+Glory — When this creature dies, if it was attacking, exile the top card of your library. You may play it until the end of your next turn.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/39.jpg" num="97">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG02 Undergrowth Leopard</name>
+			<text>Vigilance
+{1}, Sacrifice this creature, Destroy target artifact or enchantment.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/40.jpg" num="130">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR03 Wandering Wildfire</name>
+			<text>Reach
+Morph {2}{R}</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/41.jpg" num="99">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR05 Unorthodox Practitioner // Strike Fear</name>
+			<text>---
+
+Target creature can&apos;t block this turn. (Cast a copy of this spell only once. Cast only if this creature attacked this turn.)</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/42.jpg" num="101">TEX</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior // Instant — Technique</type>
+				<maintype>Creature</maintype>
+				<manacost>2R // 1R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG06 Bogwort Beast</name>
+			<text>Trample
+This creature is ceremonialized with two +1/+1 counters on it.
+Ceremony—{5}{G}, Exile two other cards from your graveyard. (You may cast a copy of this from your graveyard by exiling it and paying the ceremony cost.)</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/43.jpg" num="134">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB07 Dead End Krotiq</name>
+			<text>Morph {5}{B}
+When this creature is turned face up, put a +1/+1 counter on target creature you control. It gains indestructible until end of turn. (Damage and effects that say &quot;destroy&quot; don&apos;t destroy this creature.)</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/44.jpg" num="71">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB08 Large deathtouch</name>
+			<text>Deathtouch
+Whenever this creature attacks, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/45.jpg" num="72">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR09 Shatter/trick</name>
+			<text>Choose one —
+• Destroy target artifact.
+• Target creature gets +2/+1 and gains trample until end of turn.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/46.jpg" num="105">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR10 Harnessed Lightning</name>
+			<text>Enchant creature
+When this Aura enters, it deals 3 damage to target creature an opponent controls. If that creature would die this turn, exile it instead.
+Enchanted creature gets +1/+1.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/47.jpg" num="106">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR11 Small burn</name>
+			<text>Small burn deals 2 damage to any target. If you attacked this turn, it deals 3 damage instead.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/48.jpg" num="107">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR12 Impulse draw/trick</name>
+			<text>Choose one —
+• Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+• Up to two target creatures each get +2/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/49.jpg" num="108">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB02 Scourge of the Wastes</name>
+			<text>Lifelink
+When this creature enters, mill two cards. (Put the top two cards of your library into your graveyard.)</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/50.jpg" num="66">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG03 Garden Familiar</name>
+			<text>Deathtouch
+When this creature enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/51.jpg" num="131">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Snake</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG04 Trade Route Trailblazer</name>
+			<text>Vigilance
+Heritage 3 (This enters with three +1/+1 counters. At the beginning of your combat, you may move a +1/+1 counter from this onto another target permanent you control.)
+When this creature dies, you gain 3 life.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/52.jpg" num="132">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG05 Nettlekin</name>
+			<text>Reach
+Morph {4}{G}
+When this creature is turned face up, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/53.jpg" num="133">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB06 Medium deathtouch</name>
+			<text>Deathtouch
+Glory — When this creature dies, if it was attacking, return another target creature card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/54.jpg" num="70">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG07 Captivating Stag</name>
+			<text>This spell costs {2} less to cast if you&apos;ve cast a noncreature spell this turn.
+Vigilance</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/55.jpg" num="135">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG08 Colossal Dunetreader</name>
+			<text>Heritage 2 (This enters with two +1/+1 counters. At the beginning of your combat, you may move a +1/+1 counter from this onto another target permanent you control.)
+At the beginning of combat on your turn, target creature gains trample until end of turn if it has a counter on it.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/56.jpg" num="136">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elephant</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB09 Unconditional removal</name>
+			<text>Destroy target creature. Put a +1/+1 counter on a creature you control.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/57.jpg" num="73">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB10 Conditional removal</name>
+			<text>Target creature gets -3/-3 until end of turn.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/58.jpg" num="74">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB11 By Blood and Venom</name>
+			<text>Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard. You lose 1 life.
+Ceremony—{1}{B}, Exile two other cards from your graveyard. (You may cast a copy of this from your graveyard by exiling it and paying the ceremony cost.)</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/59.jpg" num="75">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB12 Recursion</name>
+			<text>You may mill two cards. Then return up to two creature cards from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/60.jpg" num="76">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CA01 Manalith</name>
+			<text>{T}: Add one mana of any color.
+{2}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/61.jpg" num="211">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA02 Broad removal</name>
+			<text>When this artifact enters, you may discard a card. If you do, draw a card.
+{5}, {T}: Sacrifice this artifact: Destroy target nonland permanent. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/62.jpg" num="212">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA03 Hate, inefficient filter</name>
+			<text>When this creature enters, put up to one target card from a graveyard on the bottom of its owner&apos;s library.
+{2}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/63.jpg" num="213">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CA04 Flyer, mill</name>
+			<text>Flying
+When this creature enters, target player mills two cards. You gain 2 life.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/64.jpg" num="214">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA05 Fix</name>
+			<text>When this artifact enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.
+{1}, Sacrifice this artifact: Draw a card.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/65.jpg" num="215">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CL11 Evolving Wilds</name>
+			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/66.jpg" num="234">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL01 Tranquil Cove</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {U}.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/67.jpg" num="224">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CZ01 Reclaimer of Tradition</name>
+			<text>When this creature enters, put up to one target creature card from your graveyard on top of your library.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/68.jpg" num="161">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2WBG</manacost>
+				<cmc>5</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CZ02 Carrier of Wind</name>
+			<text>Flying
+When this creature enters, target creature you control gains flying until end of turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/69.jpg" num="162">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2URW</manacost>
+				<cmc>5</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CZ04 Unyielding Hordemate</name>
+			<text>When this creature enters, until end of turn, another target creature you control gets +2/+0 and gains &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control.&quot;
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/70.jpg" num="164">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2RWB</manacost>
+				<cmc>5</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CZ05 Melodic Storyteller</name>
+			<text>When this creature enters, put up to one target noncreature, nonland card from your graveyard on top of your library.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/71.jpg" num="165">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>2GUR</manacost>
+				<cmc>5</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CL02 Dismal Backwater</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {U} or {B}.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/72.jpg" num="225">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL03 Bloodfell Caves</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {B} or {R}.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/73.jpg" num="226">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL04 Rugged Highlands</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/74.jpg" num="227">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL05 Blossoming Sands</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {G} or {W}.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/75.jpg" num="228">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL06 Scoured Barrens</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/76.jpg" num="229">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL07 Swiftwater Cliffs</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {U} or {R}.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/77.jpg" num="230">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL08 Jungle Hollow</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {B} or {G}.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/78.jpg" num="231">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL09 Wind-Scarred Crag</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {W}.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/79.jpg" num="232">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL10 Thornwood Falls</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {G} or {U}.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/80.jpg" num="233">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL01 Sandsteppe Citadel</name>
+			<text>This land enters tapped.
+{T}: Add {W}, {B}, or {G}.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/81.jpg" num="240">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WBG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL02 Opulent Palace</name>
+			<text>This land enters tapped.
+{T}: Add {B}, {G}, or {U}.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/82.jpg" num="241">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UBG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL03 Nomad Outpost</name>
+			<text>This land enters tapped.
+{T}: Add {R}, {W}, or {B}.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/83.jpg" num="242">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WBR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL04 Mystic Monastery</name>
+			<text>This land enters tapped.
+{T}: Add {U}, {R}, or {W}.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/84.jpg" num="243">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL05 Frontier Bivouac</name>
+			<text>This land enters tapped.
+{T}: Add {G}, {U}, or {R}.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/85.jpg" num="244">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>URG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UA01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/86.jpg" num="219">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UA02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/87.jpg" num="220">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UA03</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/88.jpg" num="221">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UA04</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/89.jpg" num="222">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UA05</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/90.jpg" num="223">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UZ01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/91.jpg" num="191">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UZ02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/92.jpg" num="192">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UZ03</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/93.jpg" num="193">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UZ04</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/94.jpg" num="194">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UZ05</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/95.jpg" num="195">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UZ06</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/96.jpg" num="196">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UZ07</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/97.jpg" num="197">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UZ08</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/98.jpg" num="198">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UZ09</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/99.jpg" num="199">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UZ10</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/100.jpg" num="200">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UZ11</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/101.jpg" num="201">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>WBG</manacost>
+				<cmc>3</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UZ12</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/102.jpg" num="202">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>WBG</manacost>
+				<cmc>3</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UZ13</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/103.jpg" num="203">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>URW</manacost>
+				<cmc>3</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UZ14</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/104.jpg" num="204">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>URW</manacost>
+				<cmc>3</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UZ15</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/105.jpg" num="205">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>BGU</manacost>
+				<cmc>3</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UZ16</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/106.jpg" num="206">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>BGU</manacost>
+				<cmc>3</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UZ17</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/107.jpg" num="207">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>RWB</manacost>
+				<cmc>3</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UZ18</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/108.jpg" num="208">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>RWB</manacost>
+				<cmc>3</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UZ19</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/109.jpg" num="209">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>GUR</manacost>
+				<cmc>3</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UZ20</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/110.jpg" num="210">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>GUR</manacost>
+				<cmc>3</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/111.jpg" num="19">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/112.jpg" num="20">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW03</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/113.jpg" num="21">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW04</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/114.jpg" num="22">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW05</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/115.jpg" num="23">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW06</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/116.jpg" num="24">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW07</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/117.jpg" num="25">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW08</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/118.jpg" num="26">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW09</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/119.jpg" num="27">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW10</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/120.jpg" num="28">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW11</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/121.jpg" num="29">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW12</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/122.jpg" num="30">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW13</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/123.jpg" num="31">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW14</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/124.jpg" num="32">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/125.jpg" num="51">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/126.jpg" num="52">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU03</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/127.jpg" num="53">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU04</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/128.jpg" num="54">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU05</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/129.jpg" num="55">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU06</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/130.jpg" num="56">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU07</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/131.jpg" num="57">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU08</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/132.jpg" num="58">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU09</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/133.jpg" num="59">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU10</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/134.jpg" num="60">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU11</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/135.jpg" num="61">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU12</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/136.jpg" num="62">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU13</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/137.jpg" num="63">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU14</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/138.jpg" num="64">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/139.jpg" num="83">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/140.jpg" num="84">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB03</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/141.jpg" num="85">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB04</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/142.jpg" num="86">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB05</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/143.jpg" num="87">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB06</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/144.jpg" num="88">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB07</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/145.jpg" num="89">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB08</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/146.jpg" num="90">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB09</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/147.jpg" num="91">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB10</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/148.jpg" num="92">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB11</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/149.jpg" num="93">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB12</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/150.jpg" num="94">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB13</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/151.jpg" num="95">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB14</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/152.jpg" num="96">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/153.jpg" num="115">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/154.jpg" num="116">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR03</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/155.jpg" num="117">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR04</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/156.jpg" num="118">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR05</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/157.jpg" num="119">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR06</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/158.jpg" num="120">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR07</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/159.jpg" num="121">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR08</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/160.jpg" num="122">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR09</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/161.jpg" num="123">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR10</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/162.jpg" num="124">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR11</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/163.jpg" num="125">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR12</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/164.jpg" num="126">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR13</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/165.jpg" num="127">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR14</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/166.jpg" num="128">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/167.jpg" num="147">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/168.jpg" num="148">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG03</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/169.jpg" num="149">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG04</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/170.jpg" num="150">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG05</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/171.jpg" num="151">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG06</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/172.jpg" num="152">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG07</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/173.jpg" num="153">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG08</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/174.jpg" num="154">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG09</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/175.jpg" num="155">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG10</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/176.jpg" num="156">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG11</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/177.jpg" num="157">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG12</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/178.jpg" num="158">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG13</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/179.jpg" num="159">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG14</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/180.jpg" num="160">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RZ01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/181.jpg" num="166">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RZ02</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/182.jpg" num="167">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RZ03</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/183.jpg" num="168">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RZ04</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/184.jpg" num="169">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RZ05</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/185.jpg" num="170">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RZ06</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/186.jpg" num="171">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>WBG</manacost>
+				<cmc>3</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RZ07</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/187.jpg" num="172">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>WBG</manacost>
+				<cmc>3</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RZ08</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/188.jpg" num="173">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>WBG</manacost>
+				<cmc>3</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RZ09</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/189.jpg" num="174">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>WBG</manacost>
+				<cmc>3</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RZ10</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/190.jpg" num="175">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>URW</manacost>
+				<cmc>3</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RZ11</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/191.jpg" num="176">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>URW</manacost>
+				<cmc>3</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RZ12</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/192.jpg" num="177">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>URW</manacost>
+				<cmc>3</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RZ13</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/193.jpg" num="178">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>URW</manacost>
+				<cmc>3</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RZ14</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/194.jpg" num="179">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>BGU</manacost>
+				<cmc>3</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RZ15</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/195.jpg" num="180">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>BGU</manacost>
+				<cmc>3</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RZ16</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/196.jpg" num="181">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>BGU</manacost>
+				<cmc>3</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RZ17</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/197.jpg" num="182">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>BGU</manacost>
+				<cmc>3</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RZ18</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/198.jpg" num="183">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>RWB</manacost>
+				<cmc>3</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RZ19</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/199.jpg" num="184">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>RWB</manacost>
+				<cmc>3</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RZ20</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/200.jpg" num="185">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>RWB</manacost>
+				<cmc>3</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RZ21</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/201.jpg" num="186">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>RWB</manacost>
+				<cmc>3</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RZ22</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/202.jpg" num="187">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>GUR</manacost>
+				<cmc>3</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RZ23</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/203.jpg" num="188">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>GUR</manacost>
+				<cmc>3</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RZ24</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/204.jpg" num="189">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>GUR</manacost>
+				<cmc>3</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RZ25</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/205.jpg" num="190">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>GUR</manacost>
+				<cmc>3</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RL01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/206.jpg" num="235">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>RL02</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/207.jpg" num="236">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>RL03</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/208.jpg" num="237">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>RL04</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/209.jpg" num="238">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>RL05</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/210.jpg" num="239">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>RW01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/211.jpg" num="13">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RW02</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/212.jpg" num="14">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RW03</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/213.jpg" num="15">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RW04</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/214.jpg" num="16">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RW05</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/215.jpg" num="17">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RW06</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/216.jpg" num="18">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RU02</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/217.jpg" num="46">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RU03</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/218.jpg" num="47">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RU04</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/219.jpg" num="48">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RU05</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/220.jpg" num="49">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RU06</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/221.jpg" num="50">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RB01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/222.jpg" num="77">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RB02</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/223.jpg" num="78">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RB03</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/224.jpg" num="79">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RB04</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/225.jpg" num="80">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RB05</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/226.jpg" num="81">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RB06</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/227.jpg" num="82">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RR01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/228.jpg" num="109">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RR02</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/229.jpg" num="110">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RR03</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/230.jpg" num="111">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RR04</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/231.jpg" num="112">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RR05</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/232.jpg" num="113">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RR06</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/233.jpg" num="114">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RG01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/234.jpg" num="141">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RG02</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/235.jpg" num="142">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RG03</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/236.jpg" num="143">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RG04</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/237.jpg" num="144">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RG05</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/238.jpg" num="145">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RG06</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/239.jpg" num="146">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RA01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/240.jpg" num="216">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RA02</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/241.jpg" num="217">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RA03</name>
+			<text></text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/242.jpg" num="218">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CZ03 Winding Sage</name>
+			<text>Deathtouch
+When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/243.jpg" num="163">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Snake Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2BGU</manacost>
+				<cmc>5</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
