@@ -1,4 +1,199 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+CU06 Medium flying added.
+CU07 Marang River Horror added.
+CB08 Wasteland Marauder added.
+
+RU01 Avenform Guide removed.
+CU06 Medium flying bounce removed.
+CU07 Large morph removed.
+CB08 Large deathtouch removed.
+UL01 Sandsteppe Citadel removed.
+UL02 Opulent Palace removed.
+UL03 Nomad Outpost removed.
+UL04 Mystic Monastery removed.
+UL05 Frontier Bivouac removed.
+UA01 removed.
+UA02 removed.
+UA03 removed.
+UA04 removed.
+UA05 removed.
+UZ01 removed.
+UZ02 removed.
+UZ03 removed.
+UZ04 removed.
+UZ05 removed.
+UZ06 removed.
+UZ07 removed.
+UZ08 removed.
+UZ09 removed.
+UZ10 removed.
+UZ11 removed.
+UZ12 removed.
+UZ13 removed.
+UZ14 removed.
+UZ15 removed.
+UZ16 removed.
+UZ17 removed.
+UZ18 removed.
+UZ19 removed.
+UZ20 removed.
+UW01 removed.
+UW02 removed.
+UW03 removed.
+UW04 removed.
+UW05 removed.
+UW06 removed.
+UW07 removed.
+UW08 removed.
+UW09 removed.
+UW10 removed.
+UW11 removed.
+UW12 removed.
+UW13 removed.
+UW14 removed.
+UU01 removed.
+UU02 removed.
+UU03 removed.
+UU04 removed.
+UU05 removed.
+UU06 removed.
+UU07 removed.
+UU08 removed.
+UU09 removed.
+UU10 removed.
+UU11 removed.
+UU12 removed.
+UU13 removed.
+UU14 removed.
+UB01 removed.
+UB02 removed.
+UB03 removed.
+UB04 removed.
+UB05 removed.
+UB06 removed.
+UB07 removed.
+UB08 removed.
+UB09 removed.
+UB10 removed.
+UB11 removed.
+UB12 removed.
+UB13 removed.
+UB14 removed.
+UR01 removed.
+UR02 removed.
+UR03 removed.
+UR04 removed.
+UR05 removed.
+UR06 removed.
+UR07 removed.
+UR08 removed.
+UR09 removed.
+UR10 removed.
+UR11 removed.
+UR12 removed.
+UR13 removed.
+UR14 removed.
+UG01 removed.
+UG02 removed.
+UG03 removed.
+UG04 removed.
+UG05 removed.
+UG06 removed.
+UG07 removed.
+UG08 removed.
+UG09 removed.
+UG10 removed.
+UG11 removed.
+UG12 removed.
+UG13 removed.
+UG14 removed.
+RZ01 removed.
+RZ02 removed.
+RZ03 removed.
+RZ04 removed.
+RZ05 removed.
+RZ06 removed.
+RZ07 removed.
+RZ08 removed.
+RZ09 removed.
+RZ10 removed.
+RZ11 removed.
+RZ12 removed.
+RZ13 removed.
+RZ14 removed.
+RZ15 removed.
+RZ16 removed.
+RZ17 removed.
+RZ18 removed.
+RZ19 removed.
+RZ20 removed.
+RZ21 removed.
+RZ22 removed.
+RZ23 removed.
+RZ24 removed.
+RZ25 removed.
+RL01 removed.
+RL02 removed.
+RL03 removed.
+RL04 removed.
+RL05 removed.
+RW01 removed.
+RW02 removed.
+RW03 removed.
+RW04 removed.
+RW05 removed.
+RW06 removed.
+RU02 removed.
+RU03 removed.
+RU04 removed.
+RU05 removed.
+RU06 removed.
+RB01 removed.
+RB02 removed.
+RB03 removed.
+RB04 removed.
+RB05 removed.
+RB06 removed.
+RR01 removed.
+RR02 removed.
+RR03 removed.
+RR04 removed.
+RR05 removed.
+RR06 removed.
+RG01 removed.
+RG02 removed.
+RG03 removed.
+RG04 removed.
+RG05 removed.
+RG06 removed.
+RA01 removed.
+RA02 removed.
+RA03 removed.
+
+CB03 Small sac
+type: Creature => Creature — Zombie Warrior
+
+CB05 Medium flying
+type: Creature => Creature — Zombie Bird
+
+CU03 Small
+type: Creature => Creature — Human Monk
+
+CU10 Frogify
+cost: {U} => {1}{U}
+rules_text: Flash
+Enchant creature
+When this Aura enters, enchanted creature loses all abilities until end of turn.
+Enchanted creature has base power and toughness 1/1. => Flash
+Enchant creature
+Enchanted creature loses all abilities and has base power and toughness 1/1.
+
+CU12 Draw spell
+
+
+VERSION 2 CHANGELOG
 ====================
 
 CR09 Shatter, trick added.
