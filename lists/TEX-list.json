@@ -1144,7 +1144,7 @@
         "position": "57"
     },
     {
-        "card_name": "CR09 Shatter/trick",
+        "card_name": "CR09 Shatter, trick",
         "number": 105,
         "shape": "normal",
         "set": "TEX",
@@ -1264,7 +1264,7 @@
         "position": "60"
     },
     {
-        "card_name": "CR12 Impulse draw/trick",
+        "card_name": "CR12 Impulse draw, trick",
         "number": 108,
         "shape": "normal",
         "set": "TEX",

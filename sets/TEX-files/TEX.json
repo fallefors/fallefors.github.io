@@ -1010,7 +1010,7 @@
             "notes": ""
         },
         {
-            "card_name": "CR09 Shatter/trick",
+            "card_name": "CR09 Shatter, trick",
             "color": "R",
             "rarity": "common",
             "type": "Instant",
@@ -1073,7 +1073,7 @@
             "notes": ""
         },
         {
-            "card_name": "CR12 Impulse draw/trick",
+            "card_name": "CR12 Impulse draw, trick",
             "color": "R",
             "rarity": "common",
             "type": "Instant",
@@ -1521,7 +1521,7 @@
             "number": 164,
             "color_identity": "WBR",
             "cost": "{2}{R}{W}{B}",
-            "rules_text": "When this creature enters, until end of turn, another target creature you control gets +2/+0 and gains \u201cWhen this creature dies, return it to the battlefield tapped under its owner's control.\u201d\nCycling {3} [i]({3}, Discard this card: Draw a card.)[/i]",
+            "rules_text": "When this creature enters, until end of turn, another target creature you control gets +2/+0 and gains \u201cWhen this creature dies, return it to the battlefield tapped under its owner's control.\u201d\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/3",
             "special_text": "",
@@ -1542,7 +1542,7 @@
             "number": 165,
             "color_identity": "URG",
             "cost": "{2}{G}{U}{R}",
-            "rules_text": "When this creature enters, put up to one target noncreature, nonland card from your graveyard on top of your library.\nCycling {3} [i]({3}, Discard this card: Draw a card.)[/i]",
+            "rules_text": "When this creature enters, put up to one target noncreature, nonland card from your graveyard on top of your library.\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -5168,5 +5168,5 @@
             "notes": ""
         }
     ],
-    "version": 1
+    "version": 2
 }

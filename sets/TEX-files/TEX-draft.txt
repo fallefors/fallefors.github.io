@@ -461,7 +461,7 @@
 			}
 		},
 		{
-			"name": "CR09 Shatter/trick",
+			"name": "CR09 Shatter, trick",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
@@ -491,7 +491,7 @@
 			}
 		},
 		{
-			"name": "CR12 Impulse draw/trick",
+			"name": "CR12 Impulse draw, trick",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
@@ -2653,10 +2653,10 @@
 	8 CG06 Bogwort Beast
 	8 CB07 Dead End Krotiq
 	8 CB08 Large deathtouch
-	8 CR09 Shatter/trick
+	8 CR09 Shatter, trick
 	8 CR10 Harnessed Lightning
 	8 CR11 Small burn
-	8 CR12 Impulse draw/trick
+	8 CR12 Impulse draw, trick
 	8 CB02 Scourge of the Wastes
 	8 CG03 Garden Familiar
 	8 CG04 Trade Route Trailblazer
@@ -2735,10 +2735,10 @@
 	8 CG06 Bogwort Beast
 	8 CB07 Dead End Krotiq
 	8 CB08 Large deathtouch
-	8 CR09 Shatter/trick
+	8 CR09 Shatter, trick
 	8 CR10 Harnessed Lightning
 	8 CR11 Small burn
-	8 CR12 Impulse draw/trick
+	8 CR12 Impulse draw, trick
 	8 CB02 Scourge of the Wastes
 	8 CG03 Garden Familiar
 	8 CG04 Trade Route Trailblazer
@@ -2818,10 +2818,10 @@
 	12 CG06 Bogwort Beast
 	12 CB07 Dead End Krotiq
 	12 CB08 Large deathtouch
-	12 CR09 Shatter/trick
+	12 CR09 Shatter, trick
 	12 CR10 Harnessed Lightning
 	12 CR11 Small burn
-	12 CR12 Impulse draw/trick
+	12 CR12 Impulse draw, trick
 	12 CB02 Scourge of the Wastes
 	12 CG03 Garden Familiar
 	12 CG04 Trade Route Trailblazer
@@ -3063,10 +3063,10 @@
 	6 CG06 Bogwort Beast
 	6 CB07 Dead End Krotiq
 	6 CB08 Large deathtouch
-	6 CR09 Shatter/trick
+	6 CR09 Shatter, trick
 	6 CR10 Harnessed Lightning
 	6 CR11 Small burn
-	6 CR12 Impulse draw/trick
+	6 CR12 Impulse draw, trick
 	6 CB02 Scourge of the Wastes
 	6 CG03 Garden Familiar
 	6 CG04 Trade Route Trailblazer

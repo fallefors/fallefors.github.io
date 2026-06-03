@@ -1,4 +1,24 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+CR09 Shatter, trick added.
+CR12 Impulse draw, trick added.
+
+CR09 Shatter/trick removed.
+CR12 Impulse draw/trick removed.
+
+CZ04 Unyielding Hordemate
+rules_text: When this creature enters, until end of turn, another target creature you control gets +2/+0 and gains “When this creature dies, return it to the battlefield tapped under its owner's control.”
+Cycling {3} [i]({3}, Discard this card: Draw a card.)[/i] => When this creature enters, until end of turn, another target creature you control gets +2/+0 and gains “When this creature dies, return it to the battlefield tapped under its owner's control.”
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+CZ05 Melodic Storyteller
+rules_text: When this creature enters, put up to one target noncreature, nonland card from your graveyard on top of your library.
+Cycling {3} [i]({3}, Discard this card: Draw a card.)[/i] => When this creature enters, put up to one target noncreature, nonland card from your graveyard on top of your library.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

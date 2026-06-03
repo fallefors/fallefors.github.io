@@ -5,7 +5,7 @@
 			<name>TEX</name>
 			<longname>Tarkir: Extinction</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-01</releasedate>
+			<releasedate>2026-06-03</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -825,7 +825,7 @@ Whenever this creature attacks, surveil 1. (Look at the top card of your library
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CR09 Shatter/trick</name>
+			<name>CR09 Shatter, trick</name>
 			<text>Choose one —
 • Destroy target artifact.
 • Target creature gets +2/+1 and gains trample until end of turn.</text>
@@ -877,7 +877,7 @@ Enchanted creature gets +1/+1.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CR12 Impulse draw/trick</name>
+			<name>CR12 Impulse draw, trick</name>
 			<text>Choose one —
 • Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
 • Up to two target creatures each get +2/+1 until end of turn.</text>
@@ -1235,7 +1235,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>CZ04 Unyielding Hordemate</name>
 			<text>When this creature enters, until end of turn, another target creature you control gets +2/+0 and gains &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control.&quot;
-Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/70.jpg" num="164">TEX</set>
 			<prop>
 				<layout>normal</layout>
@@ -1253,7 +1253,7 @@ Cycling {3} ({3}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>CZ05 Melodic Storyteller</name>
 			<text>When this creature enters, put up to one target noncreature, nonland card from your graveyard on top of your library.
-Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/71.jpg" num="165">TEX</set>
 			<prop>
 				<layout>normal</layout>
