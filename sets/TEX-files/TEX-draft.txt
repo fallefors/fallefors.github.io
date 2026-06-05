@@ -1,0 +1,1144 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "CG01 Guardian of the Wild",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "CR04 Qal Sisma Scavengers",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Ape",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "CB01 Afterlife Aspirant",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "CW02 Emesh Cadet",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "CB04 Salt Road Escort",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Orc Scout",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "CW06 Respected Strike Leader",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "CW01 Small morph, pump team",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "CW03 Coordinated Students",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Monk",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "CW04 Vanguard Gallant",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "CW05 Citadel Sentry",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird Soldier",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "CW07 Debilitating Assault",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "CW08 Medium Flying, hate",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "CG09 Awaited Return",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "CG10 Lavish Dance",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "CW11 Superior Form",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "CG12 Trick",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "CU02 Aspect of Winter",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "CB03 Small sac",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Warrior",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "CU04 Medium flying recursion",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird Druid",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "CB05 Medium flying",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie Bird",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "CR06 Introspective Strongarm",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Elephant Warrior",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "CR07 Medium temp menace",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "CR08 Large",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "CW09 Full Force",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "CW10 Pacifism",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "CU11 Bounce",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "CW12 Disenchant",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "CU01 Small flash tap",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "CR02 Small first strike",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "CU03 Small",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Monk",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "CU05 Avalanche Escort",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "CU06 Medium flying",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Kirin",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "CU07 Marang River Horror",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Horror",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "CU08 Counter",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "CU09 Augur's Incense",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "CU10 Frogify",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "CG11 Take the Upper hand",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "CU12 Draw spell",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "CR01 Death's Challenger",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "CG02 Undergrowth Leopard",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Cat",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "CR03 Wandering Wildfire",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "CR05 Unorthodox Practitioner",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "CG06 Bogwort Beast",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "CB07 Dead End Krotiq",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "CB08 Wasteland Marauder",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "CR09 Shatter, trick",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "CR10 Harnessed Lightning",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "CR11 Small burn",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "CR12 Impulse draw, trick",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "CB02 Scourge of the Wastes",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "CG03 Garden Familiar",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Snake",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "CG04 Trade Route Trailblazer",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "CG05 Nettlekin",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "CB06 Medium deathtouch",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "CG07 Captivating Stag",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Elk",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "CG08 Colossal Dunetreader",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Elephant",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "CB09 Unconditional removal",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "CB10 Conditional removal",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "CB11 By Blood and Venom",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "CB12 Recursion",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "CA01 Manalith",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "CA02 Broad removal",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "CA03 Hate, inefficient filter",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "CA04 Flyer, mill",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "CA05 Fix",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "CL11 Evolving Wilds",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "CL01 Tranquil Cove",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "CZ01 Reclaimer of Tradition",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{B}{G}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "CZ02 Carrier of Wind",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{R}{W}",
+			"type": "Creature — Bird Warrior",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "CZ04 Unyielding Hordemate",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{W}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "CZ05 Melodic Storyteller",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{U}{R}",
+			"type": "Creature — Human Bard",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "CL02 Dismal Backwater",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "CL03 Bloodfell Caves",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "CL04 Rugged Highlands",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "CL05 Blossoming Sands",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "CL06 Scoured Barrens",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "CL07 Swiftwater Cliffs",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "CL08 Jungle Hollow",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "CL09 Wind-Scarred Crag",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "CL10 Thornwood Falls",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "CZ03 Winding Sage",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{G}{U}",
+			"type": "Creature — Snake Wizard",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/243.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+[uncommon(3)]
+[common(6)]
+	8 CG01 Guardian of the Wild
+	8 CR04 Qal Sisma Scavengers
+	8 CB01 Afterlife Aspirant
+	8 CW02 Emesh Cadet
+	8 CB04 Salt Road Escort
+	8 CW06 Respected Strike Leader
+	8 CW01 Small morph, pump team
+	8 CW03 Coordinated Students
+	8 CW04 Vanguard Gallant
+	8 CW05 Citadel Sentry
+	8 CW07 Debilitating Assault
+	8 CW08 Medium Flying, hate
+	8 CG09 Awaited Return
+	8 CG10 Lavish Dance
+	8 CW11 Superior Form
+	8 CG12 Trick
+	8 CU02 Aspect of Winter
+	8 CB03 Small sac
+	8 CU04 Medium flying recursion
+	8 CB05 Medium flying
+	8 CR06 Introspective Strongarm
+	8 CR07 Medium temp menace
+	8 CR08 Large
+	8 CW09 Full Force
+	8 CW10 Pacifism
+	8 CU11 Bounce
+	8 CW12 Disenchant
+	8 CU01 Small flash tap
+	8 CR02 Small first strike
+	8 CU03 Small
+	8 CU05 Avalanche Escort
+	8 CU06 Medium flying
+	8 CU07 Marang River Horror
+	8 CU08 Counter
+	8 CU09 Augur's Incense
+	8 CU10 Frogify
+	8 CG11 Take the Upper hand
+	8 CU12 Draw spell
+	8 CR01 Death's Challenger
+	8 CG02 Undergrowth Leopard
+	8 CR03 Wandering Wildfire
+	8 CR05 Unorthodox Practitioner
+	8 CG06 Bogwort Beast
+	8 CB07 Dead End Krotiq
+	8 CB08 Wasteland Marauder
+	8 CR09 Shatter, trick
+	8 CR10 Harnessed Lightning
+	8 CR11 Small burn
+	8 CR12 Impulse draw, trick
+	8 CB02 Scourge of the Wastes
+	8 CG03 Garden Familiar
+	8 CG04 Trade Route Trailblazer
+	8 CG05 Nettlekin
+	8 CB06 Medium deathtouch
+	8 CG07 Captivating Stag
+	8 CG08 Colossal Dunetreader
+	8 CB09 Unconditional removal
+	8 CB10 Conditional removal
+	8 CB11 By Blood and Venom
+	8 CB12 Recursion
+	8 CA01 Manalith
+	8 CA02 Broad removal
+	8 CA03 Hate, inefficient filter
+	8 CA04 Flyer, mill
+	8 CA05 Fix
+	8 CL11 Evolving Wilds
+	8 CL01 Tranquil Cove
+	8 CZ01 Reclaimer of Tradition
+	8 CZ02 Carrier of Wind
+	8 CZ04 Unyielding Hordemate
+	8 CZ05 Melodic Storyteller
+	8 CL02 Dismal Backwater
+	8 CL03 Bloodfell Caves
+	8 CL04 Rugged Highlands
+	8 CL05 Blossoming Sands
+	8 CL06 Scoured Barrens
+	8 CL07 Swiftwater Cliffs
+	8 CL08 Jungle Hollow
+	8 CL09 Wind-Scarred Crag
+	8 CL10 Thornwood Falls
+	8 CZ03 Winding Sage
+[common | masterpiece(1)]
+	8 CG01 Guardian of the Wild
+	8 CR04 Qal Sisma Scavengers
+	8 CB01 Afterlife Aspirant
+	8 CW02 Emesh Cadet
+	8 CB04 Salt Road Escort
+	8 CW06 Respected Strike Leader
+	8 CW01 Small morph, pump team
+	8 CW03 Coordinated Students
+	8 CW04 Vanguard Gallant
+	8 CW05 Citadel Sentry
+	8 CW07 Debilitating Assault
+	8 CW08 Medium Flying, hate
+	8 CG09 Awaited Return
+	8 CG10 Lavish Dance
+	8 CW11 Superior Form
+	8 CG12 Trick
+	8 CU02 Aspect of Winter
+	8 CB03 Small sac
+	8 CU04 Medium flying recursion
+	8 CB05 Medium flying
+	8 CR06 Introspective Strongarm
+	8 CR07 Medium temp menace
+	8 CR08 Large
+	8 CW09 Full Force
+	8 CW10 Pacifism
+	8 CU11 Bounce
+	8 CW12 Disenchant
+	8 CU01 Small flash tap
+	8 CR02 Small first strike
+	8 CU03 Small
+	8 CU05 Avalanche Escort
+	8 CU06 Medium flying
+	8 CU07 Marang River Horror
+	8 CU08 Counter
+	8 CU09 Augur's Incense
+	8 CU10 Frogify
+	8 CG11 Take the Upper hand
+	8 CU12 Draw spell
+	8 CR01 Death's Challenger
+	8 CG02 Undergrowth Leopard
+	8 CR03 Wandering Wildfire
+	8 CR05 Unorthodox Practitioner
+	8 CG06 Bogwort Beast
+	8 CB07 Dead End Krotiq
+	8 CB08 Wasteland Marauder
+	8 CR09 Shatter, trick
+	8 CR10 Harnessed Lightning
+	8 CR11 Small burn
+	8 CR12 Impulse draw, trick
+	8 CB02 Scourge of the Wastes
+	8 CG03 Garden Familiar
+	8 CG04 Trade Route Trailblazer
+	8 CG05 Nettlekin
+	8 CB06 Medium deathtouch
+	8 CG07 Captivating Stag
+	8 CG08 Colossal Dunetreader
+	8 CB09 Unconditional removal
+	8 CB10 Conditional removal
+	8 CB11 By Blood and Venom
+	8 CB12 Recursion
+	8 CA01 Manalith
+	8 CA02 Broad removal
+	8 CA03 Hate, inefficient filter
+	8 CA04 Flyer, mill
+	8 CA05 Fix
+	8 CL11 Evolving Wilds
+	8 CL01 Tranquil Cove
+	8 CZ01 Reclaimer of Tradition
+	8 CZ02 Carrier of Wind
+	8 CZ04 Unyielding Hordemate
+	8 CZ05 Melodic Storyteller
+	8 CL02 Dismal Backwater
+	8 CL03 Bloodfell Caves
+	8 CL04 Rugged Highlands
+	8 CL05 Blossoming Sands
+	8 CL06 Scoured Barrens
+	8 CL07 Swiftwater Cliffs
+	8 CL08 Jungle Hollow
+	8 CL09 Wind-Scarred Crag
+	8 CL10 Thornwood Falls
+	8 CZ03 Winding Sage
+[foil(1)]
+	12 CG01 Guardian of the Wild
+	12 CR04 Qal Sisma Scavengers
+	12 CB01 Afterlife Aspirant
+	12 CW02 Emesh Cadet
+	12 CB04 Salt Road Escort
+	12 CW06 Respected Strike Leader
+	12 CW01 Small morph, pump team
+	12 CW03 Coordinated Students
+	12 CW04 Vanguard Gallant
+	12 CW05 Citadel Sentry
+	12 CW07 Debilitating Assault
+	12 CW08 Medium Flying, hate
+	12 CG09 Awaited Return
+	12 CG10 Lavish Dance
+	12 CW11 Superior Form
+	12 CG12 Trick
+	12 CU02 Aspect of Winter
+	12 CB03 Small sac
+	12 CU04 Medium flying recursion
+	12 CB05 Medium flying
+	12 CR06 Introspective Strongarm
+	12 CR07 Medium temp menace
+	12 CR08 Large
+	12 CW09 Full Force
+	12 CW10 Pacifism
+	12 CU11 Bounce
+	12 CW12 Disenchant
+	12 CU01 Small flash tap
+	12 CR02 Small first strike
+	12 CU03 Small
+	12 CU05 Avalanche Escort
+	12 CU06 Medium flying
+	12 CU07 Marang River Horror
+	12 CU08 Counter
+	12 CU09 Augur's Incense
+	12 CU10 Frogify
+	12 CG11 Take the Upper hand
+	12 CU12 Draw spell
+	12 CR01 Death's Challenger
+	12 CG02 Undergrowth Leopard
+	12 CR03 Wandering Wildfire
+	12 CR05 Unorthodox Practitioner
+	12 CG06 Bogwort Beast
+	12 CB07 Dead End Krotiq
+	12 CB08 Wasteland Marauder
+	12 CR09 Shatter, trick
+	12 CR10 Harnessed Lightning
+	12 CR11 Small burn
+	12 CR12 Impulse draw, trick
+	12 CB02 Scourge of the Wastes
+	12 CG03 Garden Familiar
+	12 CG04 Trade Route Trailblazer
+	12 CG05 Nettlekin
+	12 CB06 Medium deathtouch
+	12 CG07 Captivating Stag
+	12 CG08 Colossal Dunetreader
+	12 CB09 Unconditional removal
+	12 CB10 Conditional removal
+	12 CB11 By Blood and Venom
+	12 CB12 Recursion
+	12 CA01 Manalith
+	12 CA02 Broad removal
+	12 CA03 Hate, inefficient filter
+	12 CA04 Flyer, mill
+	12 CA05 Fix
+	12 CL11 Evolving Wilds
+	12 CL01 Tranquil Cove
+	12 CZ01 Reclaimer of Tradition
+	12 CZ02 Carrier of Wind
+	12 CZ04 Unyielding Hordemate
+	12 CZ05 Melodic Storyteller
+	12 CL02 Dismal Backwater
+	12 CL03 Bloodfell Caves
+	12 CL04 Rugged Highlands
+	12 CL05 Blossoming Sands
+	12 CL06 Scoured Barrens
+	12 CL07 Swiftwater Cliffs
+	12 CL08 Jungle Hollow
+	12 CL09 Wind-Scarred Crag
+	12 CL10 Thornwood Falls
+	12 CZ03 Winding Sage
+[wildcard(1)]
+	6 CG01 Guardian of the Wild
+	6 CR04 Qal Sisma Scavengers
+	6 CB01 Afterlife Aspirant
+	6 CW02 Emesh Cadet
+	6 CB04 Salt Road Escort
+	6 CW06 Respected Strike Leader
+	6 CW01 Small morph, pump team
+	6 CW03 Coordinated Students
+	6 CW04 Vanguard Gallant
+	6 CW05 Citadel Sentry
+	6 CW07 Debilitating Assault
+	6 CW08 Medium Flying, hate
+	6 CG09 Awaited Return
+	6 CG10 Lavish Dance
+	6 CW11 Superior Form
+	6 CG12 Trick
+	6 CU02 Aspect of Winter
+	6 CB03 Small sac
+	6 CU04 Medium flying recursion
+	6 CB05 Medium flying
+	6 CR06 Introspective Strongarm
+	6 CR07 Medium temp menace
+	6 CR08 Large
+	6 CW09 Full Force
+	6 CW10 Pacifism
+	6 CU11 Bounce
+	6 CW12 Disenchant
+	6 CU01 Small flash tap
+	6 CR02 Small first strike
+	6 CU03 Small
+	6 CU05 Avalanche Escort
+	6 CU06 Medium flying
+	6 CU07 Marang River Horror
+	6 CU08 Counter
+	6 CU09 Augur's Incense
+	6 CU10 Frogify
+	6 CG11 Take the Upper hand
+	6 CU12 Draw spell
+	6 CR01 Death's Challenger
+	6 CG02 Undergrowth Leopard
+	6 CR03 Wandering Wildfire
+	6 CR05 Unorthodox Practitioner
+	6 CG06 Bogwort Beast
+	6 CB07 Dead End Krotiq
+	6 CB08 Wasteland Marauder
+	6 CR09 Shatter, trick
+	6 CR10 Harnessed Lightning
+	6 CR11 Small burn
+	6 CR12 Impulse draw, trick
+	6 CB02 Scourge of the Wastes
+	6 CG03 Garden Familiar
+	6 CG04 Trade Route Trailblazer
+	6 CG05 Nettlekin
+	6 CB06 Medium deathtouch
+	6 CG07 Captivating Stag
+	6 CG08 Colossal Dunetreader
+	6 CB09 Unconditional removal
+	6 CB10 Conditional removal
+	6 CB11 By Blood and Venom
+	6 CB12 Recursion
+	6 CA01 Manalith
+	6 CA02 Broad removal
+	6 CA03 Hate, inefficient filter
+	6 CA04 Flyer, mill
+	6 CA05 Fix
+	6 CL11 Evolving Wilds
+	6 CL01 Tranquil Cove
+	6 CZ01 Reclaimer of Tradition
+	6 CZ02 Carrier of Wind
+	6 CZ04 Unyielding Hordemate
+	6 CZ05 Melodic Storyteller
+	6 CL02 Dismal Backwater
+	6 CL03 Bloodfell Caves
+	6 CL04 Rugged Highlands
+	6 CL05 Blossoming Sands
+	6 CL06 Scoured Barrens
+	6 CL07 Swiftwater Cliffs
+	6 CL08 Jungle Hollow
+	6 CL09 Wind-Scarred Crag
+	6 CL10 Thornwood Falls
+	6 CZ03 Winding Sage
