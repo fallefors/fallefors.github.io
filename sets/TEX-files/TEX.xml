@@ -117,8 +117,9 @@ Glory — When this creature dies, create a 1/1 red Warrior creature token. If i
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CW01 Small morph, pump team</name>
-			<text>Morph {4}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+			<name>CW01 Hidden Ambusher</name>
+			<text>{2}, {T}: Tap target creature.
+Morph {4}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
 When this creature is turned face up, put three +1/+1 counters on it.</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/7.jpg" num="1">TEX</set>
 			<prop>

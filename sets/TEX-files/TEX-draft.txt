@@ -61,7 +61,7 @@
 			}
 		},
 		{
-			"name": "CW01 Small morph, pump team",
+			"name": "CW01 Hidden Ambusher",
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Warrior",
@@ -821,7 +821,7 @@
 	8 CW02 Emesh Cadet
 	8 CB04 Salt Road Escort
 	8 CW06 Respected Strike Leader
-	8 CW01 Small morph, pump team
+	8 CW01 Hidden Ambusher
 	8 CW03 Coordinated Students
 	8 CW04 Vanguard Gallant
 	8 CW05 Citadel Sentry
@@ -903,7 +903,7 @@
 	8 CW02 Emesh Cadet
 	8 CB04 Salt Road Escort
 	8 CW06 Respected Strike Leader
-	8 CW01 Small morph, pump team
+	8 CW01 Hidden Ambusher
 	8 CW03 Coordinated Students
 	8 CW04 Vanguard Gallant
 	8 CW05 Citadel Sentry
@@ -985,7 +985,7 @@
 	12 CW02 Emesh Cadet
 	12 CB04 Salt Road Escort
 	12 CW06 Respected Strike Leader
-	12 CW01 Small morph, pump team
+	12 CW01 Hidden Ambusher
 	12 CW03 Coordinated Students
 	12 CW04 Vanguard Gallant
 	12 CW05 Citadel Sentry
@@ -1067,7 +1067,7 @@
 	6 CW02 Emesh Cadet
 	6 CB04 Salt Road Escort
 	6 CW06 Respected Strike Leader
-	6 CW01 Small morph, pump team
+	6 CW01 Hidden Ambusher
 	6 CW03 Coordinated Students
 	6 CW04 Vanguard Gallant
 	6 CW05 Citadel Sentry

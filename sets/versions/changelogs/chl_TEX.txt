@@ -1,4 +1,22 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+CW01 Hidden Ambusher added.
+
+CW01 Small morph, pump team removed.
+
+CU12 Draw spell
+
+CR10 Harnessed Lightning
+
+CL06 Scoured Barrens
+
+CL09 Wind-Scarred Crag
+
+CZ03 Winding Sage
+
+
+VERSION 2 CHANGELOG
 ====================
 
 No changes.
