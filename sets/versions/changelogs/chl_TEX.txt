@@ -1,4 +1,33 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+CR07 Ruthless Slayer added.
+CR08 Thunderstep Warmonger added.
+CR09 Nature's Ferocity added.
+CR12 Channel the Storm added.
+CB10 Chokehold added.
+
+CR07 Medium temp menace removed.
+CR08 Large removed.
+CR09 Shatter, trick removed.
+CR12 Impulse draw, trick removed.
+CB10 Conditional removal removed.
+
+CG12 Trick
+
+CR06 Introspective Strongarm
+pt: 3/4 => 4/3
+
+CR02 Small first strike
+type: Creature => Creature — Human Monk
+
+CB09 Unconditional removal
+
+CA05 Fix
+cost: {2} => {1}
+
+
+VERSION 3 CHANGELOG
 ====================
 
 CW01 Hidden Ambusher added.

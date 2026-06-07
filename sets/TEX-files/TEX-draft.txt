@@ -211,20 +211,20 @@
 			}
 		},
 		{
-			"name": "CR07 Medium temp menace",
+			"name": "CR07 Ruthless Slayer",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
-			"type": "Creature",
+			"type": "Creature — Orc Warrior",
 			"collector_number": "103",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/22.jpg"
 			}
 		},
 		{
-			"name": "CR08 Large",
+			"name": "CR08 Thunderstep Warmonger",
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
-			"type": "Creature",
+			"type": "Creature — Ogre Warrior",
 			"collector_number": "104",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/23.jpg"
@@ -284,7 +284,7 @@
 			"name": "CR02 Small first strike",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature",
+			"type": "Creature — Human Monk",
 			"collector_number": "98",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/29.jpg"
@@ -451,7 +451,7 @@
 			}
 		},
 		{
-			"name": "CR09 Shatter, trick",
+			"name": "CR09 Nature's Ferocity",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
@@ -481,7 +481,7 @@
 			}
 		},
 		{
-			"name": "CR12 Impulse draw, trick",
+			"name": "CR12 Channel the Storm",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
@@ -571,7 +571,7 @@
 			}
 		},
 		{
-			"name": "CB10 Conditional removal",
+			"name": "CB10 Chokehold",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
@@ -643,7 +643,7 @@
 		{
 			"name": "CA05 Fix",
 			"rarity": "common",
-			"mana_cost": "{2}",
+			"mana_cost": "{1}",
 			"type": "Artifact",
 			"collector_number": "215",
 			"image_uris": {
@@ -836,8 +836,8 @@
 	8 CU04 Medium flying recursion
 	8 CB05 Medium flying
 	8 CR06 Introspective Strongarm
-	8 CR07 Medium temp menace
-	8 CR08 Large
+	8 CR07 Ruthless Slayer
+	8 CR08 Thunderstep Warmonger
 	8 CW09 Full Force
 	8 CW10 Pacifism
 	8 CU11 Bounce
@@ -860,10 +860,10 @@
 	8 CG06 Bogwort Beast
 	8 CB07 Dead End Krotiq
 	8 CB08 Wasteland Marauder
-	8 CR09 Shatter, trick
+	8 CR09 Nature's Ferocity
 	8 CR10 Harnessed Lightning
 	8 CR11 Small burn
-	8 CR12 Impulse draw, trick
+	8 CR12 Channel the Storm
 	8 CB02 Scourge of the Wastes
 	8 CG03 Garden Familiar
 	8 CG04 Trade Route Trailblazer
@@ -872,7 +872,7 @@
 	8 CG07 Captivating Stag
 	8 CG08 Colossal Dunetreader
 	8 CB09 Unconditional removal
-	8 CB10 Conditional removal
+	8 CB10 Chokehold
 	8 CB11 By Blood and Venom
 	8 CB12 Recursion
 	8 CA01 Manalith
@@ -918,8 +918,8 @@
 	8 CU04 Medium flying recursion
 	8 CB05 Medium flying
 	8 CR06 Introspective Strongarm
-	8 CR07 Medium temp menace
-	8 CR08 Large
+	8 CR07 Ruthless Slayer
+	8 CR08 Thunderstep Warmonger
 	8 CW09 Full Force
 	8 CW10 Pacifism
 	8 CU11 Bounce
@@ -942,10 +942,10 @@
 	8 CG06 Bogwort Beast
 	8 CB07 Dead End Krotiq
 	8 CB08 Wasteland Marauder
-	8 CR09 Shatter, trick
+	8 CR09 Nature's Ferocity
 	8 CR10 Harnessed Lightning
 	8 CR11 Small burn
-	8 CR12 Impulse draw, trick
+	8 CR12 Channel the Storm
 	8 CB02 Scourge of the Wastes
 	8 CG03 Garden Familiar
 	8 CG04 Trade Route Trailblazer
@@ -954,7 +954,7 @@
 	8 CG07 Captivating Stag
 	8 CG08 Colossal Dunetreader
 	8 CB09 Unconditional removal
-	8 CB10 Conditional removal
+	8 CB10 Chokehold
 	8 CB11 By Blood and Venom
 	8 CB12 Recursion
 	8 CA01 Manalith
@@ -1000,8 +1000,8 @@
 	12 CU04 Medium flying recursion
 	12 CB05 Medium flying
 	12 CR06 Introspective Strongarm
-	12 CR07 Medium temp menace
-	12 CR08 Large
+	12 CR07 Ruthless Slayer
+	12 CR08 Thunderstep Warmonger
 	12 CW09 Full Force
 	12 CW10 Pacifism
 	12 CU11 Bounce
@@ -1024,10 +1024,10 @@
 	12 CG06 Bogwort Beast
 	12 CB07 Dead End Krotiq
 	12 CB08 Wasteland Marauder
-	12 CR09 Shatter, trick
+	12 CR09 Nature's Ferocity
 	12 CR10 Harnessed Lightning
 	12 CR11 Small burn
-	12 CR12 Impulse draw, trick
+	12 CR12 Channel the Storm
 	12 CB02 Scourge of the Wastes
 	12 CG03 Garden Familiar
 	12 CG04 Trade Route Trailblazer
@@ -1036,7 +1036,7 @@
 	12 CG07 Captivating Stag
 	12 CG08 Colossal Dunetreader
 	12 CB09 Unconditional removal
-	12 CB10 Conditional removal
+	12 CB10 Chokehold
 	12 CB11 By Blood and Venom
 	12 CB12 Recursion
 	12 CA01 Manalith
@@ -1082,8 +1082,8 @@
 	6 CU04 Medium flying recursion
 	6 CB05 Medium flying
 	6 CR06 Introspective Strongarm
-	6 CR07 Medium temp menace
-	6 CR08 Large
+	6 CR07 Ruthless Slayer
+	6 CR08 Thunderstep Warmonger
 	6 CW09 Full Force
 	6 CW10 Pacifism
 	6 CU11 Bounce
@@ -1106,10 +1106,10 @@
 	6 CG06 Bogwort Beast
 	6 CB07 Dead End Krotiq
 	6 CB08 Wasteland Marauder
-	6 CR09 Shatter, trick
+	6 CR09 Nature's Ferocity
 	6 CR10 Harnessed Lightning
 	6 CR11 Small burn
-	6 CR12 Impulse draw, trick
+	6 CR12 Channel the Storm
 	6 CB02 Scourge of the Wastes
 	6 CG03 Garden Familiar
 	6 CG04 Trade Route Trailblazer
@@ -1118,7 +1118,7 @@
 	6 CG07 Captivating Stag
 	6 CG08 Colossal Dunetreader
 	6 CB09 Unconditional removal
-	6 CB10 Conditional removal
+	6 CB10 Chokehold
 	6 CB11 By Blood and Venom
 	6 CB12 Recursion
 	6 CA01 Manalith

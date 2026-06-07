@@ -5,7 +5,7 @@
 			<name>TEX</name>
 			<longname>Tarkir: Extinction</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-05</releasedate>
+			<releasedate>2026-06-07</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -379,18 +379,18 @@ Whenever you cast a noncreature spell, put a +1/+1 counter on this creature. Thi
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>3/4</pt>
+				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CR07 Medium temp menace</name>
+			<name>CR07 Ruthless Slayer</name>
 			<text>{1}, Sacrifice a permanent: This creature gets +2/+0 and gains menace until end of turn. Activate this ability only once each turn.</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/22.jpg" num="103">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Creature — Orc Warrior</type>
 				<maintype>Creature</maintype>
 				<manacost>3R</manacost>
 				<cmc>4</cmc>
@@ -401,15 +401,15 @@ Whenever you cast a noncreature spell, put a +1/+1 counter on this creature. Thi
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CR08 Large</name>
+			<name>CR08 Thunderstep Warmonger</name>
 			<text>When this creature enters, choose one — 
-• Exile the top card of your library. Until end of turn, you may play that card.
+• Exile the top card of your library. Until end of your next turn, you may play that card.
 • Put a +1/+1 counter on this creature.</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/23.jpg" num="104">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Creature — Ogre Warrior</type>
 				<maintype>Creature</maintype>
 				<manacost>4R</manacost>
 				<cmc>5</cmc>
@@ -510,7 +510,7 @@ When this creature dies, you may discard a card. If you do, draw a card.</text>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Creature — Human Monk</type>
 				<maintype>Creature</maintype>
 				<manacost>1R</manacost>
 				<cmc>2</cmc>
@@ -808,7 +808,7 @@ Whenever this creature attacks, surveil 1. (Look at the top card of your library
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CR09 Shatter, trick</name>
+			<name>CR09 Nature&apos;s Ferocity</name>
 			<text>Choose one —
 • Destroy target artifact.
 • Target creature gets +2/+1 and gains trample until end of turn.</text>
@@ -860,7 +860,7 @@ Enchanted creature gets +1/+1.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CR12 Impulse draw, trick</name>
+			<name>CR12 Channel the Storm</name>
 			<text>Choose one —
 • Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
 • Up to two target creatures each get +2/+1 until end of turn.</text>
@@ -1022,7 +1022,7 @@ At the beginning of combat on your turn, target creature gains trample until end
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CB10 Conditional removal</name>
+			<name>CB10 Chokehold</name>
 			<text>Target creature gets -3/-3 until end of turn.</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/58.jpg" num="74">TEX</set>
 			<prop>
@@ -1142,8 +1142,8 @@ When this creature enters, target player mills two cards. You gain 2 life.</text
 				<side>front</side>
 				<type>Artifact</type>
 				<maintype>Artifact</maintype>
-				<manacost>2</manacost>
-				<cmc>2</cmc>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
