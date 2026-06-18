@@ -368,7 +368,7 @@
         "position": "25"
     },
     {
-        "card_name": "CU10 Frogify",
+        "card_name": "CU10 Stun",
         "number": 42,
         "shape": "normal",
         "set": "TEX",
@@ -495,7 +495,7 @@
         "card_name": "er"
     },
     {
-        "card_name": "CZ01 Reclaimer of Tradition",
+        "card_name": "CM01 Reclaimer of Tradition",
         "number": 161,
         "shape": "normal",
         "set": "TEX",
@@ -503,7 +503,7 @@
         "position": "68"
     },
     {
-        "card_name": "CZ02 Carrier of Wind",
+        "card_name": "CM02 Carrier of Wind",
         "number": 162,
         "shape": "normal",
         "set": "TEX",
@@ -511,7 +511,7 @@
         "position": "69"
     },
     {
-        "card_name": "CZ03 Winding Sage",
+        "card_name": "CM03 Winding Sage",
         "number": 163,
         "shape": "normal",
         "set": "TEX",
@@ -519,7 +519,7 @@
         "position": "243"
     },
     {
-        "card_name": "CZ04 Unyielding Hordemate",
+        "card_name": "CM04 Unyielding Hordemate",
         "number": 164,
         "shape": "normal",
         "set": "TEX",
@@ -527,7 +527,7 @@
         "position": "70"
     },
     {
-        "card_name": "CZ05 Melodic Storyteller",
+        "card_name": "CM05 Melodic Storyteller",
         "number": 165,
         "shape": "normal",
         "set": "TEX",

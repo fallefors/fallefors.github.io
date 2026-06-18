@@ -5,7 +5,7 @@
 			<name>TEX</name>
 			<longname>Tarkir: Extinction</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-07</releasedate>
+			<releasedate>2026-06-18</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -213,7 +213,7 @@ When this creature enters, put a +1/+1 counter on target creature you control.</
 		<card>
 			<name>CW08 Medium Flying, hate</name>
 			<text>Flying, vigilance
-When this creature enters, exile up to one card from a graveyard.</text>
+When this creature enters, exile up to two target cards from graveyards.</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/12.jpg" num="8">TEX</set>
 			<prop>
 				<layout>normal</layout>
@@ -577,7 +577,7 @@ Whenever you cast a noncreature spell, surveil 1. (Look at the top card of your 
 		</card>
 		<card>
 			<name>CU07 Marang River Horror</name>
-			<text>Morph {4}{U}
+			<text>Morph {4}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
 When this creature enters or is turned face up, draw a card, then discard a card.</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/33.jpg" num="39">TEX</set>
 			<prop>
@@ -614,7 +614,7 @@ When this creature enters or is turned face up, draw a card, then discard a card
 		<card>
 			<name>CU09 Augur&apos;s Incense</name>
 			<text>Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.
-Ceremony—{4}{U}, Exile three other cards from your graveyard (You may cast a copy of this from your graveyard by exiling it and paying the ceremony cost.)</text>
+Ceremony—{4}{U}, Exile three other cards from your graveyard. (You may cast a copy of this from your graveyard by exiling it and paying the ceremony cost.)</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/35.jpg" num="41">TEX</set>
 			<prop>
 				<layout>normal</layout>
@@ -629,22 +629,21 @@ Ceremony—{4}{U}, Exile three other cards from your graveyard (You may cast a c
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CU10 Frogify</name>
-			<text>Flash
-Enchant creature
-Enchanted creature loses all abilities and has base power and toughness 1/1.</text>
+			<name>CU10 Stun</name>
+			<text>Tap target creature and put a stun counter on it.
+Draw a card, then discard a card.</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/36.jpg" num="42">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Enchantment — Aura</type>
-				<maintype>Enchantment</maintype>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
 				<manacost>1U</manacost>
 				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>CG11 Take the Upper hand</name>
@@ -717,7 +716,7 @@ Glory — When this creature dies, if it was attacking, exile the top card of yo
 		<card>
 			<name>CR03 Wandering Wildfire</name>
 			<text>Reach
-Morph {2}{R}
+Morph {2}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
 When this creature is turned face up, you may discard a card. If you do, draw a card.</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/41.jpg" num="99">TEX</set>
 			<prop>
@@ -773,7 +772,7 @@ Ceremony—{5}{G}, Exile two other cards from your graveyard. (You may cast a co
 		</card>
 		<card>
 			<name>CB07 Dead End Krotiq</name>
-			<text>Morph {4}{B}
+			<text>Morph {4}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
 When this creature enters or is turned face up, target opponent loses 2 life and you gain 2 life.</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/44.jpg" num="71">TEX</set>
 			<prop>
@@ -935,7 +934,7 @@ When this creature dies, you gain 3 life.</text>
 		<card>
 			<name>CG05 Nettlekin</name>
 			<text>Reach
-Morph {4}{G}
+Morph {4}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
 When this creature is turned face up, you gain 3 life.</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/53.jpg" num="133">TEX</set>
 			<prop>
@@ -1040,7 +1039,7 @@ At the beginning of combat on your turn, target creature gains trample until end
 		<card>
 			<name>CB11 By Blood and Venom</name>
 			<text>Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard. You lose 1 life.
-Ceremony—{1}{B}, Exile two other cards from your graveyard. (You may cast a copy of this from your graveyard by exiling it and paying the ceremony cost.)</text>
+Ceremony—{2}{B}, Exile two other cards from your graveyard. (You may cast a copy of this from your graveyard by exiling it and paying the ceremony cost.)</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/59.jpg" num="75">TEX</set>
 			<prop>
 				<layout>normal</layout>
@@ -1119,7 +1118,7 @@ Ceremony—{1}{B}, Exile two other cards from your graveyard. (You may cast a co
 		<card>
 			<name>CA04 Flyer, mill</name>
 			<text>Flying
-When this creature enters, target player mills two cards. You gain 2 life.</text>
+When this creature enters, target player mills two cards. You gain 2 life. (To mill two cards, a player puts the top two cards of their library into their graveyard.)</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/64.jpg" num="214">TEX</set>
 			<prop>
 				<layout>normal</layout>
@@ -1179,7 +1178,7 @@ When this land enters, you gain 1 life.
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>CZ01 Reclaimer of Tradition</name>
+			<name>CM01 Reclaimer of Tradition</name>
 			<text>When this creature enters, put up to one target creature card from your graveyard on top of your library.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/68.jpg" num="161">TEX</set>
@@ -1197,7 +1196,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CZ02 Carrier of Wind</name>
+			<name>CM02 Carrier of Wind</name>
 			<text>Flying
 When this creature enters, another target creature you control gains flying until end of turn.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
@@ -1216,7 +1215,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CZ04 Unyielding Hordemate</name>
+			<name>CM04 Unyielding Hordemate</name>
 			<text>When this creature enters, until end of turn, another target creature you control gets +2/+0 and gains &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control.&quot;
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/70.jpg" num="164">TEX</set>
@@ -1234,7 +1233,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CZ05 Melodic Storyteller</name>
+			<name>CM05 Melodic Storyteller</name>
 			<text>When this creature enters, put up to one target noncreature, nonland card from your graveyard on top of your library.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/71.jpg" num="165">TEX</set>
@@ -1405,7 +1404,7 @@ When this land enters, you gain 1 life.
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>CZ03 Winding Sage</name>
+			<name>CM03 Winding Sage</name>
 			<text>Deathtouch
 When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>

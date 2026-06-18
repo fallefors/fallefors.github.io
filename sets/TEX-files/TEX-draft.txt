@@ -351,10 +351,10 @@
 			}
 		},
 		{
-			"name": "CU10 Frogify",
+			"name": "CU10 Stun",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Enchantment — Aura",
+			"type": "Instant",
 			"collector_number": "42",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/36.jpg"
@@ -671,7 +671,7 @@
 			}
 		},
 		{
-			"name": "CZ01 Reclaimer of Tradition",
+			"name": "CM01 Reclaimer of Tradition",
 			"rarity": "common",
 			"mana_cost": "{2}{W}{B}{G}",
 			"type": "Creature — Human Citizen",
@@ -681,7 +681,7 @@
 			}
 		},
 		{
-			"name": "CZ02 Carrier of Wind",
+			"name": "CM02 Carrier of Wind",
 			"rarity": "common",
 			"mana_cost": "{2}{U}{R}{W}",
 			"type": "Creature — Bird Warrior",
@@ -691,7 +691,7 @@
 			}
 		},
 		{
-			"name": "CZ04 Unyielding Hordemate",
+			"name": "CM04 Unyielding Hordemate",
 			"rarity": "common",
 			"mana_cost": "{2}{R}{W}{B}",
 			"type": "Creature — Human Warrior",
@@ -701,7 +701,7 @@
 			}
 		},
 		{
-			"name": "CZ05 Melodic Storyteller",
+			"name": "CM05 Melodic Storyteller",
 			"rarity": "common",
 			"mana_cost": "{2}{G}{U}{R}",
 			"type": "Creature — Human Bard",
@@ -801,7 +801,7 @@
 			}
 		},
 		{
-			"name": "CZ03 Winding Sage",
+			"name": "CM03 Winding Sage",
 			"rarity": "common",
 			"mana_cost": "{2}{B}{G}{U}",
 			"type": "Creature — Snake Wizard",
@@ -850,7 +850,7 @@
 	8 CU07 Marang River Horror
 	8 CU08 Counter
 	8 CU09 Augur's Incense
-	8 CU10 Frogify
+	8 CU10 Stun
 	8 CG11 Take the Upper hand
 	8 CU12 Draw spell
 	8 CR01 Death's Challenger
@@ -882,10 +882,10 @@
 	8 CA05 Fix
 	8 CL11 Evolving Wilds
 	8 CL01 Tranquil Cove
-	8 CZ01 Reclaimer of Tradition
-	8 CZ02 Carrier of Wind
-	8 CZ04 Unyielding Hordemate
-	8 CZ05 Melodic Storyteller
+	8 CM01 Reclaimer of Tradition
+	8 CM02 Carrier of Wind
+	8 CM04 Unyielding Hordemate
+	8 CM05 Melodic Storyteller
 	8 CL02 Dismal Backwater
 	8 CL03 Bloodfell Caves
 	8 CL04 Rugged Highlands
@@ -895,7 +895,7 @@
 	8 CL08 Jungle Hollow
 	8 CL09 Wind-Scarred Crag
 	8 CL10 Thornwood Falls
-	8 CZ03 Winding Sage
+	8 CM03 Winding Sage
 [common | masterpiece(1)]
 	8 CG01 Guardian of the Wild
 	8 CR04 Qal Sisma Scavengers
@@ -932,7 +932,7 @@
 	8 CU07 Marang River Horror
 	8 CU08 Counter
 	8 CU09 Augur's Incense
-	8 CU10 Frogify
+	8 CU10 Stun
 	8 CG11 Take the Upper hand
 	8 CU12 Draw spell
 	8 CR01 Death's Challenger
@@ -964,10 +964,10 @@
 	8 CA05 Fix
 	8 CL11 Evolving Wilds
 	8 CL01 Tranquil Cove
-	8 CZ01 Reclaimer of Tradition
-	8 CZ02 Carrier of Wind
-	8 CZ04 Unyielding Hordemate
-	8 CZ05 Melodic Storyteller
+	8 CM01 Reclaimer of Tradition
+	8 CM02 Carrier of Wind
+	8 CM04 Unyielding Hordemate
+	8 CM05 Melodic Storyteller
 	8 CL02 Dismal Backwater
 	8 CL03 Bloodfell Caves
 	8 CL04 Rugged Highlands
@@ -977,7 +977,7 @@
 	8 CL08 Jungle Hollow
 	8 CL09 Wind-Scarred Crag
 	8 CL10 Thornwood Falls
-	8 CZ03 Winding Sage
+	8 CM03 Winding Sage
 [foil(1)]
 	12 CG01 Guardian of the Wild
 	12 CR04 Qal Sisma Scavengers
@@ -1014,7 +1014,7 @@
 	12 CU07 Marang River Horror
 	12 CU08 Counter
 	12 CU09 Augur's Incense
-	12 CU10 Frogify
+	12 CU10 Stun
 	12 CG11 Take the Upper hand
 	12 CU12 Draw spell
 	12 CR01 Death's Challenger
@@ -1046,10 +1046,10 @@
 	12 CA05 Fix
 	12 CL11 Evolving Wilds
 	12 CL01 Tranquil Cove
-	12 CZ01 Reclaimer of Tradition
-	12 CZ02 Carrier of Wind
-	12 CZ04 Unyielding Hordemate
-	12 CZ05 Melodic Storyteller
+	12 CM01 Reclaimer of Tradition
+	12 CM02 Carrier of Wind
+	12 CM04 Unyielding Hordemate
+	12 CM05 Melodic Storyteller
 	12 CL02 Dismal Backwater
 	12 CL03 Bloodfell Caves
 	12 CL04 Rugged Highlands
@@ -1059,7 +1059,7 @@
 	12 CL08 Jungle Hollow
 	12 CL09 Wind-Scarred Crag
 	12 CL10 Thornwood Falls
-	12 CZ03 Winding Sage
+	12 CM03 Winding Sage
 [wildcard(1)]
 	6 CG01 Guardian of the Wild
 	6 CR04 Qal Sisma Scavengers
@@ -1096,7 +1096,7 @@
 	6 CU07 Marang River Horror
 	6 CU08 Counter
 	6 CU09 Augur's Incense
-	6 CU10 Frogify
+	6 CU10 Stun
 	6 CG11 Take the Upper hand
 	6 CU12 Draw spell
 	6 CR01 Death's Challenger
@@ -1128,10 +1128,10 @@
 	6 CA05 Fix
 	6 CL11 Evolving Wilds
 	6 CL01 Tranquil Cove
-	6 CZ01 Reclaimer of Tradition
-	6 CZ02 Carrier of Wind
-	6 CZ04 Unyielding Hordemate
-	6 CZ05 Melodic Storyteller
+	6 CM01 Reclaimer of Tradition
+	6 CM02 Carrier of Wind
+	6 CM04 Unyielding Hordemate
+	6 CM05 Melodic Storyteller
 	6 CL02 Dismal Backwater
 	6 CL03 Bloodfell Caves
 	6 CL04 Rugged Highlands
@@ -1141,4 +1141,4 @@
 	6 CL08 Jungle Hollow
 	6 CL09 Wind-Scarred Crag
 	6 CL10 Thornwood Falls
-	6 CZ03 Winding Sage
+	6 CM03 Winding Sage

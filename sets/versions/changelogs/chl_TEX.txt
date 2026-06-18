@@ -1,4 +1,68 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+CU10 Stun added.
+CM01 Reclaimer of Tradition added.
+CM02 Carrier of Wind added.
+CM04 Unyielding Hordemate added.
+CM05 Melodic Storyteller added.
+CM03 Winding Sage added.
+
+CU10 Frogify removed.
+CZ01 Reclaimer of Tradition removed.
+CZ02 Carrier of Wind removed.
+CZ04 Unyielding Hordemate removed.
+CZ05 Melodic Storyteller removed.
+CZ03 Winding Sage removed.
+
+CW08 Medium Flying, hate
+rules_text: Flying, vigilance
+When this creature enters, exile up to one card from a graveyard. => Flying, vigilance
+When this creature enters, exile up to two target cards from graveyards.
+
+CU11 Bounce
+
+CU07 Marang River Horror
+rules_text: Morph {4}{U}
+When this creature enters or is turned face up, draw a card, then discard a card. => Morph {4}{U} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+When this creature enters or is turned face up, draw a card, then discard a card.
+
+CU09 Augur's Incense
+rules_text: Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.
+Ceremony—{4}{U}, Exile three other cards from your graveyard [i](You may cast a copy of this from your graveyard by exiling it and paying the ceremony cost.)[/i] => Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.
+Ceremony—{4}{U}, Exile three other cards from your graveyard. [i](You may cast a copy of this from your graveyard by exiling it and paying the ceremony cost.)[/i]
+
+CR03 Wandering Wildfire
+rules_text: Reach
+Morph {2}{R}
+When this creature is turned face up, you may discard a card. If you do, draw a card. => Reach
+Morph {2}{R} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+When this creature is turned face up, you may discard a card. If you do, draw a card.
+
+CB07 Dead End Krotiq
+rules_text: Morph {4}{B}
+When this creature enters or is turned face up, target opponent loses 2 life and you gain 2 life. => Morph {4}{B} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+When this creature enters or is turned face up, target opponent loses 2 life and you gain 2 life.
+
+CG05 Nettlekin
+rules_text: Reach
+Morph {4}{G}
+When this creature is turned face up, you gain 3 life. => Reach
+Morph {4}{G} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+When this creature is turned face up, you gain 3 life.
+
+CB11 By Blood and Venom
+rules_text: Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard. You lose 1 life.
+Ceremony—{1}{B}, Exile two other cards from your graveyard. [i](You may cast a copy of this from your graveyard by exiling it and paying the ceremony cost.)[/i] => Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard. You lose 1 life.
+Ceremony—{2}{B}, Exile two other cards from your graveyard. [i](You may cast a copy of this from your graveyard by exiling it and paying the ceremony cost.)[/i]
+
+CA04 Flyer, mill
+rules_text: Flying
+When this creature enters, target player mills two cards. You gain 2 life. => Flying
+When this creature enters, target player mills two cards. You gain 2 life. [i](To mill two cards, a player puts the top two cards of their library into their graveyard.)[/i]
+
+
+VERSION 4 CHANGELOG
 ====================
 
 CR07 Ruthless Slayer added.
