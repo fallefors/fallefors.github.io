@@ -5,7 +5,7 @@
 			<name>TEX</name>
 			<longname>Tarkir: Extinction</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-18</releasedate>
+			<releasedate>2026-06-25</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -385,7 +385,7 @@ Whenever you cast a noncreature spell, put a +1/+1 counter on this creature. Thi
 		</card>
 		<card>
 			<name>CR07 Ruthless Slayer</name>
-			<text>{1}, Sacrifice a permanent: This creature gets +2/+0 and gains menace until end of turn. Activate this ability only once each turn.</text>
+			<text>{1}, Sacrifice a nonland permanent: This creature gets +2/+0 and gains menace until end of turn. Activate this ability only once each turn.</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/22.jpg" num="103">TEX</set>
 			<prop>
 				<layout>normal</layout>
@@ -469,7 +469,7 @@ Enchanted creature can&apos;t attack or block.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CW12 Disenchant</name>
+			<name>CW12 Lost to Time</name>
 			<text>Destroy target artifact or enchantment. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/27.jpg" num="12">TEX</set>
 			<prop>

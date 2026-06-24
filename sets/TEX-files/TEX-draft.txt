@@ -261,7 +261,7 @@
 			}
 		},
 		{
-			"name": "CW12 Disenchant",
+			"name": "CW12 Lost to Time",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
@@ -841,7 +841,7 @@
 	8 CW09 Full Force
 	8 CW10 Pacifism
 	8 CU11 Bounce
-	8 CW12 Disenchant
+	8 CW12 Lost to Time
 	8 CU01 Small flash tap
 	8 CR02 Small first strike
 	8 CU03 Small
@@ -923,7 +923,7 @@
 	8 CW09 Full Force
 	8 CW10 Pacifism
 	8 CU11 Bounce
-	8 CW12 Disenchant
+	8 CW12 Lost to Time
 	8 CU01 Small flash tap
 	8 CR02 Small first strike
 	8 CU03 Small
@@ -1005,7 +1005,7 @@
 	12 CW09 Full Force
 	12 CW10 Pacifism
 	12 CU11 Bounce
-	12 CW12 Disenchant
+	12 CW12 Lost to Time
 	12 CU01 Small flash tap
 	12 CR02 Small first strike
 	12 CU03 Small
@@ -1087,7 +1087,7 @@
 	6 CW09 Full Force
 	6 CW10 Pacifism
 	6 CU11 Bounce
-	6 CW12 Disenchant
+	6 CW12 Lost to Time
 	6 CU01 Small flash tap
 	6 CR02 Small first strike
 	6 CU03 Small

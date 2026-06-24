@@ -468,14 +468,14 @@
             "number": 103,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "{1}, Sacrifice a permanent: This creature gets +2/+0 and gains menace until end of turn. Activate this ability only once each turn.",
+            "rules_text": "{1}, Sacrifice a nonland permanent: This creature gets +2/+0 and gains menace until end of turn. Activate this ability only once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
             "shape": "normal",
             "set": "TEX",
             "loyalty": "",
-            "artist": "Krzysztof Porchowski Jr",
+            "artist": "Ilker Serdar Yildiz (edited)",
             "alias": "",
             "position": "22",
             "rotated": false,
@@ -566,7 +566,7 @@
             "notes": ""
         },
         {
-            "card_name": "CW12 Disenchant",
+            "card_name": "CW12 Lost to Time",
             "color": "W",
             "rarity": "common",
             "type": "Sorcery",
@@ -1291,7 +1291,7 @@
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "You may mill two cards. Then return up to two creature cards from your graveyard to your hand.",
-            "flavor_text": "[i]During Silumgar's rule, unlife meant eternal servitude. Now, a second chance.[/i]",
+            "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -1301,7 +1301,7 @@
             "alias": "",
             "position": "60",
             "rotated": false,
-            "notes": ""
+            "notes": "ft\nDuring Silumgar's rule, unlife meant eternal servitude. Now, (something)"
         },
         {
             "card_name": "CA01 Manalith",

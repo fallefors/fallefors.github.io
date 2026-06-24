@@ -1,4 +1,17 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+CW12 Lost to Time added.
+
+CW12 Disenchant removed.
+
+CR07 Ruthless Slayer
+rules_text: {1}, Sacrifice a permanent: This creature gets +2/+0 and gains menace until end of turn. Activate this ability only once each turn. => {1}, Sacrifice a nonland permanent: This creature gets +2/+0 and gains menace until end of turn. Activate this ability only once each turn.
+
+CB12 Recursion
+
+
+VERSION 5 CHANGELOG
 ====================
 
 CU10 Stun added.
