@@ -1,4 +1,143 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+CG02 Guardian of the Wild added.
+CW12 Disenchant added.
+CR01 Small added.
+CR02 Death's Challenger added.
+CG03 Undergrowth Leopard added.
+CR11 Lightning Strike added.
+CG04 Garden Familiar added.
+CG05 Trade Route Trailblazer added.
+CG01 Hilltop Surveyor added.
+CB12 recursion added.
+Spirit added.
+Warrior added.
+
+CG01 Guardian of the Wild removed.
+CW12 Lost to Time removed.
+CR02 Small first strike removed.
+CR01 Death's Challenger removed.
+CG02 Undergrowth Leopard removed.
+CR11 Small burn removed.
+CG03 Garden Familiar removed.
+CG04 Trade Route Trailblazer removed.
+CG05 Nettlekin removed.
+CB12 Recursion removed.
+
+CB01 Afterlife Aspirant
+rules_text: This creature is ceremonialized with two +1/+1 counters on it.
+Ceremony—{4}{B}, Exile two other cards from your graveyard. [i](You may cast a copy of this from your graveyard by exiling it and paying the ceremony cost.)[/i] => Ceremony—{4}{B}, Exile two other cards from your graveyard. [i](You may cast a copy of this from your graveyard by exiling it and paying the ceremony cost.)[/i]
+This creature is ceremonialized with two +1/+1 counters on it.
+
+CB04 Salt Road Escort
+pt: 0/0 => 1/0
+
+CW01 Hidden Ambusher
+rules_text: {2}, {T}: Tap target creature.
+Morph {4}{W} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+When this creature is turned face up, put three +1/+1 counters on it. => {2}, {T}: Tap target creature.
+{2}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. Activate only as a sorcery.
+pt: 1/1 => 1/2
+
+CW04 Vanguard Gallant
+pt: 3/1 => 3/2
+
+CW07 Debilitating Assault
+cost: {3}{W} => {2}{W}
+rules_text: Choose one —
+• Tap up to three target creatures.
+• Create three 1/1 red Warrior creature tokens. => Choose one —
+• Tap up to two target creatures.
+• Create two 1/1 red Warrior creature tokens.
+
+CG09 Awaited Return
+rules_text: Mill two cards, then you may return a permanent card from your graveyard to your hand. => Mill two cards, then you may return a permanent card from your graveyard to your hand. [i](To mill two cards, put the top two cards of your library into your graveyard.)[/i]
+
+CG10 Lavish Dance
+cost: {1}{G} => {G}
+rules_text: Enchant creature
+Enchanted creature gets +1/+1 and has trample.
+Ceremony—{2}{G}, Exile another card from your graveyard. [i](You may cast a copy of this from your graveyard by exiling it and paying the ceremony cost.)[/i] => Enchant creature
+Enchanted creature gets +1/+1 and has trample.
+Ceremony—{1}{G}, Exile another card from your graveyard. [i](You may cast a copy of this from your graveyard by exiling it and paying the ceremony cost.)[/i]
+
+CB05 Medium flying
+pt: 3/2 => 2/3
+
+CR07 Ruthless Slayer
+rules_text: {1}, Sacrifice a nonland permanent: This creature gets +2/+0 and gains menace until end of turn. Activate this ability only once each turn. => {1}, Sacrifice a nonland permanent: This creature gets +2/+0 and gains trample until end of turn. Activate this ability only once each turn.
+
+CU06 Medium flying
+pt: 3/3 => 3/4
+
+CU07 Marang River Horror
+rules_text: Morph {4}{U} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+When this creature enters or is turned face up, draw a card, then discard a card. => When this creature enters, target player mill three cards.
+{4}: This creature can't be blocked this turn.
+pt: 5/5 => 5/6
+
+CU10 Stun
+cost: {1}{U} => {U}
+
+CR03 Wandering Wildfire
+rules_text: Reach
+Morph {2}{R} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+When this creature is turned face up, you may discard a card. If you do, draw a card. => Reach
+When this creature enters, you may discard a card. If you do, draw a card.
+
+CR05 Unorthodox Practitioner
+
+CG06 Bogwort Beast
+rules_text: Trample
+This creature is ceremonialized with two +1/+1 counters on it.
+Ceremony—{5}{G}, Exile two other cards from your graveyard. [i](You may cast a copy of this from your graveyard by exiling it and paying the ceremony cost.)[/i] => Trample
+Ceremony—{5}{G}, Exile two other cards from your graveyard. [i](You may cast a copy of this from your graveyard by exiling it and paying the ceremony cost.)[/i]
+This creature is ceremonialized with two +1/+1 counters on it.
+
+CB07 Dead End Krotiq
+rules_text: Morph {4}{B} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+When this creature enters or is turned face up, target opponent loses 2 life and you gain 2 life. => When this creature enters, choose one —
+• Target opponent loses 2 life and you gain 2 life.
+• Target opponent discards a card.
+pt: 5/3 => 3/5
+
+CB08 Wasteland Marauder
+rules_text: Deathtouch
+Whenever this creature attacks, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Deathtouch
+Whenever this creature enters or attacks, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+pt: 5/5 => 6/5
+
+CG08 Colossal Dunetreader
+rules_text: Heritage 2 [i](This enters with two +1/+1 counters. At the beginning of your combat, you may move a +1/+1 counter from this onto another target permanent you control.)[/i]
+At the beginning of combat on your turn, target creature gains trample until end of turn if it has a counter on it. => Heritage 2 [i](This enters with two +1/+1 counters. At the beginning of your combat, you may move a +1/+1 counter from this onto another target permanent you control.)[/i]
+Creatures you control with +1/+1 counters on them have trample.
+
+CA03 Hate, inefficient filter
+cost: {4} => {2}
+rules_text: When this creature enters, put up to one target card from a graveyard on the bottom of its owner's library.
+{2}: Add one mana of any color. => When this creature enters, put up to one target card from a graveyard on the bottom of its owner's library.
+{1}: Add one mana of any color. Activate only once each turn.
+pt: 3/2 => 2/1
+
+CM01 Reclaimer of Tradition
+rules_text: When this creature enters, put up to one target creature card from your graveyard on top of your library.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => When this creature enters, distribute two +1/+1 counters among one or two target creatures you control.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+pt: 4/4 => 3/4
+
+CM02 Carrier of Wind
+rules_text: Flying
+When this creature enters, another target creature you control gains flying until end of turn.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => Flying
+When this creature enters, target creature you control gets +1/+0 and gains flying until end of turn.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+pt: 3/4 => 3/5
+
+CM03 Winding Sage
+
+
+VERSION 6 CHANGELOG
 ====================
 
 CW12 Lost to Time added.

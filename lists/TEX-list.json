@@ -1,7 +1,7 @@
 ﻿[
     {
         "card_name": "CW01 Hidden Ambusher",
-        "number": 1,
+        "number": 2,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -9,7 +9,7 @@
     },
     {
         "card_name": "CU01 Small flash tap",
-        "number": 33,
+        "number": 35,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -17,31 +17,31 @@
     },
     {
         "card_name": "CB01 Afterlife Aspirant",
-        "number": 65,
+        "number": 68,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
         "position": "3"
     },
     {
-        "card_name": "CR01 Death's Challenger",
-        "number": 97,
+        "card_name": "CR01 Small",
+        "number": 101,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "39"
+        "position": "29"
     },
     {
-        "card_name": "CG01 Guardian of the Wild",
-        "number": 129,
+        "card_name": "CG01 Hilltop Surveyor",
+        "number": 135,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "1"
+        "position": "53"
     },
     {
         "card_name": "CW02 Emesh Cadet",
-        "number": 2,
+        "number": 3,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -49,7 +49,7 @@
     },
     {
         "card_name": "CU02 Aspect of Winter",
-        "number": 34,
+        "number": 36,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -57,31 +57,31 @@
     },
     {
         "card_name": "CB02 Scourge of the Wastes",
-        "number": 66,
+        "number": 69,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
         "position": "50"
     },
     {
-        "card_name": "CR02 Small first strike",
-        "number": 98,
+        "card_name": "CR02 Death's Challenger",
+        "number": 102,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "29"
+        "position": "39"
     },
     {
-        "card_name": "CG02 Undergrowth Leopard",
-        "number": 130,
+        "card_name": "CG02 Guardian of the Wild",
+        "number": 136,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "40"
+        "position": "1"
     },
     {
         "card_name": "CW03 Coordinated Students",
-        "number": 3,
+        "number": 4,
         "shape": "adventure",
         "set": "TEX",
         "rotated": false,
@@ -89,7 +89,7 @@
     },
     {
         "card_name": "CU03 Small",
-        "number": 35,
+        "number": 37,
         "shape": "adventure",
         "set": "TEX",
         "rotated": false,
@@ -97,7 +97,7 @@
     },
     {
         "card_name": "CB03 Small sac",
-        "number": 67,
+        "number": 70,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -105,23 +105,23 @@
     },
     {
         "card_name": "CR03 Wandering Wildfire",
-        "number": 99,
+        "number": 103,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
         "position": "41"
     },
     {
-        "card_name": "CG03 Garden Familiar",
-        "number": 131,
+        "card_name": "CG03 Undergrowth Leopard",
+        "number": 137,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "51"
+        "position": "40"
     },
     {
         "card_name": "CW04 Vanguard Gallant",
-        "number": 4,
+        "number": 5,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -129,7 +129,7 @@
     },
     {
         "card_name": "CU04 Medium flying recursion",
-        "number": 36,
+        "number": 38,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -137,7 +137,7 @@
     },
     {
         "card_name": "CB04 Salt Road Escort",
-        "number": 68,
+        "number": 71,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -145,23 +145,23 @@
     },
     {
         "card_name": "CR04 Qal Sisma Scavengers",
-        "number": 100,
+        "number": 104,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
         "position": "2"
     },
     {
-        "card_name": "CG04 Trade Route Trailblazer",
-        "number": 132,
+        "card_name": "CG04 Garden Familiar",
+        "number": 138,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "52"
+        "position": "51"
     },
     {
         "card_name": "CW05 Citadel Sentry",
-        "number": 5,
+        "number": 6,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -169,7 +169,7 @@
     },
     {
         "card_name": "CU05 Avalanche Escort",
-        "number": 37,
+        "number": 39,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -177,7 +177,7 @@
     },
     {
         "card_name": "CB05 Medium flying",
-        "number": 69,
+        "number": 72,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -185,23 +185,23 @@
     },
     {
         "card_name": "CR05 Unorthodox Practitioner",
-        "number": 101,
+        "number": 105,
         "shape": "adventure",
         "set": "TEX",
         "rotated": false,
         "position": "42"
     },
     {
-        "card_name": "CG05 Nettlekin",
-        "number": 133,
+        "card_name": "CG05 Trade Route Trailblazer",
+        "number": 139,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "53"
+        "position": "52"
     },
     {
         "card_name": "CW06 Respected Strike Leader",
-        "number": 6,
+        "number": 7,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -209,7 +209,7 @@
     },
     {
         "card_name": "CU06 Medium flying",
-        "number": 38,
+        "number": 40,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -217,7 +217,7 @@
     },
     {
         "card_name": "CB06 Medium deathtouch",
-        "number": 70,
+        "number": 73,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -225,7 +225,7 @@
     },
     {
         "card_name": "CR06 Introspective Strongarm",
-        "number": 102,
+        "number": 106,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -233,7 +233,7 @@
     },
     {
         "card_name": "CG06 Bogwort Beast",
-        "number": 134,
+        "number": 140,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -241,7 +241,7 @@
     },
     {
         "card_name": "CW07 Debilitating Assault",
-        "number": 7,
+        "number": 8,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -249,7 +249,7 @@
     },
     {
         "card_name": "CU07 Marang River Horror",
-        "number": 39,
+        "number": 41,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -257,7 +257,7 @@
     },
     {
         "card_name": "CB07 Dead End Krotiq",
-        "number": 71,
+        "number": 74,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -265,7 +265,7 @@
     },
     {
         "card_name": "CR07 Ruthless Slayer",
-        "number": 103,
+        "number": 107,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -273,7 +273,7 @@
     },
     {
         "card_name": "CG07 Captivating Stag",
-        "number": 135,
+        "number": 141,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -281,7 +281,7 @@
     },
     {
         "card_name": "CW08 Medium Flying, hate",
-        "number": 8,
+        "number": 9,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -289,7 +289,7 @@
     },
     {
         "card_name": "CU08 Counter",
-        "number": 40,
+        "number": 42,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -297,7 +297,7 @@
     },
     {
         "card_name": "CB08 Wasteland Marauder",
-        "number": 72,
+        "number": 75,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -305,7 +305,7 @@
     },
     {
         "card_name": "CR08 Thunderstep Warmonger",
-        "number": 104,
+        "number": 108,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -313,7 +313,7 @@
     },
     {
         "card_name": "CG08 Colossal Dunetreader",
-        "number": 136,
+        "number": 142,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -321,7 +321,7 @@
     },
     {
         "card_name": "CW09 Full Force",
-        "number": 9,
+        "number": 10,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -329,7 +329,7 @@
     },
     {
         "card_name": "CU09 Augur's Incense",
-        "number": 41,
+        "number": 43,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -337,7 +337,7 @@
     },
     {
         "card_name": "CB09 Unconditional removal",
-        "number": 73,
+        "number": 76,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -345,7 +345,7 @@
     },
     {
         "card_name": "CR09 Nature's Ferocity",
-        "number": 105,
+        "number": 109,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -353,7 +353,7 @@
     },
     {
         "card_name": "CG09 Awaited Return",
-        "number": 137,
+        "number": 143,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -361,7 +361,7 @@
     },
     {
         "card_name": "CW10 Pacifism",
-        "number": 10,
+        "number": 11,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -369,7 +369,7 @@
     },
     {
         "card_name": "CU10 Stun",
-        "number": 42,
+        "number": 44,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -377,7 +377,7 @@
     },
     {
         "card_name": "CB10 Chokehold",
-        "number": 74,
+        "number": 77,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -385,7 +385,7 @@
     },
     {
         "card_name": "CR10 Harnessed Lightning",
-        "number": 106,
+        "number": 110,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -393,7 +393,7 @@
     },
     {
         "card_name": "CG10 Lavish Dance",
-        "number": 138,
+        "number": 144,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -401,7 +401,7 @@
     },
     {
         "card_name": "CW11 Superior Form",
-        "number": 11,
+        "number": 12,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -409,7 +409,7 @@
     },
     {
         "card_name": "CU11 Bounce",
-        "number": 43,
+        "number": 45,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -417,15 +417,15 @@
     },
     {
         "card_name": "CB11 By Blood and Venom",
-        "number": 75,
+        "number": 78,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
         "position": "59"
     },
     {
-        "card_name": "CR11 Small burn",
-        "number": 107,
+        "card_name": "CR11 Lightning Strike",
+        "number": 111,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -433,15 +433,15 @@
     },
     {
         "card_name": "CG11 Take the Upper hand",
-        "number": 139,
+        "number": 145,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
         "position": "37"
     },
     {
-        "card_name": "CW12 Lost to Time",
-        "number": 12,
+        "card_name": "CW12 Disenchant",
+        "number": 13,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -449,15 +449,15 @@
     },
     {
         "card_name": "CU12 Draw spell",
-        "number": 44,
+        "number": 46,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
         "position": "38"
     },
     {
-        "card_name": "CB12 Recursion",
-        "number": 76,
+        "card_name": "CB12 recursion",
+        "number": 79,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -465,7 +465,7 @@
     },
     {
         "card_name": "CR12 Channel the Storm",
-        "number": 108,
+        "number": 112,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -473,7 +473,7 @@
     },
     {
         "card_name": "CG12 Trick",
-        "number": 140,
+        "number": 146,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -496,7 +496,7 @@
     },
     {
         "card_name": "CM01 Reclaimer of Tradition",
-        "number": 161,
+        "number": 168,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -504,7 +504,7 @@
     },
     {
         "card_name": "CM02 Carrier of Wind",
-        "number": 162,
+        "number": 169,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -512,15 +512,15 @@
     },
     {
         "card_name": "CM03 Winding Sage",
-        "number": 163,
+        "number": 170,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "243"
+        "position": "239"
     },
     {
         "card_name": "CM04 Unyielding Hordemate",
-        "number": 164,
+        "number": 171,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -528,7 +528,7 @@
     },
     {
         "card_name": "CM05 Melodic Storyteller",
-        "number": 165,
+        "number": 172,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -549,7 +549,7 @@
     "a->colorless",
     {
         "card_name": "CA01 Manalith",
-        "number": 211,
+        "number": 229,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -557,7 +557,7 @@
     },
     {
         "card_name": "CA02 Broad removal",
-        "number": 212,
+        "number": 230,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -565,7 +565,7 @@
     },
     {
         "card_name": "CA03 Hate, inefficient filter",
-        "number": 213,
+        "number": 231,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -573,7 +573,7 @@
     },
     {
         "card_name": "CA04 Flyer, mill",
-        "number": 214,
+        "number": 232,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -581,7 +581,7 @@
     },
     {
         "card_name": "CA05 Fix",
-        "number": 215,
+        "number": 233,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -604,7 +604,7 @@
     },
     {
         "card_name": "CL01 Tranquil Cove",
-        "number": 224,
+        "number": 242,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -612,7 +612,7 @@
     },
     {
         "card_name": "CL02 Dismal Backwater",
-        "number": 225,
+        "number": 243,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -620,7 +620,7 @@
     },
     {
         "card_name": "CL03 Bloodfell Caves",
-        "number": 226,
+        "number": 244,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -628,7 +628,7 @@
     },
     {
         "card_name": "CL04 Rugged Highlands",
-        "number": 227,
+        "number": 245,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -636,7 +636,7 @@
     },
     {
         "card_name": "CL05 Blossoming Sands",
-        "number": 228,
+        "number": 246,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -659,7 +659,7 @@
     },
     {
         "card_name": "CL06 Scoured Barrens",
-        "number": 229,
+        "number": 247,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -667,7 +667,7 @@
     },
     {
         "card_name": "CL07 Swiftwater Cliffs",
-        "number": 230,
+        "number": 248,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -675,7 +675,7 @@
     },
     {
         "card_name": "CL08 Jungle Hollow",
-        "number": 231,
+        "number": 249,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -683,7 +683,7 @@
     },
     {
         "card_name": "CL09 Wind-Scarred Crag",
-        "number": 232,
+        "number": 250,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -691,7 +691,7 @@
     },
     {
         "card_name": "CL10 Thornwood Falls",
-        "number": 233,
+        "number": 251,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -714,7 +714,7 @@
     },
     {
         "card_name": "CL11 Evolving Wilds",
-        "number": 234,
+        "number": 252,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -722,6 +722,99 @@
     },
     {
         "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Plains",
+        "number": 263,
+        "shape": "normal",
+        "set": "TEX",
+        "rotated": false,
+        "position": "242"
+    },
+    {
+        "card_name": "Forest",
+        "number": 267,
+        "shape": "normal",
+        "set": "TEX",
+        "rotated": false,
+        "position": "243"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 266,
+        "shape": "normal",
+        "set": "TEX",
+        "rotated": false,
+        "position": "244"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 265,
+        "shape": "normal",
+        "set": "TEX",
+        "rotated": false,
+        "position": "245"
+    },
+    {
+        "card_name": "Island",
+        "number": 264,
+        "shape": "normal",
+        "set": "TEX",
+        "rotated": false,
+        "position": "246"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Spirit",
+        "number": 1,
+        "shape": "token",
+        "set": "TEX",
+        "rotated": false,
+        "position": "240"
+    },
+    {
+        "card_name": "Warrior",
+        "number": 2,
+        "shape": "token",
+        "set": "TEX",
+        "rotated": false,
+        "position": "241"
     },
     {
         "card_name": "e"
