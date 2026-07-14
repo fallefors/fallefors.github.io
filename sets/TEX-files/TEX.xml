@@ -5,10 +5,28 @@
 			<name>TEX</name>
 			<longname>Tarkir: Extinction</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-05</releasedate>
+			<releasedate>2026-07-14</releasedate>
 		</set>
 	</sets>
 	<cards>
+		<card>
+			<name>UU02 Avenform Guide</name>
+			<text>Flying
+Accord — Whenever this creature deals combat damage to a player, draw a card. Then discard a card unless you&apos;ve cast both a creature spell and a noncreature spell this turn.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/0.jpg" num="55">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
 		<card>
 			<name>CG02 Guardian of the Wild</name>
 			<text>Trample
@@ -575,7 +593,7 @@ Whenever you cast a noncreature spell, surveil 1. (Look at the top card of your 
 		</card>
 		<card>
 			<name>CU07 Marang River Horror</name>
-			<text>When this creature enters, target player mill three cards.
+			<text>When this creature enters, target player mill three cards. (They put the top three cards of their library into their graveyard.)
 {4}: This creature can&apos;t be blocked this turn.</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/33.jpg" num="41">TEX</set>
 			<prop>
@@ -1097,7 +1115,7 @@ Ceremony—{2}{B}, Exile two other cards from your graveyard. (You may cast a co
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CA03 Hate, inefficient filter</name>
+			<name>CA03 Hate, filter</name>
 			<text>When this creature enters, put up to one target card from a graveyard on the bottom of its owner&apos;s library.
 {1}: Add one mana of any color. Activate only once each turn.</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/63.jpg" num="231">TEX</set>
@@ -1401,11 +1419,1661 @@ When this land enters, you gain 1 life.
 			<tablerow>0</tablerow>
 		</card>
 		<card>
+			<name>UL01 Sandsteppe Citadel</name>
+			<text>This land enters tapped.
+{T}: Add {W}, {B}, or {G}.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/81.jpg" num="258">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WBG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL02 Opulent Palace</name>
+			<text>This land enters tapped.
+{T}: Add {B}, {G}, or {U}.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/82.jpg" num="259">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UBG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL03 Nomad Outpost</name>
+			<text>This land enters tapped.
+{T}: Add {R}, {W}, or {B}.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/83.jpg" num="260">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WBR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL04 Mystic Monastery</name>
+			<text>This land enters tapped.
+{T}: Add {U}, {R}, or {W}.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/84.jpg" num="261">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL05 Frontier Bivouac</name>
+			<text>This land enters tapped.
+{T}: Add {G}, {U}, or {R}.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/85.jpg" num="262">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>URG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UA01 Ancestral Monument</name>
+			<text>When this artifact enters, search your library for a basic Plains, Swamp, or Forest card, reveal it, put it into your hand, then shuffle.
+{W}{B}{G}, {T}: Sacrifice this artifact: Put two +1/+1 counters on target creature you control. You gain 2 life. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/86.jpg" num="237">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>WBG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UA02 Inspiring Monument</name>
+			<text>When this artifact enters, search your library for a basic Island, Mountain, or Plains card, reveal it, put it into your hand, then shuffle.
+{U}{R}{W}, {T}, Sacrifice this artifact: Put a +1/+1 counter on target creature you control. It can&apos;t be blocked this turn. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/87.jpg" num="238">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>WUR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UA03 Hidden Monument</name>
+			<text>When this artifact enters, search your library for a basic Swamp, Forest, or Island card, reveal it, put it into your hand, then shuffle.
+{B}{G}{U}, {T}, Sacrifice this artifact: Surveil 2. Activate only as a sorcery. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/88.jpg" num="239">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>UBG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UA04 Barren Monument</name>
+			<text>When this artifact enters, search your library for a basic Mountain, Plains, or Swamp card, reveal it, put it into your hand, then shuffle.
+{R}{W}{B}, {T}, Sacrifice this artifact: Return target creature card from your graveyard to your hand. Activate only as a sorcery</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/89.jpg" num="240">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>WBR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UA05 Hunter&apos;s Monument</name>
+			<text>When this artifact enters, search your library for a basic Forest, Island, or Mountain card, reveal it, put it into your hand, then shuffle.
+{1}{G}{U}{R}, {T}, Sacrifice this artifact: Create a 3/3 green Elk creature token. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/90.jpg" num="241">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>URG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM01 Lowland Outrider</name>
+			<text>Menace
+When this creature enters, create a 1/1 red Warrior creature token.
+Whenever this creature attacks, you may sacrifice another creature. If you do, put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/91.jpg" num="209">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM02 Ashdune Avenger</name>
+			<text>Deathtouch
+Whenever another creature you control dies, put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/92.jpg" num="210">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM03 Dazzled Student</name>
+			<text>Haste
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you cast a noncreature spell, draw a card, then discard a card.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/93.jpg" num="211">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM04 Monastery Sparring</name>
+			<text>Monastery Sparring deals 3 damage to target creature or planeswalker. Draw a card, then discard a card.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/94.jpg" num="212">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UM05 House&apos;s Head</name>
+			<text>Whenever another creature you control enters, put a +1/+1 counter on that creature.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/95.jpg" num="213">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM06 Death&apos;s Attendant</name>
+			<text>When this creature enters, put a +1/+1 counter on target creature.
+Whenever a creature you control with a counter on it dies, you gain 1 life and draw a card.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/96.jpg" num="214">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM07 Reserved Mentor</name>
+			<text>Haste
+Whenever you attack with two or more creatures, exile the top card of your library. Until the end of your next turn, you may play that card.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/97.jpg" num="215">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Monkey Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM08 Gather the Warband</name>
+			<text>Create two 1/1 red Warrior creature tokens. They gain lifelink and haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/98.jpg" num="216">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UM09 Whisperer of the Past</name>
+			<text>{T}, Mill a card: Add one mana of any color.
+{G}{U}, {T}, Sacrifice this creature: Return target card from your graveyard to your hand. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/99.jpg" num="217">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM10 Sagu Exploration</name>
+			<text>Draw a card. You may play an additional land this turn.
+Ceremony—{2}{G}{U}, Exile two other cards from your graveyard. (You may cast a copy of this from your graveyard by exiling it and paying the ceremony cost.)</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/100.jpg" num="218">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UM11 Expedition Rhino</name>
+			<text>Trample
+If one or more counters would be put on this creature, those counters plus an additional +1/+1 counter are put on it instead.
+When this creature dies, put its counters on target creature you control.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/101.jpg" num="219">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rhino</type>
+				<maintype>Creature</maintype>
+				<manacost>WBG</manacost>
+				<cmc>3</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM13 signpost</name>
+			<text>Flying
+Whenever you cast an instant or sorcery spell, this creature deals 2 damage to each opponent and you gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/102.jpg" num="221">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1URW</manacost>
+				<cmc>4</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM14 Find Balance</name>
+			<text>Tap target creature and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Target creature gets +2/+2 until end of turn.
+Draw a card.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/103.jpg" num="222">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>URW</manacost>
+				<cmc>3</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UM15 Secretive Serpentmage</name>
+			<text>Menace
+When this creature enters, mill three cards. (Put the top three cards of your library into your graveyard.)
+This creature gets +3/+2 as long as you own seven or more cards in exile and/or in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/104.jpg" num="223">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1BGU</manacost>
+				<cmc>4</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM16 New Secrets</name>
+			<text>Surveil 2, then draw two cards. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/105.jpg" num="224">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>BGU</manacost>
+				<cmc>3</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UM17 Steadfast Conqueror</name>
+			<text>Menace
+When this creature enters, return target creature card with mana value 3 or less from your graveyard to the battlefield. It gains haste and &quot;At end of combat, sacrifice this creature.&quot;</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/106.jpg" num="225">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1RWB</manacost>
+				<cmc>4</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM18 Violent Onslaught</name>
+			<text>Attacking creatures you control get +1/+0.
+Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/107.jpg" num="226">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>RWB</manacost>
+				<cmc>3</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM19 signpost</name>
+			<text>Trample
+Accord — At the beginning of your end step, if you&apos;ve cast both a creature spell and a noncreature spell this turn, put two +1/+1 counters on target creature you control.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/108.jpg" num="227">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2GUR</manacost>
+				<cmc>5</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM20 Clash of Antlers</name>
+			<text>Put a +1/+1 counter on target creature you control. It gains trample and indestructible until end of turn. Then it fights target creature you don&apos;t control. (Each deals damage equal to its power to the other.)</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/109.jpg" num="228">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>GUR</manacost>
+				<cmc>3</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UW01 Soulfire Clairvoyant</name>
+			<text>Whenever you cast a noncreature spell, this creature gains lifelink until end of turn.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/110.jpg" num="21">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW02 Traveling Merchant</name>
+			<text>When this creature enters, put a +1/+1 counter on target creature you control.
+{2}, Remove a counter from a creature you control: Draw a card. Activate only as a sorcery and only once each turn.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/111.jpg" num="22">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW03 Flying, prowess, vig</name>
+			<text>Flying, vigilance
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/112.jpg" num="23">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW04 Token gen, team pump</name>
+			<text>Whenever this creature attacks, create a 1/1 red Warrior creature token that&apos;s tapped and attacking.
+{4}: Creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/113.jpg" num="24">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW05 Lifelink, heritage</name>
+			<text>Heritage 1 (This enters with a +1/+1 counter. At the beginning of your combat, you may move a +1/+1 counter from this onto another target permanent you control.)
+At the beginning of combat on your turn, target creature gains lifelink until end of turn if it has a counter on it.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/114.jpg" num="25">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW06 Recursion, tapper</name>
+			<text>When this creature enters, return up to one target creature card with mana value 3 or less from your graveyard to your hand.
+Whenever this creature attacks, tap target creature an opponent controls.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/115.jpg" num="26">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW07 PP counter team</name>
+			<text>When this creature enters, put a +1/+1 counter on each other creature you control.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/116.jpg" num="27">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Kirin</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW08 Flying, reanimate</name>
+			<text>Flying
+When this creature enters, return up to one target creature card with mana value 3 or less from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/117.jpg" num="28">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW09 Warrior&apos;s Will</name>
+			<text>Choose one — 
+• Target creature gains indestructible until end of turn. (Effects that say &quot;destroy&quot; don&apos;t destroy this permanent.)
+• Destroy target attacking creature.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/118.jpg" num="29">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UW10 Waste&apos;s Curse</name>
+			<text>When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+{2}, Sacrifice this enchantment: Create a 1/1 white Spirit creature token. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/119.jpg" num="30">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW11 Honor</name>
+			<text>Put a +1/+1 counter on target creature.
+Draw a card.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/120.jpg" num="31">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UW12 Final Encounter</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature or pay {2}.
+Exile target artifact, enchantment, or creature with mana value 3 or greater.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/121.jpg" num="32">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UW13 Face Adversity</name>
+			<text>When this enchantment enters, create a 1/1 red Warrior creature token.
+Whenever you attack, put a +1/+1 counter on target attacking creature.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/122.jpg" num="33">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW14 Whirlsand Blade</name>
+			<text>Flash
+When this Equipment enters, attach it to target creature you control. That creature gains double strike until end of turn.
+Equipped creature gets +1/+1.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/123.jpg" num="34">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU01 Flying, mill</name>
+			<text>Flying
+Whenever this creature attacks, target player mills a card. (They put the top card of their library into their graveyard.)
+{4}, Exile this card from your graveyard: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/124.jpg" num="54">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU03 Master of Balance</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Noncreature spells you cast cost {1} less to cast.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/126.jpg" num="56">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU04 Breezeshaper // Galestep</name>
+			<text>When this creature enters, return up to one other target creature to its owner&apos;s hand.
+
+---
+
+Target creature gains flying until end of turn. (Cast a copy of this spell only once. Cast only if this creature attacked this turn.)</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/127.jpg" num="57">TEX</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Monk // Instant — Technique</type>
+				<maintype>Creature</maintype>
+				<manacost>2U // U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU05 Palace Archivists</name>
+			<text>At the beginning of your end step, if a card left your graveyard this turn, draw a card.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/128.jpg" num="58">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU06 Wingspan Apprentice</name>
+			<text>Flying
+Accord — This creature enters with a +1/+1 counter on it if you&apos;ve cast both a creature and a noncreature spell this turn.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/129.jpg" num="59">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU07 Drifting Disaster</name>
+			<text>This spell costs {1} less to cast for each noncreature, nonland card you own in exile and in your graveyard.
+Flying</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/130.jpg" num="60">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU10 Abandon Allegiance</name>
+			<text>Flash
+Enchant creature
+Enchanted creature loses all abilities and is a colorless Nomad with base power and toughness 1/1. (It loses all colors and all other creature types.)</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/131.jpg" num="63">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU09 Consign to History</name>
+			<text>This spell costs {U} less to cast if it targets a spell that wasn&apos;t cast from its owner&apos;s hand and/or that targets a card in a graveyard. (Technique spells are cast from exile.)
+Counter target spell.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/132.jpg" num="62">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UU08 Consult the Passed</name>
+			<text>This spell costs {1} less to cast if it&apos;s the second spell you cast this turn.
+Draw two cards.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/133.jpg" num="61">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UU11 Ancient Tribute</name>
+			<text>{T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{3}{U}, {T}, Sacrifice this artifact: Return another target noncreature, nonland card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/134.jpg" num="64">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU12 Blend In</name>
+			<text>Tap or untap target creature. Create a token that&apos;s a copy of it.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/135.jpg" num="65">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UU13 Become Obscure</name>
+			<text>Target creature can&apos;t be blocked this turn. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Ceremony—{U}, Exile two other cards from your graveyard. (You may cast a copy of this from your graveyard by exiling it and paying the ceremony cost.)</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/136.jpg" num="66">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UU14 Forbidden Form</name>
+			<text>Flash
+Enchant creature 
+Enchanted creature has base power and toughness 4/4, has flying, and is a Dragon in addition to its other types.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/137.jpg" num="67">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB01 Scrubland Lookout</name>
+			<text>Menace
+Whenever this creature deals combat damage to a player, if it has a counter on it, you draw a card and you lose 1 life.
+{4}{B}: Put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/138.jpg" num="87">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB02 castable from graveyard</name>
+			<text>Haste
+This creature can&apos;t block
+Glory — You may cast this card from your graveyard as long as an attacking creature died under your control this turn.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/139.jpg" num="88">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB03 Indulgent Patron</name>
+			<text>Whenever another creature you control dies, put a +1/+1 counter on this creature.
+When this creature dies, return another target non-Demon creature card with mana value less than or equal to this creature&apos;s power from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/140.jpg" num="89">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB04 name</name>
+			<text>When this creature enters, mill two cards. (Put the top two cards of your library into your graveyard.)
+This creature&apos;s power is equal to the total number of creature cards you own in exile and in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/141.jpg" num="90">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>*/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB05 Remorseless Hordechief</name>
+			<text>When this creature enters, create a 1/1 red Warrior creature token.
+Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/142.jpg" num="91">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ogre Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB06 Kheru Gatekeeper</name>
+			<text>{1}, Discard a card: This creature gains indestructible until end of turn. Tap it.
+Ceremony—{3}{B}, Exile three other cards from your graveyard. (You may cast a copy of this from your graveyard by exiling it and paying the ceremony cost.)</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/143.jpg" num="92">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Snake Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB07 Yathan Heavy</name>
+			<text>Heritage 2 (This enters with two +1/+1 counters. At the beginning of your combat, you may move a +1/+1 counter from this onto another target permanent you control.)
+When this creature enters, target opponent loses X life and you gain X life, where X is the number of counters among creatures you control.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/144.jpg" num="93">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elephant Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB08 Malevolent Force</name>
+			<text>Flying, deathtouch
+When this creature enters, up to one target creature gets -X/-X until end of turn, where X is the number of creatures you control plus the number of creature cards in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/145.jpg" num="94">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB09 Vanquish the Inferior</name>
+			<text>Choose one — 
+• Creature tokens target player controls get -1/-1 until end of turn.
+• Destroy target creature with mana value 3 or less.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/146.jpg" num="95">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UB10 Ancestral Intervention</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature, discard a card, or pay {2}.
+Destroy target creature.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/147.jpg" num="96">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UB12 The Webs I Built</name>
+			<text>Target opponent exiles a card from their hand and a card from their graveyard. That player loses 2 life.
+{3}{B}, Exile this card from your graveyard: You draw a card and you lose 2 life.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/149.jpg" num="98">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UB14 Pillagers&apos; Prize</name>
+			<text>Whenever you attack, target attacking creature gains deathtouch until end of turn.
+Whenever one or more creatures you control deal combat damage to a player, you may pay 1 life. If you do, draw a card.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/150.jpg" num="100">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR02 Mardu Frontliner</name>
+			<text>At the beginning of combat on your turn, you may discard a card. If you do, target creature gets +1/+0 and gains haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/151.jpg" num="122">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR03 firebend</name>
+			<text>Menace
+Whenever this creature attacks, add {R}. Until end of turn, you don&apos;t lose this mana as steps and phases end.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/152.jpg" num="123">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR04 cast i/s grave</name>
+			<text>Menace
+When this creature enters, you may cast an instant or sorcery spell from your graveyard with mana value 2 or less without paying its mana cost. If that spell would be put into your graveyard, exile it instead.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/153.jpg" num="124">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR06 Tiger Path Master // Tiger Strike</name>
+			<text>First strike
+
+---
+
+Tiger Strike deals 1 damage to any target. (Cast a copy of this spell only once. Cast only if this creature attacked this turn.)</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/155.jpg" num="126">TEX</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Monk // Instant — Technique</type>
+				<maintype>Creature</maintype>
+				<manacost>3R // 1R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR07 Twinflame Rakshasa</name>
+			<text>When this creature enters, if you cast it, create a token that&apos;s a copy of target creature you control, except it has haste and &quot;At end of combat, sacrifice this token.&quot;</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/156.jpg" num="127">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR08 small burn</name>
+			<text>small burn deals 2 damage to any target.
+Accord — small burn deals 3 damage instead if you&apos;ve cast both a creature spell and a noncreature spell this turn.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/157.jpg" num="128">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UR09 Horde&apos;s Conquest</name>
+			<text>Choose one —
+• Horde&apos;s Conquest deals 2 damage to each tapped creature.
+• Horde&apos;s Conquest deals 2 damage to each untapped creature.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/158.jpg" num="129">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UR11 trick, bite</name>
+			<text>Choose one — 
+• Target creature gets +2/+0 and gains first strike until end of turn.
+• Target creature you control deals damage equal to its power to target creature an opponent controls.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/159.jpg" num="131">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UR12 team pump, impulse</name>
+			<text>Attacking creatures you control get +1/+0
+Whenever you attack with two or more creatures, exile the top card of your library. You may play it this turn.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/160.jpg" num="132">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR13 Remarkable Statuary</name>
+			<text>Whenever you cast a noncreature spell, this artifact deals 1 damage to each opponent.
+{3}{R}, {T}, Sacrifice this artifact: Copy target instant or sorcery spell you control.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/161.jpg" num="133">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR14 Harness the Wild</name>
+			<text>When this enchantment enters, gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+{3}{R}, Sacrifice this enchantment: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/162.jpg" num="134">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG02 Qal Sisma Avenger</name>
+			<text>{T}: Add one mana of any color.
+Exhaust — {4}{G}{G}: Put three +1/+1 counters and a trample counter on this creature. Activate only as a sorcery. (Activate each exhaust ability only once.)</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/163.jpg" num="155">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG01 Warden of the Hills</name>
+			<text>Deathtouch
+Accord — This creature enters with a +1/+1 counter on it if you&apos;ve cast both a creature spell and a noncreature spell this turn</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/164.jpg" num="154">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warior</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG03 Seasoned Wayfarer</name>
+			<text>Whenever you put one or more counters on a creature, you gain 1 life.
+{4}: Put a +1/+1 counter on this creature. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/165.jpg" num="156">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG04 Simian Oddity</name>
+			<text>This creature can&apos;t be blocked by creatures with power 2 or less.
+Whenever this creature enters or attacks, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/166.jpg" num="157">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ape</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG05 Reckless Rascals</name>
+			<text>Reach
+When this creature enters, you may return another target permanent you control to its owner&apos;s hand. If you do, this creature fights up to one target creature you don&apos;t control. (Each deals damage equal to its power to the other.)</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/167.jpg" num="158">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Yeti</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG06 Kishla Flutefisher</name>
+			<text>When this creature enters, return target card from your graveyard to your hand.
+Ceremony—{4}{G}{G}, Exile three other cards from your graveyard. (You may cast a copy of this from your graveyard by exiling it and paying the ceremony cost.)
+This creature is ceremonialized with two +1/+1 counters on it.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/168.jpg" num="159">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG07 Qatros Foremost</name>
+			<text>Heritage 3 (This enters with three +1/+1 counters. At the beginning of your combat, you may move a +1/+1 counter from this onto another target permanent you control.)
+When this creature enters, double the number of each kind of counter on target creature.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/169.jpg" num="160">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG08 Migrating Mammoths</name>
+			<text>Trample
+When this creature enters, put a +1/+1 counter on each other creature you control. Those creatures gain trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/170.jpg" num="161">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elephant</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG09 Tusk Through</name>
+			<text>This spell costs {2} less to cast to cast if you&apos;ve cast a creature spell this turn.
+Put a +1/+1 counter on target creature you control, then it deals damage equal to its power to target creature an opponent controls.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/171.jpg" num="162">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UG10 Kin-Tree Cultivation</name>
+			<text>Choose one —
+• Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
+• Return up to two lands cards from your graveyard to the battlefield tapped.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/172.jpg" num="163">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UG11 Heritage Reclamation</name>
+			<text>Choose one —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Exile up to one target card from a graveyard. Draw a card.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/173.jpg" num="164">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UG12 Geared for War</name>
+			<text>Flash
+When this enchantment enters, put a +1/+1 counter on target creature you control.
+{3}{G}, Sacrifice this enchantment: Draw a card for each creature you control with a counter on it.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/174.jpg" num="165">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG13 Call the Float</name>
+			<text>Create a 2/2 green Crocodile creature token. Then put a +1/+1 counter on target Crocodile you control.
+Ceremony—{3}{G}, Exile another card from your graveyard. (You may cast a copy of this from your graveyard by exiling it and paying the ceremony cost.)</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/175.jpg" num="166">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UG14 Bloomvine Symbiosis</name>
+			<text>Whenever a creature you control enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{1}{G}, Sacrifice this enchantment: Return target permanent card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/176.jpg" num="167">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB11 Krumar Initiation</name>
+			<text>Return target creature card with mana value 3 or less from your graveyard to the battlefield with an additional +1/+1 counter on it.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/223.jpg" num="97">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
 			<name>CM03 Winding Sage</name>
 			<text>Deathtouch
 When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/239.jpg" num="170">TEX</set>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/238.jpg" num="170">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1422,7 +3090,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Spirit TEX</name>
 			<text></text>
-			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/240.jpg" num="1">TEX</set>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/239.jpg" num="1">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1440,7 +3108,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Warrior TEX</name>
 			<text></text>
-			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/241.jpg" num="2">TEX</set>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/240.jpg" num="2">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1458,7 +3126,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/242.jpg" num="263">TEX</set>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/241.jpg" num="263">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1473,7 +3141,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/243.jpg" num="267">TEX</set>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/242.jpg" num="267">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1488,7 +3156,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/244.jpg" num="266">TEX</set>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/243.jpg" num="266">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1503,7 +3171,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/245.jpg" num="265">TEX</set>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/244.jpg" num="265">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1518,7 +3186,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/246.jpg" num="264">TEX</set>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/245.jpg" num="264">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1529,6 +3197,127 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UB13 Secrets of the Grave</name>
+			<text>When you cast this spell, copy it if a card left your graveyard this turn.
+Surveil 1, then you draw a card and lose 1 life. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/246.jpg" num="99">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UR05 glory rummage</name>
+			<text>Trample
+Glory — Whenever this creature or another creature you control dies, if it was attacking, you may discard a card. If you do, draw a card. Do this only once each turn.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/247.jpg" num="125">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR01 Clever Infiltrator</name>
+			<text>Whenever you cast your first noncreature spell each turn, up to one target creature can&apos;t block this turn.
+{1}, Sacrifice this creature: Target creature can&apos;t block this turn.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/248.jpg" num="121">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR10 Devestating Bolt</name>
+			<text>Devestating Bolt deals 5 damage to target creature. If a creature an opponent controls would die this turn, exile it instead.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/249.jpg" num="130">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Crocodile TEX</name>
+			<text></text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/268.jpg" num="3">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Crocodile</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>UM12 Disown</name>
+			<text>Exile target nonland permanent.</text>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/269.jpg" num="220">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WBG</manacost>
+				<cmc>3</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Elk TEX</name>
+			<text></text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/270.jpg" num="4">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Elk</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

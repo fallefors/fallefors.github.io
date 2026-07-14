@@ -1,4 +1,125 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+UU02 Avenform Guide added.
+CA03 Hate, filter added.
+UL01 Sandsteppe Citadel added.
+UL02 Opulent Palace added.
+UL03 Nomad Outpost added.
+UL04 Mystic Monastery added.
+UL05 Frontier Bivouac added.
+UA01 Ancestral Monument added.
+UA02 Inspiring Monument added.
+UA03 Hidden Monument added.
+UA04 Barren Monument added.
+UA05 Hunter's Monument added.
+UM01 Lowland Outrider added.
+UM02 Ashdune Avenger added.
+UM03 Dazzled Student added.
+UM04 Monastery Sparring added.
+UM05 House's Head added.
+UM06 Death's Attendant added.
+UM07 Reserved Mentor added.
+UM08 Gather the Warband added.
+UM09 Whisperer of the Past added.
+UM10 Sagu Exploration added.
+UM11 Expedition Rhino added.
+UM13 signpost added.
+UM14 Find Balance added.
+UM15 Secretive Serpentmage added.
+UM16 New Secrets added.
+UM17 Steadfast Conqueror added.
+UM18 Violent Onslaught added.
+UM19 signpost added.
+UM20 Clash of Antlers added.
+UW01 Soulfire Clairvoyant added.
+UW02 Traveling Merchant added.
+UW03 Flying, prowess, vig added.
+UW04 Token gen, team pump added.
+UW05 Lifelink, heritage added.
+UW06 Recursion, tapper added.
+UW07 PP counter team added.
+UW08 Flying, reanimate added.
+UW09 Warrior's Will added.
+UW10 Waste's Curse added.
+UW11 Honor added.
+UW12 Final Encounter added.
+UW13 Face Adversity added.
+UW14 Whirlsand Blade added.
+UU01 Flying, mill added.
+UU03 Master of Balance added.
+UU04 Breezeshaper added.
+UU05 Palace Archivists added.
+UU06 Wingspan Apprentice added.
+UU07 Drifting Disaster added.
+UU10 Abandon Allegiance added.
+UU09 Consign to History added.
+UU08 Consult the Passed added.
+UU11 Ancient Tribute added.
+UU12 Blend In added.
+UU13 Become Obscure added.
+UU14 Forbidden Form added.
+UB01 Scrubland Lookout added.
+UB02 castable from graveyard added.
+UB03 Indulgent Patron added.
+UB04 name added.
+UB05 Remorseless Hordechief added.
+UB06 Kheru Gatekeeper added.
+UB07 Yathan Heavy added.
+UB08 Malevolent Force added.
+UB09 Vanquish the Inferior added.
+UB10 Ancestral Intervention added.
+UB12 The Webs I Built added.
+UB14 Pillagers' Prize added.
+UR02 Mardu Frontliner added.
+UR03 firebend added.
+UR04 cast i/s grave added.
+UR06 Tiger Path Master added.
+UR07 Twinflame Rakshasa added.
+UR08 small burn added.
+UR09 Horde's Conquest added.
+UR11 trick, bite added.
+UR12 team pump, impulse added.
+UR13 Remarkable Statuary added.
+UR14 Harness the Wild added.
+UG02 Qal Sisma Avenger added.
+UG01 Warden of the Hills added.
+UG03 Seasoned Wayfarer added.
+UG04 Simian Oddity added.
+UG05 Reckless Rascals added.
+UG06 Kishla Flutefisher added.
+UG07 Qatros Foremost added.
+UG08 Migrating Mammoths added.
+UG09 Tusk Through added.
+UG10 Kin-Tree Cultivation added.
+UG11 Heritage Reclamation added.
+UG12 Geared for War added.
+UG13 Call the Float added.
+UG14 Bloomvine Symbiosis added.
+UB11 Krumar Initiation added.
+UB13 Secrets of the Grave added.
+UR05 glory rummage added.
+UR01 Clever Infiltrator added.
+UR10 Devestating Bolt added.
+Crocodile added.
+UM12 Disown added.
+Elk added.
+
+CA03 Hate, inefficient filter removed.
+
+CU07 Marang River Horror
+rules_text: When this creature enters, target player mill three cards.
+{4}: This creature can't be blocked this turn. => When this creature enters, target player mill three cards. [i](They put the top three cards of their library into their graveyard.)[/i]
+{4}: This creature can't be blocked this turn.
+
+CM03 Winding Sage
+
+Spirit
+
+Warrior
+
+
+VERSION 7 CHANGELOG
 ====================
 
 CG02 Guardian of the Wild added.
