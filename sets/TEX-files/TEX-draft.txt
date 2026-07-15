@@ -491,7 +491,7 @@
 			}
 		},
 		{
-			"name": "CR12 Channel the Storm",
+			"name": "CR12 Seize Opportunity",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
@@ -1051,7 +1051,7 @@
 			}
 		},
 		{
-			"name": "UM16 New Secrets",
+			"name": "UM16 Whisper of Promise",
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}{U}",
 			"type": "Instant",
@@ -1929,7 +1929,7 @@
 	4 UM13 signpost
 	4 UM14 Find Balance
 	4 UM15 Secretive Serpentmage
-	4 UM16 New Secrets
+	4 UM16 Whisper of Promise
 	4 UM17 Steadfast Conqueror
 	4 UM18 Violent Onslaught
 	4 UM19 signpost
@@ -2053,7 +2053,7 @@
 	8 CR09 Nature's Ferocity
 	8 CR10 Harnessed Lightning
 	8 CR11 Lightning Strike
-	8 CR12 Channel the Storm
+	8 CR12 Seize Opportunity
 	8 CB02 Scourge of the Wastes
 	8 CG04 Garden Familiar
 	8 CG05 Trade Route Trailblazer
@@ -2135,7 +2135,7 @@
 	8 CR09 Nature's Ferocity
 	8 CR10 Harnessed Lightning
 	8 CR11 Lightning Strike
-	8 CR12 Channel the Storm
+	8 CR12 Seize Opportunity
 	8 CB02 Scourge of the Wastes
 	8 CG04 Garden Familiar
 	8 CG05 Trade Route Trailblazer
@@ -2218,7 +2218,7 @@
 	12 CR09 Nature's Ferocity
 	12 CR10 Harnessed Lightning
 	12 CR11 Lightning Strike
-	12 CR12 Channel the Storm
+	12 CR12 Seize Opportunity
 	12 CB02 Scourge of the Wastes
 	12 CG04 Garden Familiar
 	12 CG05 Trade Route Trailblazer
@@ -2274,7 +2274,7 @@
 	6 UM13 signpost
 	6 UM14 Find Balance
 	6 UM15 Secretive Serpentmage
-	6 UM16 New Secrets
+	6 UM16 Whisper of Promise
 	6 UM17 Steadfast Conqueror
 	6 UM18 Violent Onslaught
 	6 UM19 signpost
@@ -2400,7 +2400,7 @@
 	6 CR09 Nature's Ferocity
 	6 CR10 Harnessed Lightning
 	6 CR11 Lightning Strike
-	6 CR12 Channel the Storm
+	6 CR12 Seize Opportunity
 	6 CB02 Scourge of the Wastes
 	6 CG04 Garden Familiar
 	6 CG05 Trade Route Trailblazer
@@ -2456,7 +2456,7 @@
 	15 UM13 signpost
 	15 UM14 Find Balance
 	15 UM15 Secretive Serpentmage
-	15 UM16 New Secrets
+	15 UM16 Whisper of Promise
 	15 UM17 Steadfast Conqueror
 	15 UM18 Violent Onslaught
 	15 UM19 signpost

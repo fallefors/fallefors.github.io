@@ -489,9 +489,9 @@
             "number": 107,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "{1}, Sacrifice a nonland permanent: This creature gets +2/+0 and gains trample until end of turn. Activate this ability only once each turn.",
+            "rules_text": "Menace\nWhen this creature enters, you may sacrifice another creature. If you do, this creature deals 2 damage to any target.",
             "flavor_text": "[i][/i]",
-            "pt": "3/4",
+            "pt": "4/3",
             "special_text": "",
             "shape": "normal",
             "set": "TEX",
@@ -922,7 +922,7 @@
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "",
-            "flavor_text": "[i]According to others, rage was a beast to be tamed. To him, it was a weapon to be wielded fiercely.[/i]",
+            "flavor_text": "[i]According to others, rage was a beast to be tamed. To him, it was a weapon to be wielded without remorse.[/i]",
             "pt": "3/2",
             "special_text": "",
             "shape": "adventure",
@@ -944,7 +944,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "might need more, not appealing"
         },
         {
             "card_name": "CG06 Bogwort Beast",
@@ -1073,7 +1073,7 @@
             "notes": ""
         },
         {
-            "card_name": "CR12 Channel the Storm",
+            "card_name": "CR12 Seize Opportunity",
             "color": "R",
             "rarity": "common",
             "type": "Instant",
@@ -1899,14 +1899,14 @@
             "number": 239,
             "color_identity": "UBG",
             "cost": "{2}",
-            "rules_text": "When this artifact enters, search your library for a basic Swamp, Forest, or Island card, reveal it, put it into your hand, then shuffle.\n{B}{G}{U}, {T}, Sacrifice this artifact: Surveil 2. Activate only as a sorcery. [i](To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]",
+            "rules_text": "When this artifact enters, search your library for a basic Swamp, Forest, or Island card, reveal it, put it into your hand, then shuffle.\n{B}{G}{U}, {T}, Sacrifice this artifact: Surveil 2, then draw a card. Activate only as a sorcery. [i](To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "TEX",
             "loyalty": "",
-            "artist": "",
+            "artist": "Jonathan Lampel",
             "alias": "",
             "position": "88",
             "rotated": false,
@@ -2249,7 +2249,7 @@
             "notes": ""
         },
         {
-            "card_name": "UM16 New Secrets",
+            "card_name": "UM16 Whisper of Promise",
             "color": "UBG",
             "rarity": "uncommon",
             "type": "Instant",
@@ -2751,9 +2751,9 @@
             "number": 59,
             "color_identity": "U",
             "cost": "{3}{U}",
-            "rules_text": "Flying\n[i]Accord[/i] \u2014 This creature enters with a +1/+1 counter on it if you've cast both a creature and a noncreature spell this turn.",
+            "rules_text": "Flying\n[i]Accord[/i] \u2014 When this creature enters, choose one. If you've cast both a creature and a noncreature spell this turn, choose both instead.\n\u2022 Put a +1/+1 counter on this creature.\n\u2022 Draw a card.",
             "flavor_text": "[i][/i]",
-            "pt": "3/2",
+            "pt": "2/3",
             "special_text": "",
             "shape": "normal",
             "set": "TEX",
@@ -2930,7 +2930,7 @@
             "alias": "",
             "position": "137",
             "rotated": false,
-            "notes": ""
+            "notes": "eyes"
         },
         {
             "card_name": "UB01 Scrubland Lookout",
@@ -3245,7 +3245,7 @@
             "alias": "",
             "position": "153",
             "rotated": false,
-            "notes": ""
+            "notes": "eyes"
         },
         {
             "card_name": "UR06 Tiger Path Master",
@@ -4058,5 +4058,5 @@
             "notes": ""
         }
     ],
-    "version": 8
+    "version": 9
 }

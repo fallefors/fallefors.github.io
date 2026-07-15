@@ -5,7 +5,7 @@
 			<name>TEX</name>
 			<longname>Tarkir: Extinction</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-14</releasedate>
+			<releasedate>2026-07-15</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -402,7 +402,8 @@ Whenever you cast a noncreature spell, put a +1/+1 counter on this creature. Thi
 		</card>
 		<card>
 			<name>CR07 Ruthless Slayer</name>
-			<text>{1}, Sacrifice a nonland permanent: This creature gets +2/+0 and gains trample until end of turn. Activate this ability only once each turn.</text>
+			<text>Menace
+When this creature enters, you may sacrifice another creature. If you do, this creature deals 2 damage to any target.</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/22.jpg" num="107">TEX</set>
 			<prop>
 				<layout>normal</layout>
@@ -413,7 +414,7 @@ Whenever you cast a noncreature spell, put a +1/+1 counter on this creature. Thi
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>3/4</pt>
+				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -875,7 +876,7 @@ Enchanted creature gets +1/+1.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CR12 Channel the Storm</name>
+			<name>CR12 Seize Opportunity</name>
 			<text>Choose one —
 • Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
 • Up to two target creatures each get +2/+1 until end of turn.</text>
@@ -1533,7 +1534,7 @@ When this land enters, you gain 1 life.
 		<card>
 			<name>UA03 Hidden Monument</name>
 			<text>When this artifact enters, search your library for a basic Swamp, Forest, or Island card, reveal it, put it into your hand, then shuffle.
-{B}{G}{U}, {T}, Sacrifice this artifact: Surveil 2. Activate only as a sorcery. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+{B}{G}{U}, {T}, Sacrifice this artifact: Surveil 2, then draw a card. Activate only as a sorcery. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
 			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/88.jpg" num="239">TEX</set>
 			<prop>
 				<layout>normal</layout>
@@ -1829,7 +1830,7 @@ This creature gets +3/+2 as long as you own seven or more cards in exile and/or 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UM16 New Secrets</name>
+			<name>UM16 Whisper of Promise</name>
 			<text>Surveil 2, then draw two cards. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
 			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/105.jpg" num="224">TEX</set>
 			<prop>
@@ -2238,7 +2239,9 @@ Target creature gains flying until end of turn. (Cast a copy of this spell only 
 		<card>
 			<name>UU06 Wingspan Apprentice</name>
 			<text>Flying
-Accord — This creature enters with a +1/+1 counter on it if you&apos;ve cast both a creature and a noncreature spell this turn.</text>
+Accord — When this creature enters, choose one. If you&apos;ve cast both a creature and a noncreature spell this turn, choose both instead.
+• Put a +1/+1 counter on this creature.
+• Draw a card.</text>
 			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/129.jpg" num="59">TEX</set>
 			<prop>
 				<layout>normal</layout>
@@ -2249,7 +2252,7 @@ Accord — This creature enters with a +1/+1 counter on it if you&apos;ve cast b
 				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>3/2</pt>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

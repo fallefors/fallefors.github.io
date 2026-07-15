@@ -1,4 +1,38 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+CR12 Seize Opportunity added.
+UM16 Whisper of Promise added.
+
+CR12 Channel the Storm removed.
+UM16 New Secrets removed.
+
+CR07 Ruthless Slayer
+rules_text: {1}, Sacrifice a nonland permanent: This creature gets +2/+0 and gains trample until end of turn. Activate this ability only once each turn. => Menace
+When this creature enters, you may sacrifice another creature. If you do, this creature deals 2 damage to any target.
+pt: 3/4 => 4/3
+
+CR05 Unorthodox Practitioner
+
+UA03 Hidden Monument
+rules_text: When this artifact enters, search your library for a basic Swamp, Forest, or Island card, reveal it, put it into your hand, then shuffle.
+{B}{G}{U}, {T}, Sacrifice this artifact: Surveil 2. Activate only as a sorcery. [i](To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i] => When this artifact enters, search your library for a basic Swamp, Forest, or Island card, reveal it, put it into your hand, then shuffle.
+{B}{G}{U}, {T}, Sacrifice this artifact: Surveil 2, then draw a card. Activate only as a sorcery. [i](To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+
+UU06 Wingspan Apprentice
+rules_text: Flying
+[i]Accord[/i] — This creature enters with a +1/+1 counter on it if you've cast both a creature and a noncreature spell this turn. => Flying
+[i]Accord[/i] — When this creature enters, choose one. If you've cast both a creature and a noncreature spell this turn, choose both instead.
+• Put a +1/+1 counter on this creature.
+• Draw a card.
+pt: 3/2 => 2/3
+
+UU14 Forbidden Form
+
+UR04 cast i/s grave
+
+
+VERSION 8 CHANGELOG
 ====================
 
 UU02 Avenform Guide added.
