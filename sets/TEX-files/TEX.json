@@ -272,7 +272,7 @@
             "notes": ""
         },
         {
-            "card_name": "CW08 Medium Flying, hate",
+            "card_name": "CW08 medium Flying, hate",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2014 Bird",
@@ -356,7 +356,7 @@
             "notes": ""
         },
         {
-            "card_name": "CG12 Trick",
+            "card_name": "CG12 trick",
             "color": "G",
             "rarity": "common",
             "type": "Instant",
@@ -398,7 +398,7 @@
             "notes": ""
         },
         {
-            "card_name": "CB03 Small sac",
+            "card_name": "CB03 small sac",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Zombie Warrior",
@@ -419,7 +419,7 @@
             "notes": ""
         },
         {
-            "card_name": "CU04 Medium flying recursion",
+            "card_name": "CU04 medium flying recursion",
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2014 Bird Druid",
@@ -440,7 +440,7 @@
             "notes": ""
         },
         {
-            "card_name": "CB05 Medium flying",
+            "card_name": "CB05 medium flying",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Zombie Bird",
@@ -566,7 +566,7 @@
             "notes": ""
         },
         {
-            "card_name": "CU11 Bounce",
+            "card_name": "CU11 bounce",
             "color": "U",
             "rarity": "common",
             "type": "Instant",
@@ -587,7 +587,7 @@
             "notes": ""
         },
         {
-            "card_name": "CW12 Disenchant",
+            "card_name": "CW12 disenchant",
             "color": "W",
             "rarity": "common",
             "type": "Sorcery",
@@ -608,7 +608,7 @@
             "notes": ""
         },
         {
-            "card_name": "CU01 Small flash tap",
+            "card_name": "CU01 small flash tap",
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2014 Human Rogue",
@@ -629,7 +629,7 @@
             "notes": ""
         },
         {
-            "card_name": "CR01 Small",
+            "card_name": "CR01 small",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Human Monk",
@@ -650,7 +650,7 @@
             "notes": ""
         },
         {
-            "card_name": "CU03 Small",
+            "card_name": "CU03 small",
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2014 Human Monk",
@@ -667,7 +667,7 @@
             "artist": "Angelo Adonis Chavez",
             "alias": "",
             "position": "30",
-            "card_name2": "Loot",
+            "card_name2": "loot",
             "color2": "U",
             "type2": "Instant \u2014 Technique",
             "cost2": "{2}{U}",
@@ -704,7 +704,7 @@
             "notes": ""
         },
         {
-            "card_name": "CU06 Medium flying",
+            "card_name": "CU06 medium flying",
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2014 Kirin",
@@ -746,7 +746,7 @@
             "notes": ""
         },
         {
-            "card_name": "CU08 Counter",
+            "card_name": "CU08 counter",
             "color": "U",
             "rarity": "common",
             "type": "Instant",
@@ -788,7 +788,7 @@
             "notes": ""
         },
         {
-            "card_name": "CU10 Stun",
+            "card_name": "CU10 stun",
             "color": "U",
             "rarity": "common",
             "type": "Instant",
@@ -830,7 +830,7 @@
             "notes": ""
         },
         {
-            "card_name": "CU12 Draw spell",
+            "card_name": "CU12 draw spell",
             "color": "U",
             "rarity": "common",
             "type": "Instant",
@@ -1241,7 +1241,7 @@
             "notes": ""
         },
         {
-            "card_name": "CB09 Unconditional removal",
+            "card_name": "CB09 removal",
             "color": "B",
             "rarity": "common",
             "type": "Sorcery",
@@ -1268,7 +1268,7 @@
             "type": "Instant",
             "number": 77,
             "color_identity": "B",
-            "cost": "{2}{B}",
+            "cost": "{1}{B}",
             "rules_text": "Target creature gets -3/-3 until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -1325,7 +1325,7 @@
             "notes": "ft\nDuring Silumgar's rule, unlife meant eternal servitude. Now, (something)"
         },
         {
-            "card_name": "CA01 Manalith",
+            "card_name": "CA01 manalith",
             "color": "",
             "rarity": "common",
             "type": "Artifact",
@@ -1346,7 +1346,7 @@
             "notes": ""
         },
         {
-            "card_name": "CA02 Broad removal",
+            "card_name": "CA02 broad removal",
             "color": "",
             "rarity": "common",
             "type": "Artifact",
@@ -1367,7 +1367,7 @@
             "notes": ""
         },
         {
-            "card_name": "CA03 Hate, filter",
+            "card_name": "CA03 hate, filter",
             "color": "",
             "rarity": "common",
             "type": "Artifact Creature",
@@ -1388,7 +1388,7 @@
             "notes": ""
         },
         {
-            "card_name": "CA04 Flyer, mill",
+            "card_name": "CA04 flyer, mill",
             "color": "",
             "rarity": "common",
             "type": "Artifact Creature",
@@ -1409,7 +1409,7 @@
             "notes": ""
         },
         {
-            "card_name": "CA05 Fix",
+            "card_name": "CA05 fix",
             "color": "",
             "rarity": "common",
             "type": "Artifact",
@@ -1448,7 +1448,7 @@
             "alias": "",
             "position": "66",
             "rotated": false,
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "CL01 Tranquil Cove",
@@ -1469,7 +1469,7 @@
             "alias": "",
             "position": "67",
             "rotated": false,
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "CM01 Reclaimer of Tradition",
@@ -1574,7 +1574,7 @@
             "alias": "",
             "position": "72",
             "rotated": false,
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "CL03 Bloodfell Caves",
@@ -1595,7 +1595,7 @@
             "alias": "",
             "position": "73",
             "rotated": false,
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "CL04 Rugged Highlands",
@@ -1616,7 +1616,7 @@
             "alias": "",
             "position": "74",
             "rotated": false,
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "CL05 Blossoming Sands",
@@ -1637,7 +1637,7 @@
             "alias": "",
             "position": "75",
             "rotated": false,
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "CL06 Scoured Barrens",
@@ -1658,7 +1658,7 @@
             "alias": "",
             "position": "76",
             "rotated": false,
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "CL07 Swiftwater Cliffs",
@@ -1679,7 +1679,7 @@
             "alias": "",
             "position": "77",
             "rotated": false,
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "CL08 Jungle Hollow",
@@ -1700,7 +1700,7 @@
             "alias": "",
             "position": "78",
             "rotated": false,
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "CL09 Wind-Scarred Crag",
@@ -1721,7 +1721,7 @@
             "alias": "",
             "position": "79",
             "rotated": false,
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "CL10 Thornwood Falls",
@@ -1742,7 +1742,7 @@
             "alias": "",
             "position": "80",
             "rotated": false,
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "UL01 Sandsteppe Citadel",
@@ -2396,7 +2396,7 @@
             "notes": ""
         },
         {
-            "card_name": "UW03 Flying, prowess, vig",
+            "card_name": "UW03 flying, prowess, vig",
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2014 Bird Warrior",
@@ -2417,7 +2417,7 @@
             "notes": ""
         },
         {
-            "card_name": "UW04 Token gen, team pump",
+            "card_name": "UW04 token gen, team pump",
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Soldier",
@@ -2438,7 +2438,7 @@
             "notes": ""
         },
         {
-            "card_name": "UW05 Lifelink, heritage",
+            "card_name": "UW05 lifelink, heritage",
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2014 Dog Warrior",
@@ -2459,7 +2459,7 @@
             "notes": ""
         },
         {
-            "card_name": "UW06 Recursion, tapper",
+            "card_name": "UW06 recursion, tapper",
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Scout",
@@ -2480,7 +2480,7 @@
             "notes": ""
         },
         {
-            "card_name": "UW07 PP counter team",
+            "card_name": "UW07 pp counter team",
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2014 Kirin",
@@ -2501,7 +2501,7 @@
             "notes": ""
         },
         {
-            "card_name": "UW08 Flying, reanimate",
+            "card_name": "UW08 flying, reanimate",
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2014 Bird",
@@ -2648,7 +2648,7 @@
             "notes": ""
         },
         {
-            "card_name": "UU01 Flying, mill",
+            "card_name": "UU01 flying, mill",
             "color": "U",
             "rarity": "uncommon",
             "type": "Creature \u2014 Bird",
@@ -4058,5 +4058,5 @@
             "notes": ""
         }
     ],
-    "version": 9
+    "version": 10
 }

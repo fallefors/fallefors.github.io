@@ -8,7 +8,7 @@
         "position": "110"
     },
     {
-        "card_name": "UU01 Flying, mill",
+        "card_name": "UU01 flying, mill",
         "number": 54,
         "shape": "normal",
         "set": "TEX",
@@ -80,7 +80,7 @@
         "position": "163"
     },
     {
-        "card_name": "UW03 Flying, prowess, vig",
+        "card_name": "UW03 flying, prowess, vig",
         "number": 23,
         "shape": "normal",
         "set": "TEX",
@@ -120,7 +120,7 @@
         "position": "165"
     },
     {
-        "card_name": "UW04 Token gen, team pump",
+        "card_name": "UW04 token gen, team pump",
         "number": 24,
         "shape": "normal",
         "set": "TEX",
@@ -160,7 +160,7 @@
         "position": "166"
     },
     {
-        "card_name": "UW05 Lifelink, heritage",
+        "card_name": "UW05 lifelink, heritage",
         "number": 25,
         "shape": "normal",
         "set": "TEX",
@@ -200,7 +200,7 @@
         "position": "167"
     },
     {
-        "card_name": "UW06 Recursion, tapper",
+        "card_name": "UW06 recursion, tapper",
         "number": 26,
         "shape": "normal",
         "set": "TEX",
@@ -240,7 +240,7 @@
         "position": "168"
     },
     {
-        "card_name": "UW07 PP counter team",
+        "card_name": "UW07 pp counter team",
         "number": 27,
         "shape": "normal",
         "set": "TEX",
@@ -280,7 +280,7 @@
         "position": "169"
     },
     {
-        "card_name": "UW08 Flying, reanimate",
+        "card_name": "UW08 flying, reanimate",
         "number": 28,
         "shape": "normal",
         "set": "TEX",
@@ -568,7 +568,7 @@
         "position": "7"
     },
     {
-        "card_name": "CU01 Small flash tap",
+        "card_name": "CU01 small flash tap",
         "number": 35,
         "shape": "normal",
         "set": "TEX",
@@ -584,7 +584,7 @@
         "position": "3"
     },
     {
-        "card_name": "CR01 Small",
+        "card_name": "CR01 small",
         "number": 101,
         "shape": "normal",
         "set": "TEX",
@@ -648,7 +648,7 @@
         "position": "8"
     },
     {
-        "card_name": "CU03 Small",
+        "card_name": "CU03 small",
         "number": 37,
         "shape": "adventure",
         "set": "TEX",
@@ -656,7 +656,7 @@
         "position": "30"
     },
     {
-        "card_name": "CB03 Small sac",
+        "card_name": "CB03 small sac",
         "number": 70,
         "shape": "normal",
         "set": "TEX",
@@ -688,7 +688,7 @@
         "position": "9"
     },
     {
-        "card_name": "CU04 Medium flying recursion",
+        "card_name": "CU04 medium flying recursion",
         "number": 38,
         "shape": "normal",
         "set": "TEX",
@@ -736,7 +736,7 @@
         "position": "31"
     },
     {
-        "card_name": "CB05 Medium flying",
+        "card_name": "CB05 medium flying",
         "number": 72,
         "shape": "normal",
         "set": "TEX",
@@ -768,7 +768,7 @@
         "position": "6"
     },
     {
-        "card_name": "CU06 Medium flying",
+        "card_name": "CU06 medium flying",
         "number": 40,
         "shape": "normal",
         "set": "TEX",
@@ -840,7 +840,7 @@
         "position": "55"
     },
     {
-        "card_name": "CW08 Medium Flying, hate",
+        "card_name": "CW08 medium Flying, hate",
         "number": 9,
         "shape": "normal",
         "set": "TEX",
@@ -848,7 +848,7 @@
         "position": "12"
     },
     {
-        "card_name": "CU08 Counter",
+        "card_name": "CU08 counter",
         "number": 42,
         "shape": "normal",
         "set": "TEX",
@@ -896,7 +896,7 @@
         "position": "35"
     },
     {
-        "card_name": "CB09 Unconditional removal",
+        "card_name": "CB09 removal",
         "number": 76,
         "shape": "normal",
         "set": "TEX",
@@ -928,7 +928,7 @@
         "position": "25"
     },
     {
-        "card_name": "CU10 Stun",
+        "card_name": "CU10 stun",
         "number": 44,
         "shape": "normal",
         "set": "TEX",
@@ -968,7 +968,7 @@
         "position": "15"
     },
     {
-        "card_name": "CU11 Bounce",
+        "card_name": "CU11 bounce",
         "number": 45,
         "shape": "normal",
         "set": "TEX",
@@ -1000,7 +1000,7 @@
         "position": "37"
     },
     {
-        "card_name": "CW12 Disenchant",
+        "card_name": "CW12 disenchant",
         "number": 13,
         "shape": "normal",
         "set": "TEX",
@@ -1008,7 +1008,7 @@
         "position": "27"
     },
     {
-        "card_name": "CU12 Draw spell",
+        "card_name": "CU12 draw spell",
         "number": 46,
         "shape": "normal",
         "set": "TEX",
@@ -1032,7 +1032,7 @@
         "position": "49"
     },
     {
-        "card_name": "CG12 Trick",
+        "card_name": "CG12 trick",
         "number": 146,
         "shape": "normal",
         "set": "TEX",
@@ -1323,7 +1323,7 @@
         "position": "90"
     },
     {
-        "card_name": "CA01 Manalith",
+        "card_name": "CA01 manalith",
         "number": 229,
         "shape": "normal",
         "set": "TEX",
@@ -1331,7 +1331,7 @@
         "position": "61"
     },
     {
-        "card_name": "CA02 Broad removal",
+        "card_name": "CA02 broad removal",
         "number": 230,
         "shape": "normal",
         "set": "TEX",
@@ -1339,7 +1339,7 @@
         "position": "62"
     },
     {
-        "card_name": "CA03 Hate, filter",
+        "card_name": "CA03 hate, filter",
         "number": 231,
         "shape": "normal",
         "set": "TEX",
@@ -1347,7 +1347,7 @@
         "position": "63"
     },
     {
-        "card_name": "CA04 Flyer, mill",
+        "card_name": "CA04 flyer, mill",
         "number": 232,
         "shape": "normal",
         "set": "TEX",
@@ -1355,7 +1355,7 @@
         "position": "64"
     },
     {
-        "card_name": "CA05 Fix",
+        "card_name": "CA05 fix",
         "number": 233,
         "shape": "normal",
         "set": "TEX",

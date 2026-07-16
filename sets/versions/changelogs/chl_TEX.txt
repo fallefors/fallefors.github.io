@@ -1,4 +1,89 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+CW08 medium Flying, hate added.
+CG12 trick added.
+CB03 small sac added.
+CU04 medium flying recursion added.
+CB05 medium flying added.
+CU11 bounce added.
+CW12 disenchant added.
+CU01 small flash tap added.
+CR01 small added.
+CU03 small added.
+CU06 medium flying added.
+CU08 counter added.
+CU10 stun added.
+CU12 draw spell added.
+CB09 removal added.
+CA01 manalith added.
+CA02 broad removal added.
+CA03 hate, filter added.
+CA04 flyer, mill added.
+CA05 fix added.
+UW03 flying, prowess, vig added.
+UW04 token gen, team pump added.
+UW05 lifelink, heritage added.
+UW06 recursion, tapper added.
+UW07 pp counter team added.
+UW08 flying, reanimate added.
+UU01 flying, mill added.
+
+CW08 Medium Flying, hate removed.
+CG12 Trick removed.
+CB03 Small sac removed.
+CU04 Medium flying recursion removed.
+CB05 Medium flying removed.
+CU11 Bounce removed.
+CW12 Disenchant removed.
+CU01 Small flash tap removed.
+CR01 Small removed.
+CU03 Small removed.
+CU06 Medium flying removed.
+CU08 Counter removed.
+CU10 Stun removed.
+CU12 Draw spell removed.
+CB09 Unconditional removal removed.
+CA01 Manalith removed.
+CA02 Broad removal removed.
+CA03 Hate, filter removed.
+CA04 Flyer, mill removed.
+CA05 Fix removed.
+UW03 Flying, prowess, vig removed.
+UW04 Token gen, team pump removed.
+UW05 Lifelink, heritage removed.
+UW06 Recursion, tapper removed.
+UW07 PP counter team removed.
+UW08 Flying, reanimate removed.
+UU01 Flying, mill removed.
+
+CB10 Chokehold
+cost: {2}{B} => {1}{B}
+
+CL11 Evolving Wilds
+
+CL01 Tranquil Cove
+
+CL02 Dismal Backwater
+
+CL03 Bloodfell Caves
+
+CL04 Rugged Highlands
+
+CL05 Blossoming Sands
+
+CL06 Scoured Barrens
+
+CL07 Swiftwater Cliffs
+
+CL08 Jungle Hollow
+
+CL09 Wind-Scarred Crag
+
+CL10 Thornwood Falls
+
+
+VERSION 9 CHANGELOG
 ====================
 
 CR12 Seize Opportunity added.

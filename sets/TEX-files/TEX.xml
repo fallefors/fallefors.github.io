@@ -5,7 +5,7 @@
 			<name>TEX</name>
 			<longname>Tarkir: Extinction</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-15</releasedate>
+			<releasedate>2026-07-16</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -228,7 +228,7 @@ When this creature enters, put a +1/+1 counter on target creature you control.</
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CW08 Medium Flying, hate</name>
+			<name>CW08 medium Flying, hate</name>
 			<text>Flying, vigilance
 When this creature enters, exile up to two target cards from graveyards.</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/12.jpg" num="9">TEX</set>
@@ -296,7 +296,7 @@ Ceremony—{1}{G}, Exile another card from your graveyard. (You may cast a copy 
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CG12 Trick</name>
+			<name>CG12 trick</name>
 			<text>Put a +1/+1 counter on target creature you control. It gains reach, trample, and indestructible until end of turn. Untap it. (Damage and effects that say &quot;destroy&quot; don&apos;t destroy it.)</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/16.jpg" num="146">TEX</set>
 			<prop>
@@ -330,7 +330,7 @@ Ceremony—{1}{G}, Exile another card from your graveyard. (You may cast a copy 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CB03 Small sac</name>
+			<name>CB03 small sac</name>
 			<text>{2}, Sacrifice a creature: Each opponent loses 2 life. Activate only once each turn.</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/18.jpg" num="70">TEX</set>
 			<prop>
@@ -347,7 +347,7 @@ Ceremony—{1}{G}, Exile another card from your graveyard. (You may cast a copy 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CU04 Medium flying recursion</name>
+			<name>CU04 medium flying recursion</name>
 			<text>Flying
 {2}, Sacrifice this creature: Return target instant or sorcery card from your graveyard to your hand.</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/19.jpg" num="38">TEX</set>
@@ -365,7 +365,7 @@ Ceremony—{1}{G}, Exile another card from your graveyard. (You may cast a copy 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CB05 Medium flying</name>
+			<name>CB05 medium flying</name>
 			<text>Flying
 Whenever this creature attacks, you may exile a card from your graveyard. If you do, target opponent loses 1 life and you gain 1 life.</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/20.jpg" num="72">TEX</set>
@@ -471,7 +471,7 @@ Enchanted creature can&apos;t attack or block.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CU11 Bounce</name>
+			<name>CU11 bounce</name>
 			<text>Return target nonland permanent to its owner&apos;s hand. If it was attacking, draw a card.</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/26.jpg" num="45">TEX</set>
 			<prop>
@@ -487,7 +487,7 @@ Enchanted creature can&apos;t attack or block.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CW12 Disenchant</name>
+			<name>CW12 disenchant</name>
 			<text>Destroy target artifact or enchantment. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/27.jpg" num="13">TEX</set>
 			<prop>
@@ -503,7 +503,7 @@ Enchanted creature can&apos;t attack or block.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CU01 Small flash tap</name>
+			<name>CU01 small flash tap</name>
 			<text>Flash
 When this creature enters, tap target creature an opponent controls.</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/28.jpg" num="35">TEX</set>
@@ -521,7 +521,7 @@ When this creature enters, tap target creature an opponent controls.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CR01 Small</name>
+			<name>CR01 small</name>
 			<text>Whenever you cast a noncreature spell, this creature gets +1/+0 and gains haste until end of turn. This ability triggers only once each turn.</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/29.jpg" num="101">TEX</set>
 			<prop>
@@ -538,7 +538,7 @@ When this creature enters, tap target creature an opponent controls.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CU03 Small // Loot</name>
+			<name>CU03 small // loot</name>
 			<text>---
 
 Draw two cards, then discard a card. (Cast a copy of this spell only once. Cast only if this creature attacked this turn.)</text>
@@ -575,7 +575,7 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CU06 Medium flying</name>
+			<name>CU06 medium flying</name>
 			<text>Flying
 Whenever you cast a noncreature spell, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/32.jpg" num="40">TEX</set>
@@ -611,7 +611,7 @@ Whenever you cast a noncreature spell, surveil 1. (Look at the top card of your 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CU08 Counter</name>
+			<name>CU08 counter</name>
 			<text>Choose one — 
 • Counter target creature spell.
 • Draw two cards, then discard a card.</text>
@@ -646,7 +646,7 @@ Ceremony—{4}{U}, Exile three other cards from your graveyard. (You may cast a 
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CU10 Stun</name>
+			<name>CU10 stun</name>
 			<text>Tap target creature and put a stun counter on it.
 Draw a card, then discard a card.</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/36.jpg" num="44">TEX</set>
@@ -679,7 +679,7 @@ Draw a card, then discard a card.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CU12 Draw spell</name>
+			<name>CU12 draw spell</name>
 			<text>Draw three cards, then discard a card.</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/38.jpg" num="46">TEX</set>
 			<prop>
@@ -1021,7 +1021,7 @@ Creatures you control with +1/+1 counters on them have trample.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CB09 Unconditional removal</name>
+			<name>CB09 removal</name>
 			<text>Destroy target creature. Put a +1/+1 counter on a creature you control.</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/57.jpg" num="76">TEX</set>
 			<prop>
@@ -1045,8 +1045,8 @@ Creatures you control with +1/+1 counters on them have trample.</text>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>2B</manacost>
-				<cmc>3</cmc>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
@@ -1086,7 +1086,7 @@ Ceremony—{2}{B}, Exile two other cards from your graveyard. (You may cast a co
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CA01 Manalith</name>
+			<name>CA01 manalith</name>
 			<text>{T}: Add one mana of any color.
 {2}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/61.jpg" num="229">TEX</set>
@@ -1101,7 +1101,7 @@ Ceremony—{2}{B}, Exile two other cards from your graveyard. (You may cast a co
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CA02 Broad removal</name>
+			<name>CA02 broad removal</name>
 			<text>When this artifact enters, you may discard a card. If you do, draw a card.
 {5}, {T}: Sacrifice this artifact: Destroy target nonland permanent. Activate only as a sorcery.</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/62.jpg" num="230">TEX</set>
@@ -1116,7 +1116,7 @@ Ceremony—{2}{B}, Exile two other cards from your graveyard. (You may cast a co
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CA03 Hate, filter</name>
+			<name>CA03 hate, filter</name>
 			<text>When this creature enters, put up to one target card from a graveyard on the bottom of its owner&apos;s library.
 {1}: Add one mana of any color. Activate only once each turn.</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/63.jpg" num="231">TEX</set>
@@ -1132,7 +1132,7 @@ Ceremony—{2}{B}, Exile two other cards from your graveyard. (You may cast a co
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CA04 Flyer, mill</name>
+			<name>CA04 flyer, mill</name>
 			<text>Flying
 When this creature enters, target player mills two cards. You gain 2 life. (To mill two cards, a player puts the top two cards of their library into their graveyard.)</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/64.jpg" num="232">TEX</set>
@@ -1148,7 +1148,7 @@ When this creature enters, target player mills two cards. You gain 2 life. (To m
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CA05 Fix</name>
+			<name>CA05 fix</name>
 			<text>When this artifact enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.
 {1}, Sacrifice this artifact: Draw a card.</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/65.jpg" num="233">TEX</set>
@@ -1950,7 +1950,7 @@ Accord — At the beginning of your end step, if you&apos;ve cast both a creatur
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UW03 Flying, prowess, vig</name>
+			<name>UW03 flying, prowess, vig</name>
 			<text>Flying, vigilance
 Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
 			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/112.jpg" num="23">TEX</set>
@@ -1968,7 +1968,7 @@ Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until e
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UW04 Token gen, team pump</name>
+			<name>UW04 token gen, team pump</name>
 			<text>Whenever this creature attacks, create a 1/1 red Warrior creature token that&apos;s tapped and attacking.
 {4}: Creatures you control get +1/+1 until end of turn.</text>
 			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/113.jpg" num="24">TEX</set>
@@ -1986,7 +1986,7 @@ Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until e
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UW05 Lifelink, heritage</name>
+			<name>UW05 lifelink, heritage</name>
 			<text>Heritage 1 (This enters with a +1/+1 counter. At the beginning of your combat, you may move a +1/+1 counter from this onto another target permanent you control.)
 At the beginning of combat on your turn, target creature gains lifelink until end of turn if it has a counter on it.</text>
 			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/114.jpg" num="25">TEX</set>
@@ -2004,7 +2004,7 @@ At the beginning of combat on your turn, target creature gains lifelink until en
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UW06 Recursion, tapper</name>
+			<name>UW06 recursion, tapper</name>
 			<text>When this creature enters, return up to one target creature card with mana value 3 or less from your graveyard to your hand.
 Whenever this creature attacks, tap target creature an opponent controls.</text>
 			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/115.jpg" num="26">TEX</set>
@@ -2022,7 +2022,7 @@ Whenever this creature attacks, tap target creature an opponent controls.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UW07 PP counter team</name>
+			<name>UW07 pp counter team</name>
 			<text>When this creature enters, put a +1/+1 counter on each other creature you control.</text>
 			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/116.jpg" num="27">TEX</set>
 			<prop>
@@ -2039,7 +2039,7 @@ Whenever this creature attacks, tap target creature an opponent controls.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UW08 Flying, reanimate</name>
+			<name>UW08 flying, reanimate</name>
 			<text>Flying
 When this creature enters, return up to one target creature card with mana value 3 or less from your graveyard to the battlefield.</text>
 			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/117.jpg" num="28">TEX</set>
@@ -2162,7 +2162,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UU01 Flying, mill</name>
+			<name>UU01 flying, mill</name>
 			<text>Flying
 Whenever this creature attacks, target player mills a card. (They put the top card of their library into their graveyard.)
 {4}, Exile this card from your graveyard: Draw a card.</text>
