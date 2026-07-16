@@ -228,7 +228,7 @@ When this creature enters, put a +1/+1 counter on target creature you control.</
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CW08 medium Flying, hate</name>
+			<name>CW08 medium flying, hate</name>
 			<text>Flying, vigilance
 When this creature enters, exile up to two target cards from graveyards.</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/12.jpg" num="9">TEX</set>

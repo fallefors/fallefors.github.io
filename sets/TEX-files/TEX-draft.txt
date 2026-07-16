@@ -121,7 +121,7 @@
 			}
 		},
 		{
-			"name": "CW08 medium Flying, hate",
+			"name": "CW08 medium flying, hate",
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Bird",
@@ -2016,7 +2016,7 @@
 	8 CW04 Vanguard Gallant
 	8 CW05 Citadel Sentry
 	8 CW07 Debilitating Assault
-	8 CW08 medium Flying, hate
+	8 CW08 medium flying, hate
 	8 CG09 Awaited Return
 	8 CG10 Lavish Dance
 	8 CW11 Superior Form
@@ -2098,7 +2098,7 @@
 	8 CW04 Vanguard Gallant
 	8 CW05 Citadel Sentry
 	8 CW07 Debilitating Assault
-	8 CW08 medium Flying, hate
+	8 CW08 medium flying, hate
 	8 CG09 Awaited Return
 	8 CG10 Lavish Dance
 	8 CW11 Superior Form
@@ -2181,7 +2181,7 @@
 	12 CW04 Vanguard Gallant
 	12 CW05 Citadel Sentry
 	12 CW07 Debilitating Assault
-	12 CW08 medium Flying, hate
+	12 CW08 medium flying, hate
 	12 CG09 Awaited Return
 	12 CG10 Lavish Dance
 	12 CW11 Superior Form
@@ -2363,7 +2363,7 @@
 	6 CW04 Vanguard Gallant
 	6 CW05 Citadel Sentry
 	6 CW07 Debilitating Assault
-	6 CW08 medium Flying, hate
+	6 CW08 medium flying, hate
 	6 CG09 Awaited Return
 	6 CG10 Lavish Dance
 	6 CW11 Superior Form

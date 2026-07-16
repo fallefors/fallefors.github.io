@@ -289,7 +289,7 @@
             "v_mana": ""
         },
         {
-            "card_name": "CW08 medium Flying, hate",
+            "card_name": "CW08 medium flying, hate",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2013 Bird",
@@ -1573,7 +1573,7 @@
             "alias": "",
             "position": "66",
             "rotated": false,
-            "notes": "!landslot",
+            "notes": "!tag landslot",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -1596,7 +1596,7 @@
             "alias": "",
             "position": "67",
             "rotated": false,
-            "notes": "!landslot",
+            "notes": "!tag landslot",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -1711,7 +1711,7 @@
             "alias": "",
             "position": "72",
             "rotated": false,
-            "notes": "!landslot",
+            "notes": "!tag landslot",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -1734,7 +1734,7 @@
             "alias": "",
             "position": "73",
             "rotated": false,
-            "notes": "!landslot",
+            "notes": "!tag landslot",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -1757,7 +1757,7 @@
             "alias": "",
             "position": "74",
             "rotated": false,
-            "notes": "!landslot",
+            "notes": "!tag landslot",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -1780,7 +1780,7 @@
             "alias": "",
             "position": "75",
             "rotated": false,
-            "notes": "!landslot",
+            "notes": "!tag landslot",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -1803,7 +1803,7 @@
             "alias": "",
             "position": "76",
             "rotated": false,
-            "notes": "!landslot",
+            "notes": "!tag landslot",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -1826,7 +1826,7 @@
             "alias": "",
             "position": "77",
             "rotated": false,
-            "notes": "!landslot",
+            "notes": "!tag landslot",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -1849,7 +1849,7 @@
             "alias": "",
             "position": "78",
             "rotated": false,
-            "notes": "!landslot",
+            "notes": "!tag landslot",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -1872,7 +1872,7 @@
             "alias": "",
             "position": "79",
             "rotated": false,
-            "notes": "!landslot",
+            "notes": "!tag landslot",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -1895,7 +1895,7 @@
             "alias": "",
             "position": "80",
             "rotated": false,
-            "notes": "!landslot",
+            "notes": "!tag landslot",
             "image_type": "jpg",
             "v_mana": ""
         },

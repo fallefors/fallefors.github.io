@@ -1,4 +1,34 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+CW08 medium flying, hate added.
+
+CW08 medium Flying, hate removed.
+
+CL11 Evolving Wilds
+
+CL01 Tranquil Cove
+
+CL02 Dismal Backwater
+
+CL03 Bloodfell Caves
+
+CL04 Rugged Highlands
+
+CL05 Blossoming Sands
+
+CL06 Scoured Barrens
+
+CL07 Swiftwater Cliffs
+
+CL08 Jungle Hollow
+
+CL09 Wind-Scarred Crag
+
+CL10 Thornwood Falls
+
+
+VERSION 10 CHANGELOG
 ====================
 
 CW08 medium Flying, hate added.

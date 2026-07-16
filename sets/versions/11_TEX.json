@@ -272,7 +272,7 @@
             "notes": ""
         },
         {
-            "card_name": "CW08 medium Flying, hate",
+            "card_name": "CW08 medium flying, hate",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2014 Bird",
@@ -1448,7 +1448,7 @@
             "alias": "",
             "position": "66",
             "rotated": false,
-            "notes": "!landslot"
+            "notes": "!tag landslot"
         },
         {
             "card_name": "CL01 Tranquil Cove",
@@ -1469,7 +1469,7 @@
             "alias": "",
             "position": "67",
             "rotated": false,
-            "notes": "!landslot"
+            "notes": "!tag landslot"
         },
         {
             "card_name": "CM01 Reclaimer of Tradition",
@@ -1574,7 +1574,7 @@
             "alias": "",
             "position": "72",
             "rotated": false,
-            "notes": "!landslot"
+            "notes": "!tag landslot"
         },
         {
             "card_name": "CL03 Bloodfell Caves",
@@ -1595,7 +1595,7 @@
             "alias": "",
             "position": "73",
             "rotated": false,
-            "notes": "!landslot"
+            "notes": "!tag landslot"
         },
         {
             "card_name": "CL04 Rugged Highlands",
@@ -1616,7 +1616,7 @@
             "alias": "",
             "position": "74",
             "rotated": false,
-            "notes": "!landslot"
+            "notes": "!tag landslot"
         },
         {
             "card_name": "CL05 Blossoming Sands",
@@ -1637,7 +1637,7 @@
             "alias": "",
             "position": "75",
             "rotated": false,
-            "notes": "!landslot"
+            "notes": "!tag landslot"
         },
         {
             "card_name": "CL06 Scoured Barrens",
@@ -1658,7 +1658,7 @@
             "alias": "",
             "position": "76",
             "rotated": false,
-            "notes": "!landslot"
+            "notes": "!tag landslot"
         },
         {
             "card_name": "CL07 Swiftwater Cliffs",
@@ -1679,7 +1679,7 @@
             "alias": "",
             "position": "77",
             "rotated": false,
-            "notes": "!landslot"
+            "notes": "!tag landslot"
         },
         {
             "card_name": "CL08 Jungle Hollow",
@@ -1700,7 +1700,7 @@
             "alias": "",
             "position": "78",
             "rotated": false,
-            "notes": "!landslot"
+            "notes": "!tag landslot"
         },
         {
             "card_name": "CL09 Wind-Scarred Crag",
@@ -1721,7 +1721,7 @@
             "alias": "",
             "position": "79",
             "rotated": false,
-            "notes": "!landslot"
+            "notes": "!tag landslot"
         },
         {
             "card_name": "CL10 Thornwood Falls",
@@ -1742,7 +1742,7 @@
             "alias": "",
             "position": "80",
             "rotated": false,
-            "notes": "!landslot"
+            "notes": "!tag landslot"
         },
         {
             "card_name": "UL01 Sandsteppe Citadel",
