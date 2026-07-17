@@ -1,4 +1,12 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+CU03 Dragon's Eye Apprentice added.
+
+CU03 small removed.
+
+
+VERSION 11 CHANGELOG
 ====================
 
 CW08 medium flying, hate added.

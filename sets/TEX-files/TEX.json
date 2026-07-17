@@ -1,7 +1,7 @@
 ﻿{
     "name": "Tarkir: Extinction",
     "formats": "",
-    "image_type": "jpg",
+    "image_type": "png",
     "draft_structure": "play booster",
     "unpreviewed": "card back",
     "image_name": "position",
@@ -650,7 +650,7 @@
             "notes": ""
         },
         {
-            "card_name": "CU03 small",
+            "card_name": "CU03 Dragon's Eye Apprentice",
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2014 Human Monk",
@@ -658,16 +658,16 @@
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]The Jeskai had always admired certain aspects of the dragon. [/i]",
             "pt": "2/1",
             "special_text": "",
             "shape": "adventure",
             "set": "TEX",
             "loyalty": "",
-            "artist": "Angelo Adonis Chavez",
+            "artist": "Axel Hutt (edited)",
             "alias": "",
             "position": "30",
-            "card_name2": "loot",
+            "card_name2": "Open Eye",
             "color2": "U",
             "type2": "Instant \u2014 Technique",
             "cost2": "{2}{U}",
@@ -4058,5 +4058,5 @@
             "notes": ""
         }
     ],
-    "version": 11
+    "version": 12
 }
