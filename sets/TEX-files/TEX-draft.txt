@@ -121,7 +121,7 @@
 			}
 		},
 		{
-			"name": "CW08 medium flying, hate",
+			"name": "CW08 Wasteland Roc",
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Bird",
@@ -161,7 +161,7 @@
 			}
 		},
 		{
-			"name": "CG12 trick",
+			"name": "CG12 Ferocious Resolve",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
@@ -171,17 +171,17 @@
 			}
 		},
 		{
-			"name": "CU02 Aspect of Winter",
+			"name": "CU02 Intel Agent",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Elemental",
+			"type": "Creature — Human Rogue",
 			"collector_number": "36",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/17.png"
 			}
 		},
 		{
-			"name": "CB03 small sac",
+			"name": "CB03 Forsaken Butcher",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Zombie Warrior",
@@ -191,7 +191,7 @@
 			}
 		},
 		{
-			"name": "CU04 medium flying recursion",
+			"name": "CU04 Sage of the Silent Voice",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Bird Druid",
@@ -201,7 +201,7 @@
 			}
 		},
 		{
-			"name": "CB05 medium flying",
+			"name": "CB05 Decrepit Scavenger",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Zombie Bird",
@@ -261,7 +261,7 @@
 			}
 		},
 		{
-			"name": "CU11 bounce",
+			"name": "CU11 Push Back",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
@@ -271,7 +271,7 @@
 			}
 		},
 		{
-			"name": "CW12 disenchant",
+			"name": "CW12 Lost to History",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
@@ -281,17 +281,17 @@
 			}
 		},
 		{
-			"name": "CU01 small flash tap",
+			"name": "CU01 Aspect of Winter",
 			"rarity": "common",
 			"mana_cost": "{U}",
-			"type": "Creature — Human Rogue",
+			"type": "Creature — Elemental",
 			"collector_number": "35",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/28.png"
 			}
 		},
 		{
-			"name": "CR01 small",
+			"name": "CR01 Bloodfire Prodigy",
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Monk",
@@ -321,7 +321,7 @@
 			}
 		},
 		{
-			"name": "CU06 medium flying",
+			"name": "CU06 Cloudspell Kirin",
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Kirin",
@@ -341,7 +341,7 @@
 			}
 		},
 		{
-			"name": "CU08 counter",
+			"name": "CU08 Keep Hidden",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
@@ -361,7 +361,7 @@
 			}
 		},
 		{
-			"name": "CU10 stun",
+			"name": "CU10 Winter's Embrace",
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
@@ -381,7 +381,7 @@
 			}
 		},
 		{
-			"name": "CU12 draw spell",
+			"name": "CU12 Find Focus",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
@@ -541,7 +541,7 @@
 			}
 		},
 		{
-			"name": "CB06 Medium deathtouch",
+			"name": "CB06 Notorious Vanquisher",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Warrior",
@@ -571,7 +571,7 @@
 			}
 		},
 		{
-			"name": "CB09 removal",
+			"name": "CB09 Sandsteppe Ambush",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
@@ -601,7 +601,7 @@
 			}
 		},
 		{
-			"name": "CB12 recursion",
+			"name": "CB12 Another Chance",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
@@ -615,7 +615,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "229",
+			"collector_number": "230",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/61.png"
 			}
@@ -625,17 +625,17 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "230",
+			"collector_number": "231",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/62.png"
 			}
 		},
 		{
-			"name": "CA03 hate, filter",
+			"name": "CA03 Weathered Sentinel",
 			"rarity": "common",
 			"mana_cost": "{2}",
-			"type": "Artifact Creature",
-			"collector_number": "231",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "232",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/63.png"
 			}
@@ -645,7 +645,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature",
-			"collector_number": "232",
+			"collector_number": "233",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/64.png"
 			}
@@ -655,7 +655,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "233",
+			"collector_number": "234",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/65.png"
 			}
@@ -815,7 +815,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "258",
+			"collector_number": "259",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/81.png"
 			}
@@ -825,7 +825,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "259",
+			"collector_number": "260",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/82.png"
 			}
@@ -835,7 +835,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "260",
+			"collector_number": "261",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/83.png"
 			}
@@ -845,7 +845,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "261",
+			"collector_number": "262",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/84.png"
 			}
@@ -855,7 +855,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "262",
+			"collector_number": "263",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/85.png"
 			}
@@ -915,7 +915,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Orc Warrior",
-			"collector_number": "209",
+			"collector_number": "210",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/91.png"
 			}
@@ -925,7 +925,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "210",
+			"collector_number": "211",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/92.png"
 			}
@@ -935,7 +935,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Creature — Human Monk",
-			"collector_number": "211",
+			"collector_number": "212",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/93.png"
 			}
@@ -945,7 +945,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Sorcery",
-			"collector_number": "212",
+			"collector_number": "213",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/94.png"
 			}
@@ -955,7 +955,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "213",
+			"collector_number": "214",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/95.png"
 			}
@@ -965,7 +965,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Zombie Cleric",
-			"collector_number": "214",
+			"collector_number": "215",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/96.png"
 			}
@@ -975,7 +975,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Creature — Monkey Monk",
-			"collector_number": "215",
+			"collector_number": "216",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/97.png"
 			}
@@ -985,7 +985,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Sorcery",
-			"collector_number": "216",
+			"collector_number": "217",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/98.png"
 			}
@@ -995,7 +995,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Creature — Human Druid",
-			"collector_number": "217",
+			"collector_number": "218",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/99.png"
 			}
@@ -1005,7 +1005,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Sorcery",
-			"collector_number": "218",
+			"collector_number": "219",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/100.png"
 			}
@@ -1015,17 +1015,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}{G}",
 			"type": "Creature — Rhino",
-			"collector_number": "219",
+			"collector_number": "220",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/101.png"
 			}
 		},
 		{
-			"name": "UM13 signpost",
+			"name": "UM13 Wingblade Master",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}{W}",
 			"type": "Creature — Bird Warrior",
-			"collector_number": "221",
+			"collector_number": "222",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/102.png"
 			}
@@ -1035,7 +1035,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}{W}",
 			"type": "Instant",
-			"collector_number": "222",
+			"collector_number": "223",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/103.png"
 			}
@@ -1045,7 +1045,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{G}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "223",
+			"collector_number": "224",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/104.png"
 			}
@@ -1055,7 +1055,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}{U}",
 			"type": "Instant",
-			"collector_number": "224",
+			"collector_number": "225",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/105.png"
 			}
@@ -1065,7 +1065,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "225",
+			"collector_number": "226",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/106.png"
 			}
@@ -1075,17 +1075,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Enchantment",
-			"collector_number": "226",
+			"collector_number": "227",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/107.png"
 			}
 		},
 		{
-			"name": "UM19 signpost",
+			"name": "UM19 Snowcrag Stalwart",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{U}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "227",
+			"collector_number": "228",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/108.png"
 			}
@@ -1095,7 +1095,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}{R}",
 			"type": "Sorcery",
-			"collector_number": "228",
+			"collector_number": "229",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/109.png"
 			}
@@ -1121,7 +1121,7 @@
 			}
 		},
 		{
-			"name": "UW03 flying, prowess, vig",
+			"name": "UW03 Feathered Adept",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Bird Warrior",
@@ -1131,7 +1131,7 @@
 			}
 		},
 		{
-			"name": "UW04 token gen, team pump",
+			"name": "UW04 Dalkovan Marshal",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Soldier",
@@ -1141,7 +1141,7 @@
 			}
 		},
 		{
-			"name": "UW05 lifelink, heritage",
+			"name": "UW05 Ainok Vindicator",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Dog Warrior",
@@ -1151,7 +1151,7 @@
 			}
 		},
 		{
-			"name": "UW06 recursion, tapper",
+			"name": "UW06 Borderland Vanguard",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Scout",
@@ -1161,7 +1161,7 @@
 			}
 		},
 		{
-			"name": "UW07 pp counter team",
+			"name": "UW07 Soulcrag Kirin",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Kirin",
@@ -1171,7 +1171,7 @@
 			}
 		},
 		{
-			"name": "UW08 flying, reanimate",
+			"name": "UW08 Plucky Battledriver",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{W}",
 			"type": "Creature — Bird",
@@ -1241,7 +1241,7 @@
 			}
 		},
 		{
-			"name": "UU01 flying, mill",
+			"name": "UU01 Whisperer's Familiar",
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Creature — Bird",
@@ -1381,7 +1381,7 @@
 			}
 		},
 		{
-			"name": "UB02 castable from graveyard",
+			"name": "UB02 Unrelenting Champion",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Warrior",
@@ -1401,7 +1401,7 @@
 			}
 		},
 		{
-			"name": "UB04 name",
+			"name": "UB04 Mardu Warcrier",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Orc Berserker",
@@ -1501,7 +1501,7 @@
 			}
 		},
 		{
-			"name": "UR03 firebend",
+			"name": "UR03 Meandering Cinderkin",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Elemental",
@@ -1511,7 +1511,7 @@
 			}
 		},
 		{
-			"name": "UR04 cast i/s grave",
+			"name": "UR04 Whisperer's Heir",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Sorcerer",
@@ -1541,7 +1541,7 @@
 			}
 		},
 		{
-			"name": "UR08 small burn",
+			"name": "UR08 Crackling Resonance",
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Instant",
@@ -1561,7 +1561,7 @@
 			}
 		},
 		{
-			"name": "UR11 trick, bite",
+			"name": "UR11 Tiger Path Slash",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
@@ -1571,7 +1571,7 @@
 			}
 		},
 		{
-			"name": "UR12 team pump, impulse",
+			"name": "UR12 United Monastery",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment",
@@ -1765,7 +1765,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Spirit",
-			"collector_number": "1",
+			"collector_number": "3",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/239.png"
 			}
@@ -1775,7 +1775,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Warrior",
-			"collector_number": "2",
+			"collector_number": "4",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/240.png"
 			}
@@ -1785,7 +1785,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "263",
+			"collector_number": "264",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/241.png"
 			}
@@ -1795,7 +1795,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "267",
+			"collector_number": "268",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/242.png"
 			}
@@ -1805,7 +1805,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "266",
+			"collector_number": "267",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/243.png"
 			}
@@ -1815,7 +1815,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "265",
+			"collector_number": "266",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/244.png"
 			}
@@ -1825,7 +1825,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "264",
+			"collector_number": "265",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/245.png"
 			}
@@ -1841,7 +1841,7 @@
 			}
 		},
 		{
-			"name": "UR05 glory rummage",
+			"name": "UR05 Untamed Challanger",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Berserker",
@@ -1875,7 +1875,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Crocodile",
-			"collector_number": "3",
+			"collector_number": "5",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/268.png"
 			}
@@ -1885,7 +1885,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}{G}",
 			"type": "Instant",
-			"collector_number": "220",
+			"collector_number": "221",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/269.png"
 			}
@@ -1895,9 +1895,29 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elk",
-			"collector_number": "4",
+			"collector_number": "6",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/270.png"
+			}
+		},
+		{
+			"name": "Monk",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Monk",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/272.png"
+			}
+		},
+		{
+			"name": "Copy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/273.png"
 			}
 		}
 	]
@@ -1926,29 +1946,29 @@
 	4 UM09 Whisperer of the Past
 	4 UM10 Sagu Exploration
 	4 UM11 Expedition Rhino
-	4 UM13 signpost
+	4 UM13 Wingblade Master
 	4 UM14 Find Balance
 	4 UM15 Secretive Serpentmage
 	4 UM16 Whisper of Promise
 	4 UM17 Steadfast Conqueror
 	4 UM18 Violent Onslaught
-	4 UM19 signpost
+	4 UM19 Snowcrag Stalwart
 	4 UM20 Clash of Antlers
 	4 UW01 Soulfire Clairvoyant
 	4 UW02 Traveling Merchant
-	4 UW03 flying, prowess, vig
-	4 UW04 token gen, team pump
-	4 UW05 lifelink, heritage
-	4 UW06 recursion, tapper
-	4 UW07 pp counter team
-	4 UW08 flying, reanimate
+	4 UW03 Feathered Adept
+	4 UW04 Dalkovan Marshal
+	4 UW05 Ainok Vindicator
+	4 UW06 Borderland Vanguard
+	4 UW07 Soulcrag Kirin
+	4 UW08 Plucky Battledriver
 	4 UW09 Warrior's Will
 	4 UW10 Waste's Curse
 	4 UW11 Honor
 	4 UW12 Final Encounter
 	4 UW13 Face Adversity
 	4 UW14 Whirlsand Blade
-	4 UU01 flying, mill
+	4 UU01 Whisperer's Familiar
 	4 UU03 Master of Balance
 	4 UU04 Breezeshaper
 	4 UU05 Palace Archivists
@@ -1962,9 +1982,9 @@
 	4 UU13 Become Obscure
 	4 UU14 Forbidden Form
 	4 UB01 Scrubland Lookout
-	4 UB02 castable from graveyard
+	4 UB02 Unrelenting Champion
 	4 UB03 Indulgent Patron
-	4 UB04 name
+	4 UB04 Mardu Warcrier
 	4 UB05 Remorseless Hordechief
 	4 UB06 Kheru Gatekeeper
 	4 UB07 Yathan Heavy
@@ -1974,14 +1994,14 @@
 	4 UB12 The Webs I Built
 	4 UB14 Pillagers' Prize
 	4 UR02 Mardu Frontliner
-	4 UR03 firebend
-	4 UR04 cast i/s grave
+	4 UR03 Meandering Cinderkin
+	4 UR04 Whisperer's Heir
 	4 UR06 Tiger Path Master
 	4 UR07 Twinflame Rakshasa
-	4 UR08 small burn
+	4 UR08 Crackling Resonance
 	4 UR09 Horde's Conquest
-	4 UR11 trick, bite
-	4 UR12 team pump, impulse
+	4 UR11 Tiger Path Slash
+	4 UR12 United Monastery
 	4 UR13 Remarkable Statuary
 	4 UR14 Harness the Wild
 	4 UG02 Qal Sisma Avenger
@@ -2000,7 +2020,7 @@
 	4 UG14 Bloomvine Symbiosis
 	4 UB11 Krumar Initiation
 	4 UB13 Secrets of the Grave
-	4 UR05 glory rummage
+	4 UR05 Untamed Challanger
 	4 UR01 Clever Infiltrator
 	4 UR10 Devestating Bolt
 	4 UM12 Disown
@@ -2016,33 +2036,33 @@
 	8 CW04 Vanguard Gallant
 	8 CW05 Citadel Sentry
 	8 CW07 Debilitating Assault
-	8 CW08 medium flying, hate
+	8 CW08 Wasteland Roc
 	8 CG09 Awaited Return
 	8 CG10 Lavish Dance
 	8 CW11 Superior Form
-	8 CG12 trick
-	8 CU02 Aspect of Winter
-	8 CB03 small sac
-	8 CU04 medium flying recursion
-	8 CB05 medium flying
+	8 CG12 Ferocious Resolve
+	8 CU02 Intel Agent
+	8 CB03 Forsaken Butcher
+	8 CU04 Sage of the Silent Voice
+	8 CB05 Decrepit Scavenger
 	8 CR06 Introspective Strongarm
 	8 CR07 Ruthless Slayer
 	8 CR08 Thunderstep Warmonger
 	8 CW09 Full Force
 	8 CW10 Pacifism
-	8 CU11 bounce
-	8 CW12 disenchant
-	8 CU01 small flash tap
-	8 CR01 small
+	8 CU11 Push Back
+	8 CW12 Lost to History
+	8 CU01 Aspect of Winter
+	8 CR01 Bloodfire Prodigy
 	8 CU03 Dragon's Eye Apprentice
 	8 CU05 Avalanche Escort
-	8 CU06 medium flying
+	8 CU06 Cloudspell Kirin
 	8 CU07 Marang River Horror
-	8 CU08 counter
+	8 CU08 Keep Hidden
 	8 CU09 Augur's Incense
-	8 CU10 stun
+	8 CU10 Winter's Embrace
 	8 CG11 Take the Upper hand
-	8 CU12 draw spell
+	8 CU12 Find Focus
 	8 CR02 Death's Challenger
 	8 CG03 Undergrowth Leopard
 	8 CR03 Wandering Wildfire
@@ -2058,16 +2078,16 @@
 	8 CG04 Garden Familiar
 	8 CG05 Trade Route Trailblazer
 	8 CG01 Hilltop Surveyor
-	8 CB06 Medium deathtouch
+	8 CB06 Notorious Vanquisher
 	8 CG07 Captivating Stag
 	8 CG08 Colossal Dunetreader
-	8 CB09 removal
+	8 CB09 Sandsteppe Ambush
 	8 CB10 Chokehold
 	8 CB11 By Blood and Venom
-	8 CB12 recursion
+	8 CB12 Another Chance
 	8 CA01 manalith
 	8 CA02 broad removal
-	8 CA03 hate, filter
+	8 CA03 Weathered Sentinel
 	8 CA04 flyer, mill
 	8 CA05 fix
 	8 CL11 Evolving Wilds
@@ -2098,33 +2118,33 @@
 	8 CW04 Vanguard Gallant
 	8 CW05 Citadel Sentry
 	8 CW07 Debilitating Assault
-	8 CW08 medium flying, hate
+	8 CW08 Wasteland Roc
 	8 CG09 Awaited Return
 	8 CG10 Lavish Dance
 	8 CW11 Superior Form
-	8 CG12 trick
-	8 CU02 Aspect of Winter
-	8 CB03 small sac
-	8 CU04 medium flying recursion
-	8 CB05 medium flying
+	8 CG12 Ferocious Resolve
+	8 CU02 Intel Agent
+	8 CB03 Forsaken Butcher
+	8 CU04 Sage of the Silent Voice
+	8 CB05 Decrepit Scavenger
 	8 CR06 Introspective Strongarm
 	8 CR07 Ruthless Slayer
 	8 CR08 Thunderstep Warmonger
 	8 CW09 Full Force
 	8 CW10 Pacifism
-	8 CU11 bounce
-	8 CW12 disenchant
-	8 CU01 small flash tap
-	8 CR01 small
+	8 CU11 Push Back
+	8 CW12 Lost to History
+	8 CU01 Aspect of Winter
+	8 CR01 Bloodfire Prodigy
 	8 CU03 Dragon's Eye Apprentice
 	8 CU05 Avalanche Escort
-	8 CU06 medium flying
+	8 CU06 Cloudspell Kirin
 	8 CU07 Marang River Horror
-	8 CU08 counter
+	8 CU08 Keep Hidden
 	8 CU09 Augur's Incense
-	8 CU10 stun
+	8 CU10 Winter's Embrace
 	8 CG11 Take the Upper hand
-	8 CU12 draw spell
+	8 CU12 Find Focus
 	8 CR02 Death's Challenger
 	8 CG03 Undergrowth Leopard
 	8 CR03 Wandering Wildfire
@@ -2140,16 +2160,16 @@
 	8 CG04 Garden Familiar
 	8 CG05 Trade Route Trailblazer
 	8 CG01 Hilltop Surveyor
-	8 CB06 Medium deathtouch
+	8 CB06 Notorious Vanquisher
 	8 CG07 Captivating Stag
 	8 CG08 Colossal Dunetreader
-	8 CB09 removal
+	8 CB09 Sandsteppe Ambush
 	8 CB10 Chokehold
 	8 CB11 By Blood and Venom
-	8 CB12 recursion
+	8 CB12 Another Chance
 	8 CA01 manalith
 	8 CA02 broad removal
-	8 CA03 hate, filter
+	8 CA03 Weathered Sentinel
 	8 CA04 flyer, mill
 	8 CA05 fix
 	8 CL11 Evolving Wilds
@@ -2181,33 +2201,33 @@
 	12 CW04 Vanguard Gallant
 	12 CW05 Citadel Sentry
 	12 CW07 Debilitating Assault
-	12 CW08 medium flying, hate
+	12 CW08 Wasteland Roc
 	12 CG09 Awaited Return
 	12 CG10 Lavish Dance
 	12 CW11 Superior Form
-	12 CG12 trick
-	12 CU02 Aspect of Winter
-	12 CB03 small sac
-	12 CU04 medium flying recursion
-	12 CB05 medium flying
+	12 CG12 Ferocious Resolve
+	12 CU02 Intel Agent
+	12 CB03 Forsaken Butcher
+	12 CU04 Sage of the Silent Voice
+	12 CB05 Decrepit Scavenger
 	12 CR06 Introspective Strongarm
 	12 CR07 Ruthless Slayer
 	12 CR08 Thunderstep Warmonger
 	12 CW09 Full Force
 	12 CW10 Pacifism
-	12 CU11 bounce
-	12 CW12 disenchant
-	12 CU01 small flash tap
-	12 CR01 small
+	12 CU11 Push Back
+	12 CW12 Lost to History
+	12 CU01 Aspect of Winter
+	12 CR01 Bloodfire Prodigy
 	12 CU03 Dragon's Eye Apprentice
 	12 CU05 Avalanche Escort
-	12 CU06 medium flying
+	12 CU06 Cloudspell Kirin
 	12 CU07 Marang River Horror
-	12 CU08 counter
+	12 CU08 Keep Hidden
 	12 CU09 Augur's Incense
-	12 CU10 stun
+	12 CU10 Winter's Embrace
 	12 CG11 Take the Upper hand
-	12 CU12 draw spell
+	12 CU12 Find Focus
 	12 CR02 Death's Challenger
 	12 CG03 Undergrowth Leopard
 	12 CR03 Wandering Wildfire
@@ -2223,16 +2243,16 @@
 	12 CG04 Garden Familiar
 	12 CG05 Trade Route Trailblazer
 	12 CG01 Hilltop Surveyor
-	12 CB06 Medium deathtouch
+	12 CB06 Notorious Vanquisher
 	12 CG07 Captivating Stag
 	12 CG08 Colossal Dunetreader
-	12 CB09 removal
+	12 CB09 Sandsteppe Ambush
 	12 CB10 Chokehold
 	12 CB11 By Blood and Venom
-	12 CB12 recursion
+	12 CB12 Another Chance
 	12 CA01 manalith
 	12 CA02 broad removal
-	12 CA03 hate, filter
+	12 CA03 Weathered Sentinel
 	12 CA04 flyer, mill
 	12 CA05 fix
 	12 CL11 Evolving Wilds
@@ -2271,29 +2291,29 @@
 	6 UM09 Whisperer of the Past
 	6 UM10 Sagu Exploration
 	6 UM11 Expedition Rhino
-	6 UM13 signpost
+	6 UM13 Wingblade Master
 	6 UM14 Find Balance
 	6 UM15 Secretive Serpentmage
 	6 UM16 Whisper of Promise
 	6 UM17 Steadfast Conqueror
 	6 UM18 Violent Onslaught
-	6 UM19 signpost
+	6 UM19 Snowcrag Stalwart
 	6 UM20 Clash of Antlers
 	6 UW01 Soulfire Clairvoyant
 	6 UW02 Traveling Merchant
-	6 UW03 flying, prowess, vig
-	6 UW04 token gen, team pump
-	6 UW05 lifelink, heritage
-	6 UW06 recursion, tapper
-	6 UW07 pp counter team
-	6 UW08 flying, reanimate
+	6 UW03 Feathered Adept
+	6 UW04 Dalkovan Marshal
+	6 UW05 Ainok Vindicator
+	6 UW06 Borderland Vanguard
+	6 UW07 Soulcrag Kirin
+	6 UW08 Plucky Battledriver
 	6 UW09 Warrior's Will
 	6 UW10 Waste's Curse
 	6 UW11 Honor
 	6 UW12 Final Encounter
 	6 UW13 Face Adversity
 	6 UW14 Whirlsand Blade
-	6 UU01 flying, mill
+	6 UU01 Whisperer's Familiar
 	6 UU03 Master of Balance
 	6 UU04 Breezeshaper
 	6 UU05 Palace Archivists
@@ -2307,9 +2327,9 @@
 	6 UU13 Become Obscure
 	6 UU14 Forbidden Form
 	6 UB01 Scrubland Lookout
-	6 UB02 castable from graveyard
+	6 UB02 Unrelenting Champion
 	6 UB03 Indulgent Patron
-	6 UB04 name
+	6 UB04 Mardu Warcrier
 	6 UB05 Remorseless Hordechief
 	6 UB06 Kheru Gatekeeper
 	6 UB07 Yathan Heavy
@@ -2319,14 +2339,14 @@
 	6 UB12 The Webs I Built
 	6 UB14 Pillagers' Prize
 	6 UR02 Mardu Frontliner
-	6 UR03 firebend
-	6 UR04 cast i/s grave
+	6 UR03 Meandering Cinderkin
+	6 UR04 Whisperer's Heir
 	6 UR06 Tiger Path Master
 	6 UR07 Twinflame Rakshasa
-	6 UR08 small burn
+	6 UR08 Crackling Resonance
 	6 UR09 Horde's Conquest
-	6 UR11 trick, bite
-	6 UR12 team pump, impulse
+	6 UR11 Tiger Path Slash
+	6 UR12 United Monastery
 	6 UR13 Remarkable Statuary
 	6 UR14 Harness the Wild
 	6 UG02 Qal Sisma Avenger
@@ -2346,7 +2366,7 @@
 	6 UB11 Krumar Initiation
 	12 CM03 Winding Sage
 	6 UB13 Secrets of the Grave
-	6 UR05 glory rummage
+	6 UR05 Untamed Challanger
 	6 UR01 Clever Infiltrator
 	6 UR10 Devestating Bolt
 	6 UM12 Disown
@@ -2363,33 +2383,33 @@
 	6 CW04 Vanguard Gallant
 	6 CW05 Citadel Sentry
 	6 CW07 Debilitating Assault
-	6 CW08 medium flying, hate
+	6 CW08 Wasteland Roc
 	6 CG09 Awaited Return
 	6 CG10 Lavish Dance
 	6 CW11 Superior Form
-	6 CG12 trick
-	6 CU02 Aspect of Winter
-	6 CB03 small sac
-	6 CU04 medium flying recursion
-	6 CB05 medium flying
+	6 CG12 Ferocious Resolve
+	6 CU02 Intel Agent
+	6 CB03 Forsaken Butcher
+	6 CU04 Sage of the Silent Voice
+	6 CB05 Decrepit Scavenger
 	6 CR06 Introspective Strongarm
 	6 CR07 Ruthless Slayer
 	6 CR08 Thunderstep Warmonger
 	6 CW09 Full Force
 	6 CW10 Pacifism
-	6 CU11 bounce
-	6 CW12 disenchant
-	6 CU01 small flash tap
-	6 CR01 small
+	6 CU11 Push Back
+	6 CW12 Lost to History
+	6 CU01 Aspect of Winter
+	6 CR01 Bloodfire Prodigy
 	6 CU03 Dragon's Eye Apprentice
 	6 CU05 Avalanche Escort
-	6 CU06 medium flying
+	6 CU06 Cloudspell Kirin
 	6 CU07 Marang River Horror
-	6 CU08 counter
+	6 CU08 Keep Hidden
 	6 CU09 Augur's Incense
-	6 CU10 stun
+	6 CU10 Winter's Embrace
 	6 CG11 Take the Upper hand
-	6 CU12 draw spell
+	6 CU12 Find Focus
 	6 CR02 Death's Challenger
 	6 CG03 Undergrowth Leopard
 	6 CR03 Wandering Wildfire
@@ -2405,16 +2425,16 @@
 	6 CG04 Garden Familiar
 	6 CG05 Trade Route Trailblazer
 	6 CG01 Hilltop Surveyor
-	6 CB06 Medium deathtouch
+	6 CB06 Notorious Vanquisher
 	6 CG07 Captivating Stag
 	6 CG08 Colossal Dunetreader
-	6 CB09 removal
+	6 CB09 Sandsteppe Ambush
 	6 CB10 Chokehold
 	6 CB11 By Blood and Venom
-	6 CB12 recursion
+	6 CB12 Another Chance
 	6 CA01 manalith
 	6 CA02 broad removal
-	6 CA03 hate, filter
+	6 CA03 Weathered Sentinel
 	6 CA04 flyer, mill
 	6 CA05 fix
 	6 CL11 Evolving Wilds
@@ -2453,29 +2473,29 @@
 	15 UM09 Whisperer of the Past
 	15 UM10 Sagu Exploration
 	15 UM11 Expedition Rhino
-	15 UM13 signpost
+	15 UM13 Wingblade Master
 	15 UM14 Find Balance
 	15 UM15 Secretive Serpentmage
 	15 UM16 Whisper of Promise
 	15 UM17 Steadfast Conqueror
 	15 UM18 Violent Onslaught
-	15 UM19 signpost
+	15 UM19 Snowcrag Stalwart
 	15 UM20 Clash of Antlers
 	15 UW01 Soulfire Clairvoyant
 	15 UW02 Traveling Merchant
-	15 UW03 flying, prowess, vig
-	15 UW04 token gen, team pump
-	15 UW05 lifelink, heritage
-	15 UW06 recursion, tapper
-	15 UW07 pp counter team
-	15 UW08 flying, reanimate
+	15 UW03 Feathered Adept
+	15 UW04 Dalkovan Marshal
+	15 UW05 Ainok Vindicator
+	15 UW06 Borderland Vanguard
+	15 UW07 Soulcrag Kirin
+	15 UW08 Plucky Battledriver
 	15 UW09 Warrior's Will
 	15 UW10 Waste's Curse
 	15 UW11 Honor
 	15 UW12 Final Encounter
 	15 UW13 Face Adversity
 	15 UW14 Whirlsand Blade
-	15 UU01 flying, mill
+	15 UU01 Whisperer's Familiar
 	15 UU03 Master of Balance
 	15 UU04 Breezeshaper
 	15 UU05 Palace Archivists
@@ -2489,9 +2509,9 @@
 	15 UU13 Become Obscure
 	15 UU14 Forbidden Form
 	15 UB01 Scrubland Lookout
-	15 UB02 castable from graveyard
+	15 UB02 Unrelenting Champion
 	15 UB03 Indulgent Patron
-	15 UB04 name
+	15 UB04 Mardu Warcrier
 	15 UB05 Remorseless Hordechief
 	15 UB06 Kheru Gatekeeper
 	15 UB07 Yathan Heavy
@@ -2501,14 +2521,14 @@
 	15 UB12 The Webs I Built
 	15 UB14 Pillagers' Prize
 	15 UR02 Mardu Frontliner
-	15 UR03 firebend
-	15 UR04 cast i/s grave
+	15 UR03 Meandering Cinderkin
+	15 UR04 Whisperer's Heir
 	15 UR06 Tiger Path Master
 	15 UR07 Twinflame Rakshasa
-	15 UR08 small burn
+	15 UR08 Crackling Resonance
 	15 UR09 Horde's Conquest
-	15 UR11 trick, bite
-	15 UR12 team pump, impulse
+	15 UR11 Tiger Path Slash
+	15 UR12 United Monastery
 	15 UR13 Remarkable Statuary
 	15 UR14 Harness the Wild
 	15 UG02 Qal Sisma Avenger
@@ -2528,7 +2548,7 @@
 	15 UB11 Krumar Initiation
 	6 CM03 Winding Sage
 	15 UB13 Secrets of the Grave
-	15 UR05 glory rummage
+	15 UR05 Untamed Challanger
 	15 UR01 Clever Infiltrator
 	15 UR10 Devestating Bolt
 	15 UM12 Disown

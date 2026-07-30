@@ -1,4 +1,129 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+CW08 Wasteland Roc added.
+CG12 Ferocious Resolve added.
+CU02 Intel Agent added.
+CB03 Forsaken Butcher added.
+CU04 Sage of the Silent Voice added.
+CB05 Decrepit Scavenger added.
+CU11 Push Back added.
+CW12 Lost to History added.
+CU01 Aspect of Winter added.
+CR01 Bloodfire Prodigy added.
+CU06 Cloudspell Kirin added.
+CU08 Keep Hidden added.
+CU10 Winter's Embrace added.
+CU12 Find Focus added.
+CB06 Notorious Vanquisher added.
+CB09 Sandsteppe Ambush added.
+CB12 Another Chance added.
+CA03 Weathered Sentinel added.
+UM13 Wingblade Master added.
+UM19 Snowcrag Stalwart added.
+UW03 Feathered Adept added.
+UW04 Dalkovan Marshal added.
+UW05 Ainok Vindicator added.
+UW06 Borderland Vanguard added.
+UW07 Soulcrag Kirin added.
+UW08 Plucky Battledriver added.
+UU01 Whisperer's Familiar added.
+UB02 Unrelenting Champion added.
+UB04 Mardu Warcrier added.
+UR03 Meandering Cinderkin added.
+UR04 Whisperer's Heir added.
+UR08 Crackling Resonance added.
+UR11 Tiger Path Slash added.
+UR12 United Monastery added.
+UR05 Untamed Challanger added.
+Monk added.
+Copy added.
+
+CW08 medium flying, hate removed.
+CG12 trick removed.
+CU02 Aspect of Winter removed.
+CB03 small sac removed.
+CU04 medium flying recursion removed.
+CB05 medium flying removed.
+CU11 bounce removed.
+CW12 disenchant removed.
+CU01 small flash tap removed.
+CR01 small removed.
+CU06 medium flying removed.
+CU08 counter removed.
+CU10 stun removed.
+CU12 draw spell removed.
+CB06 Medium deathtouch removed.
+CB09 removal removed.
+CB12 recursion removed.
+CA03 hate, filter removed.
+UM13 signpost removed.
+UM19 signpost removed.
+UW03 flying, prowess, vig removed.
+UW04 token gen, team pump removed.
+UW05 lifelink, heritage removed.
+UW06 recursion, tapper removed.
+UW07 pp counter team removed.
+UW08 flying, reanimate removed.
+UU01 flying, mill removed.
+UB02 castable from graveyard removed.
+UB04 name removed.
+UR03 firebend removed.
+UR04 cast i/s grave removed.
+UR08 small burn removed.
+UR11 trick, bite removed.
+UR12 team pump, impulse removed.
+UR05 glory rummage removed.
+
+CG02 Guardian of the Wild
+rules_text: Trample
+[i][i]Accord[/i] [/i]— At the beginning of your end step, if you've cast both a creature spell and a noncreature spell this turn, put a +1/+1 counter on this creature. Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Trample
+[i][i]Accord[/i] [/i]— At the beginning of your end step, if you've cast both a creature spell and a noncreature spell this turn, put a +1/+1 counter on this creature.
+
+CW01 Hidden Ambusher
+rules_text: {2}, {T}: Tap target creature.
+{2}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. Activate only as a sorcery. => {1}, {T}, Sacrifice this creature: Tap target creature an opponent controls and put a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+{2}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. Activate only as a sorcery.
+
+CW03 Coordinated Students
+
+CW04 Vanguard Gallant
+pt: 3/2 => 2/2
+
+UW10 Waste's Curse
+rules_text: When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+{2}, Sacrifice this enchantment: Create a 1/1 white Spirit creature token. Activate only as a sorcery. => When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+{2}, Exile this card from your graveyard: Create a 1/1 white Spirit creature token. Activate only as a sorcery.
+
+UU08 Consult the Passed
+rules_text: This spell costs {1} less to cast if it's the second spell you cast this turn.
+Draw two cards. => This spell costs {1} less to cast if you've cast another spell this turn.
+Draw two cards.
+
+UU12 Blend In
+rules_text: Tap or untap target creature. Create a token that's a copy of it. => You may tap or untap target creature. Create a token that's a copy of it.
+
+UU13 Become Obscure
+rules_text: Target creature can't be blocked this turn. Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+Ceremony—{U}, Exile two other cards from your graveyard. [i](You may cast a copy of this from your graveyard by exiling it and paying the ceremony cost.)[/i] => Target creature can't be blocked this turn. Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+Ceremony—{2}{U}, Exile two other cards from your graveyard. [i](You may cast a copy of this from your graveyard by exiling it and paying the ceremony cost.)[/i]
+
+UR07 Twinflame Rakshasa
+rules_text: When this creature enters, if you cast it, create a token that's a copy of target creature you control, except it has haste and “At end of combat, sacrifice this token.” => Haste
+When this creature enters, if you cast it, create a token that's a copy of target creature you control, except it has haste and “At end of combat, sacrifice this token.”
+
+UG05 Reckless Rascals
+rules_text: Reach
+When this creature enters, you may return another target permanent you control to its owner's hand. If you do, this creature fights up to one target creature you don't control. [i](Each deals damage equal to its power to the other.)[/i] => Reach
+When this creature enters, you may return another target nonland permanent you control to its owner's hand. If you do, this creature fights up to one target creature you don't control. [i](Each deals damage equal to its power to the other.)[/i]
+
+UG13 Call the Float
+rules_text: Create a 2/2 green Crocodile creature token. Then put a +1/+1 counter on target Crocodile you control.
+Ceremony—{3}{G}, Exile another card from your graveyard. [i](You may cast a copy of this from your graveyard by exiling it and paying the ceremony cost.)[/i] => Create a 2/2 green Crocodile creature token. When you do, put a +1/+1 counter on target Crocodile you control.
+Ceremony—{3}{G}, Exile another card from your graveyard. [i](You may cast a copy of this from your graveyard by exiling it and paying the ceremony cost.)[/i]
+
+
+VERSION 12 CHANGELOG
 ====================
 
 CU03 Dragon's Eye Apprentice added.
