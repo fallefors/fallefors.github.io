@@ -71,11 +71,11 @@
             "notes": ""
         },
         {
-            "card_name": "CB01 Afterlife Aspirant",
+            "card_name": "CB02 Afterlife Aspirant",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Human Cleric",
-            "number": 68,
+            "number": 69,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Ceremony\u2014{4}{B}, Exile two other cards from your graveyard. [i](You may cast a copy of this from your graveyard by exiling it and paying the ceremony cost. It's a token.)[/i]\nThis creature is ceremonialized with two +1/+1 counters on it.",
@@ -113,11 +113,11 @@
             "notes": ""
         },
         {
-            "card_name": "CB04 Salt Road Escort",
+            "card_name": "CB05 Salt Road Escort",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Orc Scout",
-            "number": 71,
+            "number": 72,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Heritage 2 [i](This enters with two +1/+1 counters. You may move a counter from it to another target permanent whenever your combat starts.)[/i]\nAt the beginning of combat on your turn, target creature gains menace until end of turn if it has a counter on it.",
@@ -196,7 +196,7 @@
             "card_name2": "Joint Effort",
             "color2": "W",
             "type2": "Instant \u2014 Technique",
-            "cost2": "{3}{W}",
+            "cost2": "{4}{W}",
             "rules_text2": "Put a +1/+1 counter on each of up to two target creatures. [i](Cast a copy of this spell only once. Cast only if this creature attacked this turn.)[/i]",
             "flavor_text2": "[i][/i]",
             "pt2": "",
@@ -206,7 +206,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "Alternative \u2014 3 mana technique, counter on one creature only"
         },
         {
             "card_name": "CW04 Vanguard Gallant",
@@ -384,7 +384,7 @@
             "number": 36,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "When this creature enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]\n{2}, Sacrifice this creature, draw a card.",
+            "rules_text": "When this creature enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]\n{2}, Sacrifice this creature: Draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -398,11 +398,11 @@
             "notes": ""
         },
         {
-            "card_name": "CB03 Forsaken Butcher",
+            "card_name": "CB04 Forsaken Butcher",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Zombie Warrior",
-            "number": 70,
+            "number": 71,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "{2}, Sacrifice a creature: Each opponent loses 2 life. Activate only once each turn.",
@@ -440,11 +440,11 @@
             "notes": ""
         },
         {
-            "card_name": "CB05 Decrepit Scavenger",
+            "card_name": "CB06 Decrepit Scavenger",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Zombie Bird",
-            "number": 72,
+            "number": 73,
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "Flying\nWhenever this creature attacks, you may exile a card from your graveyard. If you do, target opponent loses 1 life and you gain 1 life.",
@@ -922,7 +922,7 @@
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "",
-            "flavor_text": "[i]According to others, rage was a beast to be tamed. To him, it was a weapon to be wielded without remorse.[/i]",
+            "flavor_text": "[i]According to his peers, rage was a beast to be tamed. To him, it was a weapon to be wielded without remorse.[/i]",
             "pt": "3/2",
             "special_text": "",
             "shape": "adventure",
@@ -968,21 +968,21 @@
             "notes": ""
         },
         {
-            "card_name": "CB07 Dead End Krotiq",
+            "card_name": "CB01 Outskirt Scrapper",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Insect",
-            "number": 74,
+            "type": "Creature \u2014 Human Warrior",
+            "number": 68,
             "color_identity": "B",
-            "cost": "{4}{B}",
-            "rules_text": "When this creature enters, choose one \u2014\n\u2022 Target opponent loses 2 life and you gain 2 life.\n\u2022 Target opponent discards a card.",
+            "cost": "{B}",
+            "rules_text": "Menace\nExhaust \u2014 {4}: Put two +1/+1 counters on this creature. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "3/5",
+            "pt": "1/1",
             "special_text": "",
             "shape": "normal",
             "set": "TEX",
             "loyalty": "",
-            "artist": "Robert Schneider",
+            "artist": "Joel Chaim Holtzman",
             "alias": "",
             "position": "44",
             "rotated": false,
@@ -995,10 +995,10 @@
             "type": "Creature \u2014 Orc Warrior",
             "number": 75,
             "color_identity": "B",
-            "cost": "{5}{B}",
+            "cost": "{4}{B}",
             "rules_text": "Deathtouch\nWhenever this creature enters or attacks, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "6/5",
+            "pt": "4/5",
             "special_text": "",
             "shape": "normal",
             "set": "TEX",
@@ -1094,11 +1094,11 @@
             "notes": ""
         },
         {
-            "card_name": "CB02 Scourge of the Wastes",
+            "card_name": "CB03 Scourge of the Wastes",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Orc Warrior",
-            "number": 69,
+            "number": 70,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Lifelink\nWhen this creature enters, mill two cards. [i](Put the top two cards of your library into your graveyard.)[/i]",
@@ -1178,11 +1178,11 @@
             "notes": ""
         },
         {
-            "card_name": "CB06 Notorious Vanquisher",
+            "card_name": "CB07 Notorious Vanquisher",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Human Warrior",
-            "number": 73,
+            "number": 74,
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "Deathtouch\n[i]Glory[/i] \u2014 When this creature dies, if it was attacking, return another target creature card from your graveyard to your hand.",
@@ -1312,7 +1312,7 @@
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "You may mill two cards. Then return up to two creature cards from your graveyard to your hand. [i](To mill two cards, put the top two cards of your library into your graveyard.)[/i]",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]During Silumgar's rule, unlife had promised inferiority and eternal servitude. Today, another chance.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -2084,7 +2084,7 @@
             "card_name": "UM08 Gather the Warband",
             "color": "WR",
             "rarity": "uncommon",
-            "type": "Sorcery",
+            "type": "Instant",
             "number": 216,
             "color_identity": "WR",
             "cost": "{R}{W}",
@@ -2468,7 +2468,7 @@
             "cost": "{4}{W}",
             "rules_text": "When this creature enters, put a +1/+1 counter on each other creature you control.",
             "flavor_text": "[i][/i]",
-            "pt": "3/3",
+            "pt": "3/5",
             "special_text": "",
             "shape": "normal",
             "set": "TEX",
@@ -4497,7 +4497,7 @@
             "number": 51,
             "color_identity": "U",
             "cost": "{4}{U}{U}",
-            "rules_text": "Flying\nWhenever this creature attacks, draw a card, then you may cast a noncreature spell with mana value 2 or less from your hand without paying its mana cost.\n{1}{U}, Discard a card: Return this creature to its owner's hand.",
+            "rules_text": "Flying\nWhenever this creature attacks, draw a card, then you may cast a noncreature spell with mana value 2 or less from your hand without paying its mana cost.\n{2}, Discard a card: Return this creature to its owner's hand.",
             "flavor_text": "[i][/i]",
             "pt": "3/5",
             "special_text": "",
@@ -4506,7 +4506,7 @@
             "loyalty": "",
             "artist": "Josu Solano (edited)",
             "alias": "",
-            "position": "211",
+            "position": "210",
             "rotated": false,
             "notes": ""
         },
@@ -4527,7 +4527,7 @@
             "loyalty": "",
             "artist": "Dustin Panzino (edited)",
             "alias": "",
-            "position": "212",
+            "position": "211",
             "rotated": false,
             "notes": ""
         },
@@ -4548,7 +4548,7 @@
             "loyalty": "",
             "artist": "Infesth6 (edited)",
             "alias": "",
-            "position": "213",
+            "position": "212",
             "rotated": false,
             "notes": ""
         },
@@ -4569,7 +4569,7 @@
             "loyalty": "",
             "artist": "Greg Danton",
             "alias": "",
-            "position": "214",
+            "position": "213",
             "rotated": false,
             "notes": ""
         },
@@ -4590,7 +4590,7 @@
             "loyalty": "",
             "artist": "Herbie Wang",
             "alias": "",
-            "position": "215",
+            "position": "214",
             "rotated": false,
             "notes": ""
         },
@@ -4611,7 +4611,7 @@
             "loyalty": "",
             "artist": "SoVkA",
             "alias": "",
-            "position": "216",
+            "position": "215",
             "rotated": false,
             "notes": ""
         },
@@ -4632,7 +4632,7 @@
             "loyalty": "",
             "artist": "Iuliia Misiul",
             "alias": "",
-            "position": "217",
+            "position": "216",
             "rotated": false,
             "notes": ""
         },
@@ -4653,7 +4653,7 @@
             "loyalty": "",
             "artist": "LozanoX",
             "alias": "",
-            "position": "218",
+            "position": "217",
             "rotated": false,
             "notes": ""
         },
@@ -4674,7 +4674,7 @@
             "loyalty": "",
             "artist": "Mahealani Rodrigues (edjted)",
             "alias": "",
-            "position": "219",
+            "position": "218",
             "rotated": false,
             "notes": ""
         },
@@ -4695,7 +4695,7 @@
             "loyalty": "",
             "artist": "Magda-Piatkowska (edited)",
             "alias": "",
-            "position": "220",
+            "position": "219",
             "rotated": false,
             "notes": ""
         },
@@ -4707,7 +4707,7 @@
             "number": 118,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Haste\n[i]Glory[/i] \u2014 Whenever Gal or another creature you control dies, if it was attacking, untap target creatures you control. After this phase, there is an additional combat phase. This ability triggers only once each turn.",
+            "rules_text": "Haste\n[i]Glory[/i] \u2014 Whenever Gal or another creature you control dies, if it was attacking, untap target creature you control. After this phase, there is an additional combat phase. This ability triggers only once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -4716,7 +4716,7 @@
             "loyalty": "",
             "artist": "asuka111",
             "alias": "",
-            "position": "221",
+            "position": "220",
             "rotated": false,
             "notes": ""
         },
@@ -4737,7 +4737,7 @@
             "loyalty": "",
             "artist": "Miguel Coimbra",
             "alias": "",
-            "position": "222",
+            "position": "221",
             "rotated": false,
             "notes": ""
         },
@@ -4758,7 +4758,7 @@
             "loyalty": "",
             "artist": "NargesArt",
             "alias": "",
-            "position": "223",
+            "position": "222",
             "rotated": false,
             "notes": ""
         },
@@ -4779,7 +4779,7 @@
             "loyalty": "",
             "artist": "Yana Vaseva (edited)",
             "alias": "",
-            "position": "224",
+            "position": "223",
             "rotated": false,
             "notes": "too good on blocks? cut vigi"
         },
@@ -4800,7 +4800,7 @@
             "loyalty": "",
             "artist": "Brett MacDonald",
             "alias": "",
-            "position": "225",
+            "position": "224",
             "rotated": false,
             "notes": ""
         },
@@ -4821,7 +4821,7 @@
             "loyalty": "",
             "artist": "Bryan Sola",
             "alias": "",
-            "position": "226",
+            "position": "225",
             "rotated": false,
             "notes": ""
         },
@@ -4842,7 +4842,7 @@
             "loyalty": "",
             "artist": "Alejandro Burdisio",
             "alias": "",
-            "position": "227",
+            "position": "226",
             "rotated": false,
             "notes": ""
         },
@@ -4863,7 +4863,7 @@
             "loyalty": "",
             "artist": "Borja Pindado",
             "alias": "",
-            "position": "228",
+            "position": "227",
             "rotated": false,
             "notes": ""
         },
@@ -4884,7 +4884,7 @@
             "loyalty": "",
             "artist": "Viko Menezes",
             "alias": "",
-            "position": "229",
+            "position": "228",
             "rotated": false,
             "notes": ""
         },
@@ -4905,7 +4905,7 @@
             "loyalty": "",
             "artist": "Sherbakov Stanislav (edited)",
             "alias": "",
-            "position": "230",
+            "position": "229",
             "rotated": false,
             "notes": ""
         },
@@ -4926,7 +4926,7 @@
             "loyalty": "",
             "artist": "Jim \"Dreadjim\" Ling",
             "alias": "",
-            "position": "231",
+            "position": "230",
             "rotated": false,
             "notes": ""
         },
@@ -4947,7 +4947,7 @@
             "loyalty": "",
             "artist": "Jim \"Dreadjim\" Ling",
             "alias": "",
-            "position": "232",
+            "position": "231",
             "rotated": false,
             "notes": ""
         },
@@ -4968,7 +4968,7 @@
             "loyalty": "",
             "artist": "Alex van der Linde",
             "alias": "",
-            "position": "233",
+            "position": "232",
             "rotated": false,
             "notes": ""
         },
@@ -4989,7 +4989,7 @@
             "loyalty": "",
             "artist": "Isis Sousa",
             "alias": "",
-            "position": "234",
+            "position": "233",
             "rotated": false,
             "notes": ""
         },
@@ -5010,7 +5010,7 @@
             "loyalty": "",
             "artist": "Alex van der Linde",
             "alias": "",
-            "position": "235",
+            "position": "234",
             "rotated": false,
             "notes": ""
         },
@@ -5031,7 +5031,7 @@
             "loyalty": "",
             "artist": "Ferdinand D. Ladera (edited)",
             "alias": "",
-            "position": "236",
+            "position": "235",
             "rotated": false,
             "notes": ""
         },
@@ -5052,7 +5052,7 @@
             "loyalty": "",
             "artist": "Jorge Gonzalez",
             "alias": "",
-            "position": "237",
+            "position": "236",
             "rotated": false,
             "notes": ""
         },
@@ -5073,7 +5073,7 @@
             "loyalty": "",
             "artist": "Pierre Raveneau",
             "alias": "",
-            "position": "238",
+            "position": "237",
             "rotated": false,
             "notes": ""
         },
@@ -5094,7 +5094,7 @@
             "loyalty": "",
             "artist": "Tooth Wu (edited)",
             "alias": "",
-            "position": "239",
+            "position": "238",
             "rotated": false,
             "notes": ""
         },
@@ -5115,7 +5115,7 @@
             "loyalty": "",
             "artist": "Tomasz Jedruszek",
             "alias": "",
-            "position": "240",
+            "position": "239",
             "rotated": false,
             "notes": ""
         },
@@ -5136,7 +5136,7 @@
             "loyalty": "",
             "artist": "\u7c73\u683c (edited)",
             "alias": "",
-            "position": "241",
+            "position": "240",
             "rotated": false,
             "notes": "ft\ndakla"
         },
@@ -5157,7 +5157,7 @@
             "loyalty": "",
             "artist": "Rio Sabda",
             "alias": "",
-            "position": "243",
+            "position": "241",
             "card_name2": "Mistform",
             "color2": "U",
             "type2": "Instant \u2014 Technique",
@@ -5190,7 +5190,7 @@
             "loyalty": "",
             "artist": "Pedro Otelcana",
             "alias": "",
-            "position": "257",
+            "position": "255",
             "rotated": false,
             "notes": ""
         },
@@ -5211,7 +5211,7 @@
             "loyalty": "",
             "artist": "Kent Davis",
             "alias": "",
-            "position": "258",
+            "position": "256",
             "rotated": false,
             "notes": "Disown the Disloyal\nThis spell costs 1 more to cast if it targets an untapped permanent.\nExile target nonland permanent."
         },
@@ -5232,7 +5232,7 @@
             "loyalty": "",
             "artist": "Edwin Landseer",
             "alias": "",
-            "position": "259",
+            "position": "257",
             "rotated": false,
             "notes": ""
         },
@@ -5253,7 +5253,7 @@
             "loyalty": "",
             "artist": "Billy Christian",
             "alias": "",
-            "position": "261",
+            "position": "259",
             "rotated": false,
             "notes": ""
         },
@@ -5274,7 +5274,7 @@
             "loyalty": "",
             "artist": "Benjamin Goutte",
             "alias": "",
-            "position": "262",
+            "position": "260",
             "rotated": false,
             "notes": ""
         },
@@ -5295,7 +5295,7 @@
             "loyalty": "",
             "artist": "Hyoundel (edited)",
             "alias": "",
-            "position": "263",
+            "position": "261",
             "card_name2": "Circle Back",
             "color2": "R",
             "type2": "Instant \u2014 Technique",
@@ -5328,7 +5328,7 @@
             "loyalty": "",
             "artist": "Olivia Rea (edited)",
             "alias": "",
-            "position": "264",
+            "position": "262",
             "rotated": false,
             "notes": ""
         },
@@ -5349,7 +5349,7 @@
             "loyalty": "",
             "artist": "Zezhou Chen (edited)",
             "alias": "",
-            "position": "265",
+            "position": "263",
             "rotated": false,
             "notes": ""
         },
@@ -5370,7 +5370,7 @@
             "loyalty": "",
             "artist": "Dominik Zdenkovi\u0107 (edited)",
             "alias": "",
-            "position": "266",
+            "position": "264",
             "rotated": false,
             "notes": ""
         },
@@ -5391,7 +5391,7 @@
             "loyalty": "",
             "artist": "Aurore Folny",
             "alias": "",
-            "position": "267",
+            "position": "265",
             "rotated": false,
             "notes": ""
         },
@@ -5412,7 +5412,7 @@
             "loyalty": "",
             "artist": "I.M. Gibney",
             "alias": "",
-            "position": "269",
+            "position": "267",
             "rotated": false,
             "notes": "!tag landslot"
         },
@@ -5433,7 +5433,7 @@
             "loyalty": "",
             "artist": "Alex Alexandrov",
             "alias": "",
-            "position": "270",
+            "position": "268",
             "rotated": false,
             "notes": ""
         },
@@ -5454,9 +5454,10 @@
             "loyalty": "",
             "artist": "AnatoFinnstark (edited)",
             "alias": "",
-            "position": "271",
+            "position": "269",
             "rotated": false,
             "notes": ""
         }
-    ]
+    ],
+    "version": 8
 }

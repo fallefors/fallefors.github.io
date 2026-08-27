@@ -1,4 +1,133 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+CB02 Afterlife Aspirant added.
+CB05 Salt Road Escort added.
+CB04 Forsaken Butcher added.
+CB06 Decrepit Scavenger added.
+CB01 Outskirt Scrapper added.
+CB03 Scourge of the Wastes added.
+CB07 Notorious Vanquisher added.
+
+CB01 Afterlife Aspirant removed.
+CB04 Salt Road Escort removed.
+CB03 Forsaken Butcher removed.
+CB05 Decrepit Scavenger removed.
+CB07 Dead End Krotiq removed.
+CB02 Scourge of the Wastes removed.
+CB06 Notorious Vanquisher removed.
+
+CW03 Coordinated Students
+
+CU02 Intel Agent
+rules_text: When this creature enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{2}, Sacrifice this creature, draw a card. => When this creature enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{2}, Sacrifice this creature: Draw a card.
+
+CR05 Unorthodox Practitioner
+
+CB08 Wasteland Marauder
+cost: {5}{B} => {4}{B}
+pt: 6/5 => 4/5
+
+CB12 Another Chance
+
+UM08 Gather the Warband
+type: Sorcery => Instant
+
+UW07 Soulcrag Kirin
+pt: 3/3 => 3/5
+
+RU04 Dirgur Heights Ancient
+rules_text: Flying
+Whenever this creature attacks, draw a card, then you may cast a noncreature spell with mana value 2 or less from your hand without paying its mana cost.
+{1}{U}, Discard a card: Return this creature to its owner's hand. => Flying
+Whenever this creature attacks, draw a card, then you may cast a noncreature spell with mana value 2 or less from your hand without paying its mana cost.
+{2}, Discard a card: Return this creature to its owner's hand.
+
+RU05 Submerged Conscious
+
+RU02 Silumgar Devotee
+
+RB01 Crossroads Raider
+
+RB03 Frenzied Tombguard
+
+RB02 Death's Confidant
+
+RB04 Insatiable Rakshasa
+
+RB05 Their Dead Will Rise Again
+
+UB11 Krumar Initiation
+
+RR01 Sarkhan Unredeemed
+
+RR04 Gal, Bloodsoaked Nemesis
+rules_text: Haste
+[i]Glory[/i] — Whenever Gal or another creature you control dies, if it was attacking, untap target creatures you control. After this phase, there is an additional combat phase. This ability triggers only once each turn. => Haste
+[i]Glory[/i] — Whenever Gal or another creature you control dies, if it was attacking, untap target creature you control. After this phase, there is an additional combat phase. This ability triggers only once each turn.
+
+RR05 Bedrock Lashcaster
+
+RR06 Auroral Expression
+
+RG01 Sibsig Outlander
+
+RG02 Cold-Blooded Hydra
+
+RG03 Unbridled Nettlekin
+
+RG04 Heavy Cavalry Captain
+
+RG05 Tyrant of Qal Sisma
+
+RG06 Harness the Cycle
+
+CM03 Winding Sage
+
+Spirit
+
+Warrior
+
+UB13 Secrets of the Grave
+
+UR05 Hotheaded Challanger
+
+UR01 Clever Infiltrator
+
+UR10 Devastating Bolt
+
+RU01 Spirited Mistleaper
+
+Crocodile
+
+UM12 Disown
+
+Elk
+
+Monk
+
+Copy
+
+RR02 Jeskai Ringcaster
+
+Zombie Druid
+
+RM06 Nightblade Infiltrator
+
+RL06 Vestige of the Spirit Dragon
+
+RM24 Efflorescent Rite
+
+UL05 Frontier Bivouac
+
+Elemental
+
+RU06 Whispered Visions
+
+
+VERSION 7 CHANGELOG
 ====================
 
 No changes.
