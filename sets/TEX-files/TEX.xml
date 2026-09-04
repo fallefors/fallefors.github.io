@@ -1134,7 +1134,7 @@ Ceremony—{2}{B}, Exile two other cards from your graveyard. (You may cast a co
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CA04 flyer, mill</name>
+			<name>CA04 flying, mill</name>
 			<text>Flying
 When this creature enters, target player mills two cards. You gain 2 life. (To mill two cards, a player puts the top two cards of their library into their graveyard.)</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/64.png" num="232">TEX</set>

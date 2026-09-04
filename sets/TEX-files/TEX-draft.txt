@@ -641,7 +641,7 @@
 			}
 		},
 		{
-			"name": "CA04 flyer, mill",
+			"name": "CA04 flying, mill",
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature",
@@ -2779,7 +2779,7 @@
 	8 CA01 manalith
 	8 CA02 Official's Seal
 	8 CA03 Weathered Sentinel
-	8 CA04 flyer, mill
+	8 CA04 flying, mill
 	8 CA05 fix
 	8 CL11 Evolving Wilds
 	8 CL01 Tranquil Cove
@@ -2861,7 +2861,7 @@
 	8 CA01 manalith
 	8 CA02 Official's Seal
 	8 CA03 Weathered Sentinel
-	8 CA04 flyer, mill
+	8 CA04 flying, mill
 	8 CA05 fix
 	8 CL11 Evolving Wilds
 	8 CL01 Tranquil Cove
@@ -2944,7 +2944,7 @@
 	12 CA01 manalith
 	12 CA02 Official's Seal
 	12 CA03 Weathered Sentinel
-	12 CA04 flyer, mill
+	12 CA04 flying, mill
 	12 CA05 fix
 	12 CL11 Evolving Wilds
 	12 CL01 Tranquil Cove
@@ -3187,7 +3187,7 @@
 	6 CA01 manalith
 	6 CA02 Official's Seal
 	6 CA03 Weathered Sentinel
-	6 CA04 flyer, mill
+	6 CA04 flying, mill
 	6 CA05 fix
 	6 CL11 Evolving Wilds
 	6 CL01 Tranquil Cove

@@ -1,4 +1,12 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+CA04 flying, mill added.
+
+CA04 flyer, mill removed.
+
+
+VERSION 10 CHANGELOG
 ====================
 
 CA02 Official's Seal added.
