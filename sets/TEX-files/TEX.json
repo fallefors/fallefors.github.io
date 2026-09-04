@@ -1346,7 +1346,7 @@
             "notes": ""
         },
         {
-            "card_name": "CA02 broad removal",
+            "card_name": "CA02 Official's Seal",
             "color": "",
             "rarity": "common",
             "type": "Artifact",
@@ -1423,7 +1423,7 @@
             "shape": "normal",
             "set": "TEX",
             "loyalty": "",
-            "artist": "",
+            "artist": "Mauro Dal Bo",
             "alias": "",
             "position": "65",
             "rotated": false,
@@ -2111,7 +2111,7 @@
             "cost": "{G}{U}",
             "rules_text": "{T}, Mill a card: Add one mana of any color.\n{G}{U}, {T}, Sacrifice this creature: Return target card from your graveyard to your hand. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
-            "pt": "2/3",
+            "pt": "1/2",
             "special_text": "",
             "shape": "normal",
             "set": "TEX",
@@ -2174,7 +2174,7 @@
             "cost": "{1}{U}{R}{W}",
             "rules_text": "Flying\nWhenever you cast an instant or sorcery spell, this creature deals 2 damage to each opponent and you gain 2 life.",
             "flavor_text": "[i][/i]",
-            "pt": "3/3",
+            "pt": "2/4",
             "special_text": "",
             "shape": "normal",
             "set": "TEX",
@@ -2508,7 +2508,7 @@
             "number": 29,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Choose one \u2014 \n\u2022 Target creature gains indestructible until end of turn. [i](Effects that say \u201cdestroy\u201d don't destroy this permanent.)[/i]\n\u2022 Destroy target attacking creature.",
+            "rules_text": "Choose one \u2014 \n\u2022 Target creature gains indestructible until end of turn. [i](Effects that say \u201cdestroy\u201d don't destroy this instant.)[/i]\n\u2022 Destroy target attacking creature.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4497,7 +4497,7 @@
             "number": 51,
             "color_identity": "U",
             "cost": "{4}{U}{U}",
-            "rules_text": "Flying\nWhenever this creature attacks, draw a card, then you may cast a noncreature spell with mana value 2 or less from your hand without paying its mana cost.\n{2}, Discard a card: Return this creature to its owner's hand.",
+            "rules_text": "Flying\nWhenever this creature attacks, draw a card, then you may cast a noncreature spell with mana value 2 or less from your hand without paying its mana cost.\n{1}{U}, Discard a card: Return this creature to its owner's hand.",
             "flavor_text": "[i][/i]",
             "pt": "3/5",
             "special_text": "",
@@ -4539,7 +4539,7 @@
             "number": 49,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "When this creature enters, mill two cards.\nWhenever this creature enters or attacks, you may cast an instant or sorcery spell from your graveyard this turn by exiling two other cards from your graveyard in addition to paying its other costs. If a spell cast this way would be put into your graveyard, exile it instead.",
+            "rules_text": "When this creature enters, mill two cards.\nWhenever this creature enters or attacks, you may cast target instant or sorcery spell from your graveyard this turn by exiling two other cards from your graveyard in addition to paying its other costs. If that spell would be put into your graveyard, exile it instead.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -5190,7 +5190,7 @@
             "loyalty": "",
             "artist": "Pedro Otelcana",
             "alias": "",
-            "position": "255",
+            "position": "254",
             "rotated": false,
             "notes": ""
         },
@@ -5211,7 +5211,7 @@
             "loyalty": "",
             "artist": "Kent Davis",
             "alias": "",
-            "position": "256",
+            "position": "255",
             "rotated": false,
             "notes": "Disown the Disloyal\nThis spell costs 1 more to cast if it targets an untapped permanent.\nExile target nonland permanent."
         },
@@ -5232,7 +5232,7 @@
             "loyalty": "",
             "artist": "Edwin Landseer",
             "alias": "",
-            "position": "257",
+            "position": "256",
             "rotated": false,
             "notes": ""
         },
@@ -5253,7 +5253,7 @@
             "loyalty": "",
             "artist": "Billy Christian",
             "alias": "",
-            "position": "259",
+            "position": "258",
             "rotated": false,
             "notes": ""
         },
@@ -5274,7 +5274,7 @@
             "loyalty": "",
             "artist": "Benjamin Goutte",
             "alias": "",
-            "position": "260",
+            "position": "259",
             "rotated": false,
             "notes": ""
         },
@@ -5295,7 +5295,7 @@
             "loyalty": "",
             "artist": "Hyoundel (edited)",
             "alias": "",
-            "position": "261",
+            "position": "260",
             "card_name2": "Circle Back",
             "color2": "R",
             "type2": "Instant \u2014 Technique",
@@ -5328,7 +5328,7 @@
             "loyalty": "",
             "artist": "Olivia Rea (edited)",
             "alias": "",
-            "position": "262",
+            "position": "261",
             "rotated": false,
             "notes": ""
         },
@@ -5349,7 +5349,7 @@
             "loyalty": "",
             "artist": "Zezhou Chen (edited)",
             "alias": "",
-            "position": "263",
+            "position": "262",
             "rotated": false,
             "notes": ""
         },
@@ -5370,7 +5370,7 @@
             "loyalty": "",
             "artist": "Dominik Zdenkovi\u0107 (edited)",
             "alias": "",
-            "position": "264",
+            "position": "263",
             "rotated": false,
             "notes": ""
         },
@@ -5391,7 +5391,7 @@
             "loyalty": "",
             "artist": "Aurore Folny",
             "alias": "",
-            "position": "265",
+            "position": "264",
             "rotated": false,
             "notes": ""
         },
@@ -5412,7 +5412,7 @@
             "loyalty": "",
             "artist": "I.M. Gibney",
             "alias": "",
-            "position": "267",
+            "position": "266",
             "rotated": false,
             "notes": "!tag landslot"
         },
@@ -5433,7 +5433,7 @@
             "loyalty": "",
             "artist": "Alex Alexandrov",
             "alias": "",
-            "position": "268",
+            "position": "267",
             "rotated": false,
             "notes": ""
         },
@@ -5454,10 +5454,10 @@
             "loyalty": "",
             "artist": "AnatoFinnstark (edited)",
             "alias": "",
-            "position": "269",
+            "position": "268",
             "rotated": false,
             "notes": ""
         }
     ],
-    "version": 9
+    "version": 10
 }

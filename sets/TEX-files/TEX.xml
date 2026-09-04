@@ -5,7 +5,7 @@
 			<name>TEX</name>
 			<longname>Tarkir: Extinction</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-27</releasedate>
+			<releasedate>2026-09-04</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1103,7 +1103,7 @@ Ceremony—{2}{B}, Exile two other cards from your graveyard. (You may cast a co
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CA02 broad removal</name>
+			<name>CA02 Official&apos;s Seal</name>
 			<text>When this artifact enters, you may discard a card. If you do, draw a card.
 {5}, {T}: Sacrifice this artifact: Destroy target nonland permanent. Activate only as a sorcery.</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/62.png" num="230">TEX</set>
@@ -1720,7 +1720,7 @@ Whenever you attack with two or more creatures, exile the top card of your libra
 				<cmc>2</cmc>
 				<colors>UG</colors>
 				<coloridentity>UG</coloridentity>
-				<pt>2/3</pt>
+				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1774,7 +1774,7 @@ Whenever you cast an instant or sorcery spell, this creature deals 2 damage to e
 				<cmc>4</cmc>
 				<colors>WUR</colors>
 				<coloridentity>WUR</coloridentity>
-				<pt>3/3</pt>
+				<pt>2/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2045,7 +2045,7 @@ When this creature enters, return up to one target creature card with mana value
 		<card>
 			<name>UW09 Warrior&apos;s Will</name>
 			<text>Choose one — 
-• Target creature gains indestructible until end of turn. (Effects that say &quot;destroy&quot; don&apos;t destroy this permanent.)
+• Target creature gains indestructible until end of turn. (Effects that say &quot;destroy&quot; don&apos;t destroy this instant.)
 • Destroy target attacking creature.</text>
 			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/117.png" num="29">TEX</set>
 			<prop>
@@ -3704,7 +3704,7 @@ Whenever this creature attacks, surveil 1. Then if there are five or more creatu
 			<name>RU04 Dirgur Heights Ancient</name>
 			<text>Flying
 Whenever this creature attacks, draw a card, then you may cast a noncreature spell with mana value 2 or less from your hand without paying its mana cost.
-{2}, Discard a card: Return this creature to its owner&apos;s hand.</text>
+{1}{U}, Discard a card: Return this creature to its owner&apos;s hand.</text>
 			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/210.png" num="51">TEX</set>
 			<prop>
 				<layout>normal</layout>
@@ -3739,7 +3739,7 @@ Ceremony—{4}{U}, Exile two other cards from your graveyard. (You may cast a co
 		<card>
 			<name>RU02 Silumgar Devotee</name>
 			<text>When this creature enters, mill two cards.
-Whenever this creature enters or attacks, you may cast an instant or sorcery spell from your graveyard this turn by exiling two other cards from your graveyard in addition to paying its other costs. If a spell cast this way would be put into your graveyard, exile it instead.</text>
+Whenever this creature enters or attacks, you may cast target instant or sorcery spell from your graveyard this turn by exiling two other cards from your graveyard in addition to paying its other costs. If that spell would be put into your graveyard, exile it instead.</text>
 			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/212.png" num="49">TEX</set>
 			<prop>
 				<layout>normal</layout>
@@ -4264,7 +4264,7 @@ Exile target non-Rogue creature you control, then return that card to the battle
 		<card>
 			<name>Crocodile TEX</name>
 			<text></text>
-			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/255.png" num="7">TEX</set>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/254.png" num="7">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4282,7 +4282,7 @@ Exile target non-Rogue creature you control, then return that card to the battle
 		<card>
 			<name>UM12 Disown</name>
 			<text>Exile target nonland permanent.</text>
-			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/256.png" num="220">TEX</set>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/255.png" num="220">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4298,7 +4298,7 @@ Exile target non-Rogue creature you control, then return that card to the battle
 		<card>
 			<name>Elk TEX</name>
 			<text></text>
-			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/257.png" num="8">TEX</set>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/256.png" num="8">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4316,7 +4316,7 @@ Exile target non-Rogue creature you control, then return that card to the battle
 		<card>
 			<name>Monk TEX</name>
 			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
-			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/259.png" num="2">TEX</set>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/258.png" num="2">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4334,7 +4334,7 @@ Exile target non-Rogue creature you control, then return that card to the battle
 		<card>
 			<name>Copy TEX</name>
 			<text>(This token can be used to represent a token that&apos;s a copy of a permanent.)</text>
-			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/260.png" num="1">TEX</set>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/259.png" num="1">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4354,7 +4354,7 @@ Whenever you cast a Technique spell, exile the top card of your library. You may
 ---
 
 When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy. (Cast a copy of this spell only once. Cast only if this creature attacked this turn.)</text>
-			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/261.png" num="116">TEX</set>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/260.png" num="116">TEX</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -4371,7 +4371,7 @@ When you next cast an instant or sorcery spell this turn, copy that spell. You m
 		<card>
 			<name>Zombie Druid TEX</name>
 			<text></text>
-			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/262.png" num="5">TEX</set>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/261.png" num="5">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4390,7 +4390,7 @@ When you next cast an instant or sorcery spell this turn, copy that spell. You m
 			<name>RM06 Nightblade Infiltrator</name>
 			<text>Heritage 2 (This enters with two +1/+1 counters. You may move a counter from it to another target permanent whenever your combat starts.)
 When this creature enters, exile up to one target nonland permanent with mana value X or less, where X is the number of counters among creatures you control.</text>
-			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/263.png" num="189">TEX</set>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/262.png" num="189">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4409,7 +4409,7 @@ When this creature enters, exile up to one target nonland permanent with mana va
 			<text>{T}: Add {C}.
 {1}, {T}: Exile target card from a graveyard. Activate only as a sorcery.
 {4}, {T}, Sacrifice this land: Put a card exiled with this land into its owner&apos;s hand.</text>
-			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/264.png" num="255">TEX</set>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/263.png" num="255">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4426,7 +4426,7 @@ When this creature enters, exile up to one target nonland permanent with mana va
 • Target creature card.
 • Target land card.
 • Target noncreature, nonland card.</text>
-			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/265.png" num="207">TEX</set>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/264.png" num="207">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4443,7 +4443,7 @@ When this creature enters, exile up to one target nonland permanent with mana va
 			<name>UL05 Frontier Bivouac</name>
 			<text>This land enters tapped.
 {T}: Add {G}, {U}, or {R}.</text>
-			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/267.png" num="260">TEX</set>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/266.png" num="260">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4458,7 +4458,7 @@ When this creature enters, exile up to one target nonland permanent with mana va
 		<card>
 			<name>Elemental TEX</name>
 			<text></text>
-			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/268.png" num="4">TEX</set>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/267.png" num="4">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4478,7 +4478,7 @@ When this creature enters, exile up to one target nonland permanent with mana va
 			<text>Target player draws three cards.
 Return up to two target nonland permanents their owners&apos; hands.
 Create a 3/3 green Elk creature token.</text>
-			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/269.png" num="53">TEX</set>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/268.png" num="53">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

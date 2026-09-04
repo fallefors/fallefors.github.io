@@ -621,7 +621,7 @@
 			}
 		},
 		{
-			"name": "CA02 broad removal",
+			"name": "CA02 Official's Seal",
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
@@ -2427,7 +2427,7 @@
 			"type": "Token Creature — Crocodile",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://fallefors.github.io/sets/TEX-files/img/255.png"
+				"en": "https://fallefors.github.io/sets/TEX-files/img/254.png"
 			}
 		},
 		{
@@ -2437,7 +2437,7 @@
 			"type": "Instant",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://fallefors.github.io/sets/TEX-files/img/256.png"
+				"en": "https://fallefors.github.io/sets/TEX-files/img/255.png"
 			}
 		},
 		{
@@ -2447,7 +2447,7 @@
 			"type": "Token Creature — Elk",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://fallefors.github.io/sets/TEX-files/img/257.png"
+				"en": "https://fallefors.github.io/sets/TEX-files/img/256.png"
 			}
 		},
 		{
@@ -2457,7 +2457,7 @@
 			"type": "Token Creature — Monk",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://fallefors.github.io/sets/TEX-files/img/259.png"
+				"en": "https://fallefors.github.io/sets/TEX-files/img/258.png"
 			}
 		},
 		{
@@ -2467,7 +2467,7 @@
 			"type": "Token",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://fallefors.github.io/sets/TEX-files/img/260.png"
+				"en": "https://fallefors.github.io/sets/TEX-files/img/259.png"
 			}
 		},
 		{
@@ -2477,7 +2477,7 @@
 			"type": "Creature — Human Monk",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://fallefors.github.io/sets/TEX-files/img/261.png"
+				"en": "https://fallefors.github.io/sets/TEX-files/img/260.png"
 			}
 		},
 		{
@@ -2487,7 +2487,7 @@
 			"type": "Token Creature — Zombie Druid",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://fallefors.github.io/sets/TEX-files/img/262.png"
+				"en": "https://fallefors.github.io/sets/TEX-files/img/261.png"
 			}
 		},
 		{
@@ -2497,7 +2497,7 @@
 			"type": "Creature — Human Assassin",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://fallefors.github.io/sets/TEX-files/img/263.png"
+				"en": "https://fallefors.github.io/sets/TEX-files/img/262.png"
 			}
 		},
 		{
@@ -2507,7 +2507,7 @@
 			"type": "Land",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://fallefors.github.io/sets/TEX-files/img/264.png"
+				"en": "https://fallefors.github.io/sets/TEX-files/img/263.png"
 			}
 		},
 		{
@@ -2517,7 +2517,7 @@
 			"type": "Sorcery",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://fallefors.github.io/sets/TEX-files/img/265.png"
+				"en": "https://fallefors.github.io/sets/TEX-files/img/264.png"
 			}
 		},
 		{
@@ -2527,7 +2527,7 @@
 			"type": "Land",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://fallefors.github.io/sets/TEX-files/img/267.png"
+				"en": "https://fallefors.github.io/sets/TEX-files/img/266.png"
 			}
 		},
 		{
@@ -2537,7 +2537,7 @@
 			"type": "Token Creature — Elemental",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://fallefors.github.io/sets/TEX-files/img/268.png"
+				"en": "https://fallefors.github.io/sets/TEX-files/img/267.png"
 			}
 		},
 		{
@@ -2547,7 +2547,7 @@
 			"type": "Sorcery",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://fallefors.github.io/sets/TEX-files/img/269.png"
+				"en": "https://fallefors.github.io/sets/TEX-files/img/268.png"
 			}
 		}
 	]
@@ -2777,7 +2777,7 @@
 	8 CB11 By Blood and Venom
 	8 CB12 Another Chance
 	8 CA01 manalith
-	8 CA02 broad removal
+	8 CA02 Official's Seal
 	8 CA03 Weathered Sentinel
 	8 CA04 flyer, mill
 	8 CA05 fix
@@ -2859,7 +2859,7 @@
 	8 CB11 By Blood and Venom
 	8 CB12 Another Chance
 	8 CA01 manalith
-	8 CA02 broad removal
+	8 CA02 Official's Seal
 	8 CA03 Weathered Sentinel
 	8 CA04 flyer, mill
 	8 CA05 fix
@@ -2942,7 +2942,7 @@
 	12 CB11 By Blood and Venom
 	12 CB12 Another Chance
 	12 CA01 manalith
-	12 CA02 broad removal
+	12 CA02 Official's Seal
 	12 CA03 Weathered Sentinel
 	12 CA04 flyer, mill
 	12 CA05 fix
@@ -3185,7 +3185,7 @@
 	6 CB11 By Blood and Venom
 	6 CB12 Another Chance
 	6 CA01 manalith
-	6 CA02 broad removal
+	6 CA02 Official's Seal
 	6 CA03 Weathered Sentinel
 	6 CA04 flyer, mill
 	6 CA05 fix

@@ -1,4 +1,65 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+CA02 Official's Seal added.
+
+CA02 broad removal removed.
+
+CA05 fix
+
+UM09 Whisperer of Seasons Past
+pt: 2/3 => 1/2
+
+UM13 Wingblade Master
+pt: 3/3 => 2/4
+
+UW09 Warrior's Will
+rules_text: Choose one — 
+• Target creature gains indestructible until end of turn. [i](Effects that say “destroy” don't destroy this permanent.)[/i]
+• Destroy target attacking creature. => Choose one — 
+• Target creature gains indestructible until end of turn. [i](Effects that say “destroy” don't destroy this instant.)[/i]
+• Destroy target attacking creature.
+
+RU04 Dirgur Heights Ancient
+rules_text: Flying
+Whenever this creature attacks, draw a card, then you may cast a noncreature spell with mana value 2 or less from your hand without paying its mana cost.
+{2}, Discard a card: Return this creature to its owner's hand. => Flying
+Whenever this creature attacks, draw a card, then you may cast a noncreature spell with mana value 2 or less from your hand without paying its mana cost.
+{1}{U}, Discard a card: Return this creature to its owner's hand.
+
+RU02 Silumgar Devotee
+rules_text: When this creature enters, mill two cards.
+Whenever this creature enters or attacks, you may cast an instant or sorcery spell from your graveyard this turn by exiling two other cards from your graveyard in addition to paying its other costs. If a spell cast this way would be put into your graveyard, exile it instead. => When this creature enters, mill two cards.
+Whenever this creature enters or attacks, you may cast target instant or sorcery spell from your graveyard this turn by exiling two other cards from your graveyard in addition to paying its other costs. If that spell would be put into your graveyard, exile it instead.
+
+Crocodile
+
+UM12 Disown
+
+Elk
+
+Monk
+
+Copy
+
+RR02 Jeskai Ringcaster
+
+Zombie Druid
+
+RM06 Nightblade Infiltrator
+
+RL06 Vestige of the Spirit Dragon
+
+RM24 Efflorescent Rite
+
+UL05 Frontier Bivouac
+
+Elemental
+
+RU06 Whispered Visions
+
+
+VERSION 9 CHANGELOG
 ====================
 
 No changes.

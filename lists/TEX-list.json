@@ -69,7 +69,7 @@
         "shape": "adventure",
         "set": "TEX",
         "rotated": false,
-        "position": "261"
+        "position": "260"
     },
     {
         "card_name": "RG02 Cold-Blooded Hydra",
@@ -213,7 +213,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "269"
+        "position": "268"
     },
     {
         "card_name": "RB06 Forgotten Kin-Tree",
@@ -1451,7 +1451,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "263"
+        "position": "262"
     },
     {
         "card_name": "RM10 Narset, Master Undone",
@@ -1523,7 +1523,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "265"
+        "position": "264"
     },
     {
         "card_name": "RM08 Accustomed Packbeast",
@@ -1651,7 +1651,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "256"
+        "position": "255"
     },
     {
         "card_name": "UM14 Find Balance",
@@ -1771,7 +1771,7 @@
         "position": "61"
     },
     {
-        "card_name": "CA02 broad removal",
+        "card_name": "CA02 Official's Seal",
         "number": 230,
         "shape": "normal",
         "set": "TEX",
@@ -1986,7 +1986,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "264"
+        "position": "263"
     },
     {
         "card_name": "UL01 Sandsteppe Citadel",
@@ -2026,7 +2026,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "267"
+        "position": "266"
     },
     {
         "card_name": "CL11 Evolving Wilds",
@@ -2119,7 +2119,7 @@
         "shape": "token",
         "set": "TEX",
         "rotated": false,
-        "position": "260"
+        "position": "259"
     },
     {
         "card_name": "Monk",
@@ -2127,7 +2127,7 @@
         "shape": "token",
         "set": "TEX",
         "rotated": false,
-        "position": "259"
+        "position": "258"
     },
     {
         "card_name": "Spirit",
@@ -2143,7 +2143,7 @@
         "shape": "token",
         "set": "TEX",
         "rotated": false,
-        "position": "268"
+        "position": "267"
     },
     {
         "card_name": "Zombie Druid",
@@ -2151,7 +2151,7 @@
         "shape": "token",
         "set": "TEX",
         "rotated": false,
-        "position": "262"
+        "position": "261"
     },
     {
         "card_name": "Warrior",
@@ -2167,7 +2167,7 @@
         "shape": "token",
         "set": "TEX",
         "rotated": false,
-        "position": "255"
+        "position": "254"
     },
     {
         "card_name": "Elk",
@@ -2175,7 +2175,7 @@
         "shape": "token",
         "set": "TEX",
         "rotated": false,
-        "position": "257"
+        "position": "256"
     },
     {
         "card_name": "e"
