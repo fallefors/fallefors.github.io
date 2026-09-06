@@ -111,7 +111,7 @@
 			}
 		},
 		{
-			"name": "CW07 Debilitating Assault",
+			"name": "CW07 Debilitating Tactics",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
@@ -1873,7 +1873,7 @@
 		{
 			"name": "RM13 Defend the Monastery",
 			"rarity": "rare",
-			"mana_cost": "{3}{U}{R}{W}",
+			"mana_cost": "{4}{U}{R}{W}",
 			"type": "Sorcery",
 			"collector_number": "196",
 			"image_uris": {
@@ -2251,16 +2251,6 @@
 			}
 		},
 		{
-			"name": "RG03 Unbridled Nettlekin",
-			"rarity": "rare",
-			"mana_cost": "{3}{G}",
-			"type": "Creature — Elemental",
-			"collector_number": "150",
-			"image_uris": {
-				"en": "https://fallefors.github.io/sets/TEX-files/img/225.png"
-			}
-		},
-		{
 			"name": "RG04 Heavy Cavalry Captain",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
@@ -2418,6 +2408,16 @@
 			"collector_number": "48",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/241.png"
+			}
+		},
+		{
+			"name": "RG03 Fangkeeper's Attendants",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Monkey",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/242.png"
 			}
 		},
 		{
@@ -2604,11 +2604,11 @@
 	2 RR06 Auroral Expression
 	2 RG01 Sibsig Outlander
 	2 RG02 Cold-Blooded Hydra
-	2 RG03 Unbridled Nettlekin
 	2 RG04 Heavy Cavalry Captain
 	2 RG05 Tyrant of Qal Sisma
 	2 RG06 Harness the Cycle
 	2 RU01 Spirited Mistleaper
+	2 RG03 Fangkeeper's Attendants
 	2 RR02 Jeskai Ringcaster
 	2 RM06 Nightblade Infiltrator
 	2 RL06 Vestige of the Spirit Dragon
@@ -2726,7 +2726,7 @@
 	8 CW03 Coordinated Students
 	8 CW04 Vanguard Gallant
 	8 CW05 Citadel Sentry
-	8 CW07 Debilitating Assault
+	8 CW07 Debilitating Tactics
 	8 CW08 Wasteland Roc
 	8 CG09 Awaited Return
 	8 CG10 Lavish Dance
@@ -2808,7 +2808,7 @@
 	8 CW03 Coordinated Students
 	8 CW04 Vanguard Gallant
 	8 CW05 Citadel Sentry
-	8 CW07 Debilitating Assault
+	8 CW07 Debilitating Tactics
 	8 CW08 Wasteland Roc
 	8 CG09 Awaited Return
 	8 CG10 Lavish Dance
@@ -2891,7 +2891,7 @@
 	12 CW03 Coordinated Students
 	12 CW04 Vanguard Gallant
 	12 CW05 Citadel Sentry
-	12 CW07 Debilitating Assault
+	12 CW07 Debilitating Tactics
 	12 CW08 Wasteland Roc
 	12 CG09 Awaited Return
 	12 CG10 Lavish Dance
@@ -3105,7 +3105,6 @@
 	2 RR06 Auroral Expression
 	2 RG01 Sibsig Outlander
 	2 RG02 Cold-Blooded Hydra
-	2 RG03 Unbridled Nettlekin
 	2 RG04 Heavy Cavalry Captain
 	2 RG05 Tyrant of Qal Sisma
 	2 RG06 Harness the Cycle
@@ -3115,6 +3114,7 @@
 	6 UR01 Clever Infiltrator
 	6 UR10 Devastating Bolt
 	2 RU01 Spirited Mistleaper
+	2 RG03 Fangkeeper's Attendants
 	6 UM12 Disown
 	2 RR02 Jeskai Ringcaster
 	2 RM06 Nightblade Infiltrator
@@ -3134,7 +3134,7 @@
 	6 CW03 Coordinated Students
 	6 CW04 Vanguard Gallant
 	6 CW05 Citadel Sentry
-	6 CW07 Debilitating Assault
+	6 CW07 Debilitating Tactics
 	6 CW08 Wasteland Roc
 	6 CG09 Awaited Return
 	6 CG10 Lavish Dance
@@ -3348,7 +3348,6 @@
 	7 RR06 Auroral Expression
 	7 RG01 Sibsig Outlander
 	7 RG02 Cold-Blooded Hydra
-	7 RG03 Unbridled Nettlekin
 	7 RG04 Heavy Cavalry Captain
 	7 RG05 Tyrant of Qal Sisma
 	7 RG06 Harness the Cycle
@@ -3358,6 +3357,7 @@
 	15 UR01 Clever Infiltrator
 	15 UR10 Devastating Bolt
 	7 RU01 Spirited Mistleaper
+	7 RG03 Fangkeeper's Attendants
 	15 UM12 Disown
 	7 RR02 Jeskai Ringcaster
 	7 RM06 Nightblade Infiltrator

@@ -112,12 +112,12 @@
         "position": "153"
     },
     {
-        "card_name": "RG03 Unbridled Nettlekin",
+        "card_name": "RG03 Fangkeeper's Attendants",
         "number": 150,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "225"
+        "position": "242"
     },
     {
         "card_name": "RW04 Captain's Roc",
@@ -1040,7 +1040,7 @@
         "position": "43"
     },
     {
-        "card_name": "CW07 Debilitating Assault",
+        "card_name": "CW07 Debilitating Tactics",
         "number": 8,
         "shape": "normal",
         "set": "TEX",

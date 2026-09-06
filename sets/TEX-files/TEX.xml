@@ -5,7 +5,7 @@
 			<name>TEX</name>
 			<longname>Tarkir: Extinction</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-04</releasedate>
+			<releasedate>2026-09-06</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -133,6 +133,7 @@ Glory — When this creature dies, create a 1/1 red Warrior creature token. If i
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related>Warrior TEX</related>
 		</card>
 		<card>
 			<name>CW01 Hidden Ambusher</name>
@@ -210,10 +211,10 @@ When this creature enters, put a +1/+1 counter on target creature you control.</
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CW07 Debilitating Assault</name>
+			<name>CW07 Debilitating Tactics</name>
 			<text>Choose one —
-• Tap up to two target creatures.
-• Create two 1/1 red Warrior creature tokens.</text>
+• Create two 1/1 red Warrior creature tokens.
+• Tap up to two target creatures.</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/11.png" num="8">TEX</set>
 			<prop>
 				<layout>normal</layout>
@@ -226,6 +227,7 @@ When this creature enters, put a +1/+1 counter on target creature you control.</
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related>Warrior TEX 2</related>
 		</card>
 		<card>
 			<name>CW08 Wasteland Roc</name>
@@ -1194,6 +1196,7 @@ When this land enters, you gain 1 life.
 				<coloridentity>WU</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<cipt>1</cipt>
 		</card>
 		<card>
 			<name>CM01 Reclaimer of Tradition</name>
@@ -1284,6 +1287,7 @@ When this land enters, you gain 1 life.
 				<coloridentity>UB</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<cipt>1</cipt>
 		</card>
 		<card>
 			<name>CL03 Bloodfell Caves</name>
@@ -1301,6 +1305,7 @@ When this land enters, you gain 1 life.
 				<coloridentity>BR</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<cipt>1</cipt>
 		</card>
 		<card>
 			<name>CL04 Rugged Highlands</name>
@@ -1318,6 +1323,7 @@ When this land enters, you gain 1 life.
 				<coloridentity>RG</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<cipt>1</cipt>
 		</card>
 		<card>
 			<name>CL05 Blossoming Sands</name>
@@ -1335,6 +1341,7 @@ When this land enters, you gain 1 life.
 				<coloridentity>WG</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<cipt>1</cipt>
 		</card>
 		<card>
 			<name>CL06 Scoured Barrens</name>
@@ -1352,6 +1359,7 @@ When this land enters, you gain 1 life.
 				<coloridentity>WB</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<cipt>1</cipt>
 		</card>
 		<card>
 			<name>CL07 Swiftwater Cliffs</name>
@@ -1369,6 +1377,7 @@ When this land enters, you gain 1 life.
 				<coloridentity>UR</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<cipt>1</cipt>
 		</card>
 		<card>
 			<name>CL08 Jungle Hollow</name>
@@ -1386,6 +1395,7 @@ When this land enters, you gain 1 life.
 				<coloridentity>BG</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<cipt>1</cipt>
 		</card>
 		<card>
 			<name>CL09 Wind-Scarred Crag</name>
@@ -1403,6 +1413,7 @@ When this land enters, you gain 1 life.
 				<coloridentity>WR</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<cipt>1</cipt>
 		</card>
 		<card>
 			<name>CL10 Thornwood Falls</name>
@@ -1420,6 +1431,7 @@ When this land enters, you gain 1 life.
 				<coloridentity>UG</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<cipt>1</cipt>
 		</card>
 		<card>
 			<name>UL01 Sandsteppe Citadel</name>
@@ -1436,6 +1448,7 @@ When this land enters, you gain 1 life.
 				<coloridentity>WBG</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<cipt>1</cipt>
 		</card>
 		<card>
 			<name>UL02 Opulent Palace</name>
@@ -1452,6 +1465,7 @@ When this land enters, you gain 1 life.
 				<coloridentity>UBG</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<cipt>1</cipt>
 		</card>
 		<card>
 			<name>UL03 Nomad Outpost</name>
@@ -1468,6 +1482,7 @@ When this land enters, you gain 1 life.
 				<coloridentity>WBR</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<cipt>1</cipt>
 		</card>
 		<card>
 			<name>UL04 Mystic Monastery</name>
@@ -1484,6 +1499,7 @@ When this land enters, you gain 1 life.
 				<coloridentity>WUR</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<cipt>1</cipt>
 		</card>
 		<card>
 			<name>UA01 Ancestral Monument</name>
@@ -1564,6 +1580,7 @@ When this land enters, you gain 1 life.
 				<coloridentity>URG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<related>Elk TEX</related>
 		</card>
 		<card>
 			<name>UM01 Lowland Outrider</name>
@@ -1583,6 +1600,7 @@ Whenever this creature attacks, you may sacrifice another creature. If you do, p
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related>Warrior TEX</related>
 		</card>
 		<card>
 			<name>UM02 Ashdune Avenger</name>
@@ -1705,6 +1723,7 @@ Whenever you attack with two or more creatures, exile the top card of your libra
 				<coloridentity>WR</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related>Warrior TEX 2</related>
 		</card>
 		<card>
 			<name>UM09 Whisperer of Seasons Past</name>
@@ -1970,6 +1989,7 @@ Whenever you cast a noncreature spell, this creature gets +1/+1 until end of tur
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related>Warrior TEX</related>
 		</card>
 		<card>
 			<name>UW05 Ainok Vindicator</name>
@@ -2045,7 +2065,7 @@ When this creature enters, return up to one target creature card with mana value
 		<card>
 			<name>UW09 Warrior&apos;s Will</name>
 			<text>Choose one — 
-• Target creature gains indestructible until end of turn. (Effects that say &quot;destroy&quot; don&apos;t destroy this instant.)
+• Target creature gains indestructible until end of turn. (Effects that say &quot;destroy&quot; don&apos;t destroy it.)
 • Destroy target attacking creature.</text>
 			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/117.png" num="29">TEX</set>
 			<prop>
@@ -2076,6 +2096,7 @@ When this creature enters, return up to one target creature card with mana value
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<related>Spirit TEX</related>
 		</card>
 		<card>
 			<name>UW11 Honor</name>
@@ -2127,6 +2148,7 @@ Whenever you attack, put a +1/+1 counter on target attacking creature.</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<related>Warrior TEX</related>
 		</card>
 		<card>
 			<name>UW14 Whirlsand Blade</name>
@@ -2490,6 +2512,7 @@ Whenever this creature or another creature you control dies, each opponent loses
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related>Warrior TEX</related>
 		</card>
 		<card>
 			<name>UB06 Kheru Gatekeeper</name>
@@ -3076,6 +3099,7 @@ Ceremony—{3}{G}, Exile another card from your graveyard. (You may cast a copy 
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related>Crocodile TEX</related>
 		</card>
 		<card>
 			<name>UG14 Bloomvine Symbiosis</name>
@@ -3300,7 +3324,7 @@ Counter target spell. Master&apos;s Refusal deals 3 damage to its controller and
 			<name>RM13 Defend the Monastery</name>
 			<text>Choose two. Exile Defend the Monastery.
 • Defend the Monastery deals 4 damage to each creature.
-• Return target noncreature, nonland card from your graveyard to your hand.
+• Return up to two target noncreature, nonland cards from your graveyard to your hand.
 • Create three 1/1 white Monk creature tokens with prowess.</text>
 			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/187.png" num="196">TEX</set>
 			<prop>
@@ -3308,12 +3332,13 @@ Counter target spell. Master&apos;s Refusal deals 3 damage to its controller and
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>3URW</manacost>
-				<cmc>6</cmc>
+				<manacost>4URW</manacost>
+				<cmc>7</cmc>
 				<colors>WUR</colors>
 				<coloridentity>WUR</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related>Monk TEX 3</related>
 		</card>
 		<card>
 			<name>RM14 Fiendish Jailer</name>
@@ -3423,6 +3448,7 @@ When this creature enters, it deals 3 damage divided as you choose among one, tw
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related>Warrior TEX</related>
 		</card>
 		<card>
 			<name>RM20 Flamethrower Rakshasa</name>
@@ -3441,6 +3467,7 @@ Whenever a creature you control attacks, this creature deals 1 damage to the pla
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related>Warrior TEX</related>
 		</card>
 		<card>
 			<name>RM21 Constant Assault</name>
@@ -3458,6 +3485,7 @@ Whenever you attack, create a 1/1 red Warrior creature token that&apos;s tapped 
 				<coloridentity>WBR</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<related>Warrior TEX</related>
 		</card>
 		<card>
 			<name>RM22 Foothill Patrol</name>
@@ -3493,6 +3521,7 @@ Creatures you control have trample and haste.</text>
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related>Elemental TEX</related>
 		</card>
 		<card>
 			<name>RM25 Vibrant Phenomenon</name>
@@ -3594,6 +3623,7 @@ Creatures you control have trample and haste.</text>
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related>Zombie Druid TEX</related>
 		</card>
 		<card>
 			<name>RW01 Barrensteppe Champion</name>
@@ -3667,6 +3697,7 @@ Whenever this creature attacks, surveil 1. Then if there are five or more creatu
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related>Warrior TEX</related>
 		</card>
 		<card>
 			<name>RW05 Political Escalation</name>
@@ -3808,6 +3839,7 @@ When this creature enters, return target creature card with mana value X or less
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related>Zombie Druid TEX</related>
 		</card>
 		<card>
 			<name>RB04 Insatiable Rakshasa</name>
@@ -3844,6 +3876,7 @@ Whenever this creature attacks, you may exile up to two target cards from gravey
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related>Zombie Druid TEX</related>
 		</card>
 		<card>
 			<name>UB11 Krumar Initiation</name>
@@ -3966,24 +3999,6 @@ When this creature enters, it fights up to one other target creature.</text>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 				<pt>0/0</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>RG03 Unbridled Nettlekin</name>
-			<text>Reach
-Accord — At the beginning of your end step, if you&apos;ve cast both a creature spell and a noncreature spell this turn, draw a card, then you may cast a spell from your hand without paying its mana cost.</text>
-			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/225.png" num="150">TEX</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Elemental</type>
-				<maintype>Creature</maintype>
-				<manacost>3G</manacost>
-				<cmc>4</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
-				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4262,6 +4277,25 @@ Exile target non-Rogue creature you control, then return that card to the battle
 			<tablerow>2</tablerow>
 		</card>
 		<card>
+			<name>RG03 Fangkeeper&apos;s Attendants</name>
+			<text>This creature can&apos;t be blocked by creatures with power 2 or less.
+Whenever this creature attacks, you may return a non-Monkey card exiled with this creature to its owner&apos;s hand.
+Ceremony—{3}{G}, Exile two other cards from your graveyard. (You may cast a copy of this from your graveyard by exiling it and paying the ceremony cost. It&apos;s a token.)</text>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/242.png" num="150">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Monkey</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
 			<name>Crocodile TEX</name>
 			<text></text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/254.png" num="7">TEX</set>
@@ -4454,6 +4488,7 @@ When this creature enters, exile up to one target nonland permanent with mana va
 				<coloridentity>URG</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<cipt>1</cipt>
 		</card>
 		<card>
 			<name>Elemental TEX</name>
@@ -4490,6 +4525,7 @@ Create a 3/3 green Elk creature token.</text>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related>Elk TEX</related>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

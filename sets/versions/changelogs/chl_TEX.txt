@@ -1,4 +1,97 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+CW07 Debilitating Tactics added.
+RG03 Fangkeeper's Attendants added.
+
+CW07 Debilitating Assault removed.
+RG03 Unbridled Nettlekin removed.
+
+CW06 Respected Strike Leader
+
+CL01 Tranquil Cove
+
+CL02 Dismal Backwater
+
+CL03 Bloodfell Caves
+
+CL04 Rugged Highlands
+
+CL05 Blossoming Sands
+
+CL06 Scoured Barrens
+
+CL07 Swiftwater Cliffs
+
+CL08 Jungle Hollow
+
+CL09 Wind-Scarred Crag
+
+CL10 Thornwood Falls
+
+UL01 Sandsteppe Citadel
+
+UL02 Opulent Palace
+
+UL03 Nomad Outpost
+
+UL04 Mystic Monastery
+
+UA05 Hunter's Monument
+
+UM01 Lowland Outrider
+
+UM08 Gather the Warband
+
+UW04 Dalkovan Marshal
+
+UW09 Warrior's Will
+rules_text: Choose one — 
+• Target creature gains indestructible until end of turn. [i](Effects that say “destroy” don't destroy this instant.)[/i]
+• Destroy target attacking creature. => Choose one — 
+• Target creature gains indestructible until end of turn. [i](Effects that say “destroy” don't destroy it.)[/i]
+• Destroy target attacking creature.
+
+UW10 Waste's Curse
+
+UW13 Face Adversity
+
+UB05 Remorseless Hordechief
+
+UG13 Call the Float
+
+RM13 Defend the Monastery
+cost: {3}{U}{R}{W} => {4}{U}{R}{W}
+rules_text: Choose two. Exile Defend the Monastery.
+• Defend the Monastery deals 4 damage to each creature.
+• Return target noncreature, nonland card from your graveyard to your hand.
+• Create three 1/1 white Monk creature tokens with prowess. => Choose two. Exile Defend the Monastery.
+• Defend the Monastery deals 4 damage to each creature.
+• Return up to two target noncreature, nonland cards from your graveyard to your hand.
+• Create three 1/1 white Monk creature tokens with prowess.
+
+RM19 Horde Strategist
+
+RM20 Flamethrower Rakshasa
+
+RM21 Constant Assault
+
+RM23 Wildshape Conjurer
+
+RL05 Batiga Village
+
+RW04 Captain's Roc
+
+RB02 Death's Confidant
+
+RB05 Their Dead Will Rise Again
+
+UL05 Frontier Bivouac
+
+RU06 Whispered Visions
+
+
+VERSION 11 CHANGELOG
 ====================
 
 CA04 flying, mill added.

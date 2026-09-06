@@ -152,7 +152,7 @@
             "alias": "",
             "position": "6",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Warrior TEX"
         },
         {
             "card_name": "CW01 Hidden Ambusher",
@@ -251,14 +251,14 @@
             "notes": ""
         },
         {
-            "card_name": "CW07 Debilitating Assault",
+            "card_name": "CW07 Debilitating Tactics",
             "color": "W",
             "rarity": "common",
             "type": "Instant",
             "number": 8,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Choose one \u2014\n\u2022 Tap up to two target creatures.\n\u2022 Create two 1/1 red Warrior creature tokens.",
+            "rules_text": "Choose one \u2014\n\u2022 Create two 1/1 red Warrior creature tokens.\n\u2022 Tap up to two target creatures.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -269,7 +269,7 @@
             "alias": "",
             "position": "11",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Warrior TEX 2"
         },
         {
             "card_name": "CW08 Wasteland Roc",
@@ -1469,7 +1469,7 @@
             "alias": "",
             "position": "67",
             "rotated": false,
-            "notes": "!tag landslot"
+            "notes": "!tag landslot\n!tapped"
         },
         {
             "card_name": "CM01 Reclaimer of Tradition",
@@ -1574,7 +1574,7 @@
             "alias": "",
             "position": "72",
             "rotated": false,
-            "notes": "!tag landslot"
+            "notes": "!tag landslot\n!tapped"
         },
         {
             "card_name": "CL03 Bloodfell Caves",
@@ -1595,7 +1595,7 @@
             "alias": "",
             "position": "73",
             "rotated": false,
-            "notes": "!tag landslot"
+            "notes": "!tag landslot\n!tapped"
         },
         {
             "card_name": "CL04 Rugged Highlands",
@@ -1616,7 +1616,7 @@
             "alias": "",
             "position": "74",
             "rotated": false,
-            "notes": "!tag landslot"
+            "notes": "!tag landslot\n!tapped"
         },
         {
             "card_name": "CL05 Blossoming Sands",
@@ -1637,7 +1637,7 @@
             "alias": "",
             "position": "75",
             "rotated": false,
-            "notes": "!tag landslot"
+            "notes": "!tag landslot\n!tapped"
         },
         {
             "card_name": "CL06 Scoured Barrens",
@@ -1658,7 +1658,7 @@
             "alias": "",
             "position": "76",
             "rotated": false,
-            "notes": "!tag landslot"
+            "notes": "!tag landslot\n!tapped"
         },
         {
             "card_name": "CL07 Swiftwater Cliffs",
@@ -1679,7 +1679,7 @@
             "alias": "",
             "position": "77",
             "rotated": false,
-            "notes": "!tag landslot"
+            "notes": "!tag landslot\n!tapped"
         },
         {
             "card_name": "CL08 Jungle Hollow",
@@ -1700,7 +1700,7 @@
             "alias": "",
             "position": "78",
             "rotated": false,
-            "notes": "!tag landslot"
+            "notes": "!tag landslot\n!tapped"
         },
         {
             "card_name": "CL09 Wind-Scarred Crag",
@@ -1721,7 +1721,7 @@
             "alias": "",
             "position": "79",
             "rotated": false,
-            "notes": "!tag landslot"
+            "notes": "!tag landslot\n!tapped"
         },
         {
             "card_name": "CL10 Thornwood Falls",
@@ -1742,7 +1742,7 @@
             "alias": "",
             "position": "80",
             "rotated": false,
-            "notes": "!tag landslot"
+            "notes": "!tag landslot\n!tapped"
         },
         {
             "card_name": "UL01 Sandsteppe Citadel",
@@ -1763,7 +1763,7 @@
             "alias": "",
             "position": "81",
             "rotated": false,
-            "notes": "!tag landslot"
+            "notes": "!tag landslot\n!tapped"
         },
         {
             "card_name": "UL02 Opulent Palace",
@@ -1784,7 +1784,7 @@
             "alias": "",
             "position": "82",
             "rotated": false,
-            "notes": "!tag landslot"
+            "notes": "!tag landslot\n!tapped"
         },
         {
             "card_name": "UL03 Nomad Outpost",
@@ -1805,7 +1805,7 @@
             "alias": "",
             "position": "83",
             "rotated": false,
-            "notes": "!tag landslot"
+            "notes": "!tag landslot\n!tapped"
         },
         {
             "card_name": "UL04 Mystic Monastery",
@@ -1826,7 +1826,7 @@
             "alias": "",
             "position": "84",
             "rotated": false,
-            "notes": "!tag landslot"
+            "notes": "!tag landslot\n!tapped"
         },
         {
             "card_name": "UA01 Ancestral Monument",
@@ -1931,7 +1931,7 @@
             "alias": "",
             "position": "89",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Elk TEX"
         },
         {
             "card_name": "UM01 Lowland Outrider",
@@ -1952,7 +1952,7 @@
             "alias": "",
             "position": "90",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Warrior TEX"
         },
         {
             "card_name": "UM02 Ashdune Avenger",
@@ -2099,7 +2099,7 @@
             "alias": "",
             "position": "97",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Warrior TEX 2"
         },
         {
             "card_name": "UM09 Whisperer of Seasons Past",
@@ -2414,7 +2414,7 @@
             "alias": "",
             "position": "112",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Warrior TEX"
         },
         {
             "card_name": "UW05 Ainok Vindicator",
@@ -2508,7 +2508,7 @@
             "number": 29,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Choose one \u2014 \n\u2022 Target creature gains indestructible until end of turn. [i](Effects that say \u201cdestroy\u201d don't destroy this instant.)[/i]\n\u2022 Destroy target attacking creature.",
+            "rules_text": "Choose one \u2014 \n\u2022 Target creature gains indestructible until end of turn. [i](Effects that say \u201cdestroy\u201d don't destroy it.)[/i]\n\u2022 Destroy target attacking creature.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2540,7 +2540,7 @@
             "alias": "",
             "position": "118",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Spirit TEX"
         },
         {
             "card_name": "UW11 Honor",
@@ -2603,7 +2603,7 @@
             "alias": "",
             "position": "121",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Warrior TEX"
         },
         {
             "card_name": "UW14 Whirlsand Blade",
@@ -3035,7 +3035,7 @@
             "alias": "",
             "position": "141",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Warrior TEX"
         },
         {
             "card_name": "UB06 Kheru Gatekeeper",
@@ -3740,7 +3740,7 @@
             "alias": "",
             "position": "174",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Crocodile TEX"
         },
         {
             "card_name": "UG14 Bloomvine Symbiosis",
@@ -4013,8 +4013,8 @@
             "type": "Sorcery",
             "number": 196,
             "color_identity": "WUR",
-            "cost": "{3}{U}{R}{W}",
-            "rules_text": "Choose two. Exile Defend the Monastery.\n\u2022 Defend the Monastery deals 4 damage to each creature.\n\u2022 Return target noncreature, nonland card from your graveyard to your hand.\n\u2022 Create three 1/1 white Monk creature tokens with prowess.",
+            "cost": "{4}{U}{R}{W}",
+            "rules_text": "Choose two. Exile Defend the Monastery.\n\u2022 Defend the Monastery deals 4 damage to each creature.\n\u2022 Return up to two target noncreature, nonland cards from your graveyard to your hand.\n\u2022 Create three 1/1 white Monk creature tokens with prowess.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4025,7 +4025,7 @@
             "alias": "",
             "position": "187",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Monk TEX 3"
         },
         {
             "card_name": "RM14 Fiendish Jailer",
@@ -4151,7 +4151,7 @@
             "alias": "",
             "position": "193",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Warrior TEX"
         },
         {
             "card_name": "RM20 Flamethrower Rakshasa",
@@ -4172,7 +4172,7 @@
             "alias": "",
             "position": "194",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Warrior TEX"
         },
         {
             "card_name": "RM21 Constant Assault",
@@ -4193,7 +4193,7 @@
             "alias": "",
             "position": "195",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Warrior TEX"
         },
         {
             "card_name": "RM22 Foothill Patrol",
@@ -4235,7 +4235,7 @@
             "alias": "",
             "position": "197",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Elemental TEX"
         },
         {
             "card_name": "RM25 Vibrant Phenomenon",
@@ -4361,7 +4361,7 @@
             "alias": "",
             "position": "203",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Zombie Druid TEX"
         },
         {
             "card_name": "RW01 Barrensteppe Champion",
@@ -4445,7 +4445,7 @@
             "alias": "",
             "position": "207",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Warrior TEX"
         },
         {
             "card_name": "RW05 Political Escalation",
@@ -4613,7 +4613,7 @@
             "alias": "",
             "position": "215",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Zombie Druid TEX"
         },
         {
             "card_name": "RB04 Insatiable Rakshasa",
@@ -4655,7 +4655,7 @@
             "alias": "",
             "position": "217",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Zombie Druid TEX"
         },
         {
             "card_name": "UB11 Krumar Initiation",
@@ -4801,27 +4801,6 @@
             "artist": "Brett MacDonald",
             "alias": "",
             "position": "224",
-            "rotated": false,
-            "notes": ""
-        },
-        {
-            "card_name": "RG03 Unbridled Nettlekin",
-            "color": "G",
-            "rarity": "rare",
-            "type": "Creature \u2014 Elemental",
-            "number": 150,
-            "color_identity": "G",
-            "cost": "{3}{G}",
-            "rules_text": "Reach\n[i]Accord[/i] \u2014 At the beginning of your end step, if you've cast both a creature spell and a noncreature spell this turn, draw a card, then you may cast a spell from your hand without paying its mana cost.",
-            "flavor_text": "[i][/i]",
-            "pt": "4/4",
-            "special_text": "",
-            "shape": "normal",
-            "set": "TEX",
-            "loyalty": "",
-            "artist": "Bryan Sola",
-            "alias": "",
-            "position": "225",
             "rotated": false,
             "notes": ""
         },
@@ -5174,6 +5153,27 @@
             "notes": ""
         },
         {
+            "card_name": "RG03 Fangkeeper's Attendants",
+            "color": "G",
+            "rarity": "rare",
+            "type": "Creature \u2014 Monkey",
+            "number": 150,
+            "color_identity": "G",
+            "cost": "{1}{G}",
+            "rules_text": "This creature can't be blocked by creatures with power 2 or less.\nWhenever this creature attacks, you may return a non-Monkey card exiled with this creature to its owner's hand.\nCeremony\u2014{3}{G}, Exile two other cards from your graveyard. [i](You may cast a copy of this from your graveyard by exiling it and paying the ceremony cost. It's a token.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "3/2",
+            "special_text": "",
+            "shape": "normal",
+            "set": "TEX",
+            "loyalty": "",
+            "artist": "Jin Xiaodi",
+            "alias": "",
+            "position": "242",
+            "rotated": false,
+            "notes": ""
+        },
+        {
             "card_name": "Crocodile",
             "color": "G",
             "rarity": "common",
@@ -5414,7 +5414,7 @@
             "alias": "",
             "position": "266",
             "rotated": false,
-            "notes": "!tag landslot"
+            "notes": "!tag landslot\n!tapped"
         },
         {
             "card_name": "Elemental",
@@ -5456,8 +5456,8 @@
             "alias": "",
             "position": "268",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Elk TEX"
         }
     ],
-    "version": 11
+    "version": 12
 }
