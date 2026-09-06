@@ -1,4 +1,504 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+
+
+CW04 Vanguard Gallant
+
+CW05 Citadel Sentry
+
+CW07 Debilitating Tactics
+
+CW08 Wasteland Roc
+
+CG09 Awaited Return
+
+CG10 Lavish Dance
+
+CW11 Superior Form
+
+CG12 Ferocious Resolve
+
+CU02 Intel Agent
+
+CB04 Forsaken Butcher
+
+CU04 Sage of the Silent Voice
+
+CB06 Decrepit Scavenger
+
+CR06 Introspective Strongarm
+
+CR07 Alan's Butcher
+
+CR08 Thunderstep Warmonger
+
+CW09 Full Force
+
+CW10 Pacifism
+
+CU11 Push Back
+
+CW12 Lost to History
+
+CU01 Aspect of Winter
+
+CR01 Bloodfire Prodigy
+
+CU05 Avalanche Escort
+
+CU06 Cloudspell Kirin
+
+CU07 Marang River Horror
+
+CU08 Keep Hidden
+
+CU09 Augur's Incense
+
+CU10 Winter's Embrace
+
+CG11 Take the Upper hand
+
+CU12 Find Focus
+
+CR02 Death's Challenger
+
+CG03 Undergrowth Leopard
+
+CR03 Wandering Wildfire
+
+CG06 Bogwort Beast
+
+CB01 Outskirt Scrapper
+
+CB08 Wasteland Marauder
+
+CR09 Nature's Ferocity
+
+CR10 Harnessed Lightning
+
+CR11 Lightning Strike
+
+CR12 Seize Opportunity
+
+CB03 Scourge of the Wastes
+
+CG04 Garden Familiar
+
+CG05 Trade Route Trailblazer
+
+CG01 Hilltop Surveyor
+
+CB07 Notorious Vanquisher
+
+CG07 Captivating Stag
+
+CG08 Colossal Dunetreader
+
+CB09 Sandsteppe Ambush
+
+CB10 Chokehold
+
+CB11 By Blood and Venom
+
+CB12 Another Chance
+
+CA01 manalith
+
+CA02 Official's Seal
+
+CA03 Weathered Sentinel
+
+CA04 flying, mill
+
+CA05 fix
+
+CL11 Evolving Wilds
+
+CL01 Tranquil Cove
+
+CM01 Reclaimer of Tradition
+
+CM02 Carrier of Wind
+
+CM04 Unyielding Hordemate
+
+CM05 Melodic Storyteller
+
+CL02 Dismal Backwater
+
+CL03 Bloodfell Caves
+
+CL04 Rugged Highlands
+
+CL05 Blossoming Sands
+
+CL06 Scoured Barrens
+
+CL07 Swiftwater Cliffs
+
+CL08 Jungle Hollow
+
+CL09 Wind-Scarred Crag
+
+CL10 Thornwood Falls
+
+UL01 Sandsteppe Citadel
+
+UL02 Opulent Palace
+
+UL03 Nomad Outpost
+
+UL04 Mystic Monastery
+
+UA01 Ancestral Monument
+
+UA02 Inspiring Monument
+
+UA03 Hidden Monument
+
+UA04 Barren Monument
+
+UA05 Hunter's Monument
+
+UM01 Lowland Outrider
+
+UM02 Ashdune Avenger
+
+UM03 Dazzled Student
+
+UM04 Monastery Sparring
+
+UM05 House's Head
+
+UM06 Death's Attendant
+
+UM07 Reserved Mentor
+
+UM08 Gather the Warband
+
+UM09 Whisperer of Seasons Past
+
+UM10 Sagu Exploration
+
+UM11 Expedition Rhino
+
+UM13 Wingblade Master
+
+UM14 Find Balance
+
+UM15 Secretive Serpentmage
+
+UM16 Whisper of Promise
+
+UM17 Steadfast Conqueror
+
+UM18 Violent Onslaught
+
+UM19 Snowcrag Stalwart
+
+UM20 Clash of Antlers
+
+UW01 Soulfire Clairvoyant
+
+UW02 Traveling Merchant
+
+UW03 Highspire Sentry
+
+UW04 Dalkovan Marshal
+
+UW05 Ainok Vindicator
+
+UW06 Borderland Vanguard
+
+UW07 Soulcrag Kirin
+
+UW08 Plucky Battledriver
+
+UW09 Warrior's Will
+
+UW10 Waste's Curse
+
+UW11 Honor
+
+UW12 Final Encounter
+
+UW13 Face Adversity
+
+UW14 Whirlsand Blade
+
+UU01 Whisperer's Familiar
+
+RU03 Free-spirited Pup
+
+UU03 Master of Balance
+
+UU05 Palace Archivists
+
+UU06 Wingspan Apprentice
+
+UU07 Drifting Disaster
+
+UU10 Abandon Allegiance
+
+UU09 Consign to History
+
+UU08 Consult the Passed
+
+UU11 Ancient Tribute
+
+UU12 Blend In
+
+UU13 Become Obscure
+
+UU14 Forbidden Form
+
+UB01 Scrubland Lookout
+
+UB02 Unrelenting Champion
+
+UB03 Indulgent Patron
+
+UB04 Mardu Warcrier
+
+UB05 Remorseless Hordechief
+
+UB06 Kheru Gatekeeper
+
+UB07 Yathan Heavy
+
+UB08 Malevolent Force
+
+UB09 Vanquish the Inferior
+
+UB10 Ancestral Intervention
+
+RB06 Forgotten Kin-Tree
+
+UB12 The Webs I Built
+
+UB14 Pillagers' Prize
+
+UR02 Mardu Frontliner
+
+UR03 Meandering Cinderkin
+
+UR04 Whisperer's Heir
+
+RR03 Blizzard Guide
+
+UR07 Twinflame Rakshasa
+
+UR08 Crackling Resonance
+
+UR09 Horde's Conquest
+
+UR11 Tiger Path Slash
+
+UR12 United Monastery
+
+UR13 Remarkable Statuary
+
+UR14 Harness the Wild
+
+UG02 Qal Sisma Avenger
+
+UG01 Warden of the Hills
+
+UG03 Seasoned Wayfarer
+
+UG04 Simian Oddity
+
+UG05 Reckless Rascals
+
+UG06 Kishla Flutefisher
+
+UG07 Qatros Foremost
+
+UG08 Migrating Mammoths
+
+UG09 Tusk Through
+
+UG10 Kin-Tree Cultivation
+
+UG11 Heritage Reclamation
+
+UG12 Geared for War
+
+UG13 Call the Float
+
+UG14 Bloomvine Symbiosis
+
+RM01 Unstoppable Bruiser
+
+RM02 Stampeding Bovak
+
+RM03 Salt Road Hustler
+
+RM05 Qarsi Cultivation
+
+RM07 Wandering Fortress
+
+RM08 Accustomed Packbeast
+
+RM09 Come What May
+
+RM11 Qingliang Calligrapher
+
+RM12 Master's Refusal
+
+RM13 Defend the Monastery
+
+RM14 Fiendish Jailer
+
+RM15 Batiga Pool Prowler
+
+RM16 Perplexing Gesture
+
+RM17 Secrets of Gurmag
+
+RM18 Dakla Bowmaster
+
+RM19 Horde Strategist
+
+RM20 Flamethrower Rakshasa
+
+RM21 Constant Assault
+
+RM22 Foothill Patrol
+
+RM23 Wildshape Conjurer
+
+RM25 Vibrant Phenomenon
+
+RL01 Hoofbeat Crag
+
+RL02 Timbrevale Village
+
+RL03 Salt Road
+rules_text: This land enters tapped unless you control a Forest or a Plains.
+{T}: Add {B}.
+{2}{B}, {T}: Exile target card from a graveyard. If it's a creature card you own, sacrifice this land and put that card into your hand. => This land enters tapped unless you control a Forest or a Plains.
+{T}: Add {B}.
+{1}{B}, {T}: Exile target card from a graveyard. If it's a creature card you own, sacrifice this land and put that card into your hand.
+
+RL04 Qingliang Monastery
+rules_text: This land enters tapped unless you control a Plains or an Island.
+{T}: Add {R}.
+{1}{R}, {T}, Sacrifice this land: Creatures you control get +1/+0 and gain haste until end of turn. Activate only as a sorcery. => This land enters tapped unless you control a Plains or an Island.
+{T}: Add {R}.
+{1}{R}, {T}: Target creature you control get +1/+0 and gains haste until end of turn. Activate only as a sorcery.
+
+RL05 Batiga Village
+
+RW01 Barrensteppe Champion
+
+RW02 Sandcrafter Guardian
+
+RW03 Village Mentor
+
+RW04 Captain's Roc
+
+RW05 Political Escalation
+
+RW06 Calm After the Storm
+
+RU04 Dirgur Heights Ancient
+
+RU05 Submerged Conscious
+
+RU02 Silumgar Devotee
+
+RB01 Crossroads Raider
+
+RB03 Frenzied Tombguard
+
+RB02 Death's Confidant
+
+RB04 Insatiable Rakshasa
+
+RB05 Their Dead Will Rise Again
+
+UB11 Krumar Initiation
+
+RR05 Bedrock Lashcaster
+
+RR06 Auroral Expression
+
+RG01 Sibsig Outlander
+
+RG02 Cold-Blooded Hydra
+
+RG04 Heavy Cavalry Captain
+
+RG05 Tyrant of Qal Sisma
+
+RG06 Harness the Cycle
+
+CM03 Winding Sage
+
+UB13 Secrets of the Grave
+
+UR05 Hotheaded Challanger
+
+UR01 Clever Infiltrator
+
+UR10 Devastating Bolt
+
+RG03 Fangkeeper's Attendants
+
+UM12 Disown
+
+RM06 Nightblade Infiltrator
+
+RL06 Vestige of the Spirit Dragon
+
+RM24 Efflorescent Rite
+
+UL05 Frontier Bivouac
+
+RU06 Whispered Visions
+
+CW03 Coordinated Students
+
+CU03 Dragon's Eye Apprentice
+
+CR05 Unorthodox Practitioner
+
+UU04 Breezeshaper
+
+UR06 Tiger Path Master
+
+RM04 Riverwheel Master
+
+RM10 Narset, Master Undone
+
+RR01 Sarkhan Unredeemed
+
+RR04 Gal, Bloodsoaked Nemesis
+
+Spirit
+
+Warrior
+
+RU01 Spirited Mistleaper
+
+Crocodile
+
+Elk
+
+Monk
+
+Copy
+
+RR02 Jeskai Ringcaster
+
+Zombie Druid
+
+Elemental
+
+
+VERSION 12 CHANGELOG
 ====================
 
 CW07 Debilitating Tactics added.

@@ -5,7 +5,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "204"
+        "position": "197"
     },
     {
         "card_name": "RU01 Spirited Mistleaper",
@@ -13,7 +13,7 @@
         "shape": "adventure",
         "set": "TEX",
         "rotated": false,
-        "position": "241"
+        "position": "256"
     },
     {
         "card_name": "RB01 Crossroads Raider",
@@ -21,7 +21,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "213"
+        "position": "206"
     },
     {
         "card_name": "RR01 Sarkhan Unredeemed",
@@ -29,7 +29,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "219"
+        "position": "252"
     },
     {
         "card_name": "RG01 Sibsig Outlander",
@@ -37,7 +37,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "223"
+        "position": "214"
     },
     {
         "card_name": "RW02 Sandcrafter Guardian",
@@ -45,7 +45,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "205"
+        "position": "198"
     },
     {
         "card_name": "RU02 Silumgar Devotee",
@@ -53,7 +53,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "212"
+        "position": "205"
     },
     {
         "card_name": "RB02 Death's Confidant",
@@ -61,7 +61,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "215"
+        "position": "208"
     },
     {
         "card_name": "RR02 Jeskai Ringcaster",
@@ -69,7 +69,7 @@
         "shape": "adventure",
         "set": "TEX",
         "rotated": false,
-        "position": "260"
+        "position": "268"
     },
     {
         "card_name": "RG02 Cold-Blooded Hydra",
@@ -77,7 +77,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "224"
+        "position": "215"
     },
     {
         "card_name": "RW03 Village Mentor",
@@ -85,7 +85,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "206"
+        "position": "199"
     },
     {
         "card_name": "RU03 Free-spirited Pup",
@@ -93,7 +93,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "124"
+        "position": "121"
     },
     {
         "card_name": "RB03 Frenzied Tombguard",
@@ -101,7 +101,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "214"
+        "position": "207"
     },
     {
         "card_name": "RR03 Blizzard Guide",
@@ -109,7 +109,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "153"
+        "position": "149"
     },
     {
         "card_name": "RG03 Fangkeeper's Attendants",
@@ -117,7 +117,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "242"
+        "position": "230"
     },
     {
         "card_name": "RW04 Captain's Roc",
@@ -125,7 +125,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "207"
+        "position": "200"
     },
     {
         "card_name": "RU04 Dirgur Heights Ancient",
@@ -133,7 +133,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "210"
+        "position": "203"
     },
     {
         "card_name": "RB04 Insatiable Rakshasa",
@@ -141,7 +141,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "216"
+        "position": "209"
     },
     {
         "card_name": "RR04 Gal, Bloodsoaked Nemesis",
@@ -149,7 +149,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "220"
+        "position": "253"
     },
     {
         "card_name": "RG04 Heavy Cavalry Captain",
@@ -157,7 +157,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "226"
+        "position": "217"
     },
     {
         "card_name": "RW05 Political Escalation",
@@ -165,7 +165,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "208"
+        "position": "201"
     },
     {
         "card_name": "RU05 Submerged Conscious",
@@ -173,7 +173,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "211"
+        "position": "204"
     },
     {
         "card_name": "RB05 Their Dead Will Rise Again",
@@ -181,7 +181,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "217"
+        "position": "210"
     },
     {
         "card_name": "RR05 Bedrock Lashcaster",
@@ -189,7 +189,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "221"
+        "position": "212"
     },
     {
         "card_name": "RG05 Tyrant of Qal Sisma",
@@ -197,7 +197,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "227"
+        "position": "218"
     },
     {
         "card_name": "RW06 Calm After the Storm",
@@ -205,7 +205,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "209"
+        "position": "202"
     },
     {
         "card_name": "RU06 Whispered Visions",
@@ -213,7 +213,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "268"
+        "position": "241"
     },
     {
         "card_name": "RB06 Forgotten Kin-Tree",
@@ -221,7 +221,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "147"
+        "position": "143"
     },
     {
         "card_name": "RR06 Auroral Expression",
@@ -229,7 +229,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "222"
+        "position": "213"
     },
     {
         "card_name": "RG06 Harness the Cycle",
@@ -237,7 +237,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "228"
+        "position": "219"
     },
     {
         "card_name": "UW01 Soulfire Clairvoyant",
@@ -245,7 +245,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "109"
+        "position": "106"
     },
     {
         "card_name": "UU01 Whisperer's Familiar",
@@ -253,7 +253,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "123"
+        "position": "120"
     },
     {
         "card_name": "UB01 Scrubland Lookout",
@@ -261,7 +261,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "137"
+        "position": "133"
     },
     {
         "card_name": "UR01 Clever Infiltrator",
@@ -269,7 +269,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "239"
+        "position": "228"
     },
     {
         "card_name": "UG01 Warden of the Hills",
@@ -277,7 +277,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "163"
+        "position": "158"
     },
     {
         "card_name": "UW02 Traveling Merchant",
@@ -285,7 +285,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "110"
+        "position": "107"
     },
     {
         "card_name": "UU02 Avenform Guide",
@@ -301,7 +301,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "138"
+        "position": "134"
     },
     {
         "card_name": "UR02 Mardu Frontliner",
@@ -309,7 +309,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "150"
+        "position": "146"
     },
     {
         "card_name": "UG02 Qal Sisma Avenger",
@@ -317,7 +317,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "162"
+        "position": "157"
     },
     {
         "card_name": "UW03 Highspire Sentry",
@@ -325,7 +325,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "111"
+        "position": "108"
     },
     {
         "card_name": "UU03 Master of Balance",
@@ -333,7 +333,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "125"
+        "position": "122"
     },
     {
         "card_name": "UB03 Indulgent Patron",
@@ -341,7 +341,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "139"
+        "position": "135"
     },
     {
         "card_name": "UR03 Meandering Cinderkin",
@@ -349,7 +349,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "151"
+        "position": "147"
     },
     {
         "card_name": "UG03 Seasoned Wayfarer",
@@ -357,7 +357,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "164"
+        "position": "159"
     },
     {
         "card_name": "UW04 Dalkovan Marshal",
@@ -365,7 +365,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "112"
+        "position": "109"
     },
     {
         "card_name": "UU04 Breezeshaper",
@@ -373,7 +373,7 @@
         "shape": "adventure",
         "set": "TEX",
         "rotated": false,
-        "position": "126"
+        "position": "248"
     },
     {
         "card_name": "UB04 Mardu Warcrier",
@@ -381,7 +381,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "140"
+        "position": "136"
     },
     {
         "card_name": "UR04 Whisperer's Heir",
@@ -389,7 +389,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "152"
+        "position": "148"
     },
     {
         "card_name": "UG04 Simian Oddity",
@@ -397,7 +397,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "165"
+        "position": "160"
     },
     {
         "card_name": "UW05 Ainok Vindicator",
@@ -405,7 +405,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "113"
+        "position": "110"
     },
     {
         "card_name": "UU05 Palace Archivists",
@@ -413,7 +413,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "127"
+        "position": "123"
     },
     {
         "card_name": "UB05 Remorseless Hordechief",
@@ -421,7 +421,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "141"
+        "position": "137"
     },
     {
         "card_name": "UR05 Hotheaded Challanger",
@@ -429,7 +429,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "238"
+        "position": "227"
     },
     {
         "card_name": "UG05 Reckless Rascals",
@@ -437,7 +437,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "166"
+        "position": "161"
     },
     {
         "card_name": "UW06 Borderland Vanguard",
@@ -445,7 +445,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "114"
+        "position": "111"
     },
     {
         "card_name": "UU06 Wingspan Apprentice",
@@ -453,7 +453,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "128"
+        "position": "124"
     },
     {
         "card_name": "UB06 Kheru Gatekeeper",
@@ -461,7 +461,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "142"
+        "position": "138"
     },
     {
         "card_name": "UR06 Tiger Path Master",
@@ -469,7 +469,7 @@
         "shape": "adventure",
         "set": "TEX",
         "rotated": false,
-        "position": "154"
+        "position": "249"
     },
     {
         "card_name": "UG06 Kishla Flutefisher",
@@ -477,7 +477,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "167"
+        "position": "162"
     },
     {
         "card_name": "UW07 Soulcrag Kirin",
@@ -485,7 +485,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "115"
+        "position": "112"
     },
     {
         "card_name": "UU07 Drifting Disaster",
@@ -493,7 +493,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "129"
+        "position": "125"
     },
     {
         "card_name": "UB07 Yathan Heavy",
@@ -501,7 +501,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "143"
+        "position": "139"
     },
     {
         "card_name": "UR07 Twinflame Rakshasa",
@@ -509,7 +509,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "155"
+        "position": "150"
     },
     {
         "card_name": "UG07 Qatros Foremost",
@@ -517,7 +517,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "168"
+        "position": "163"
     },
     {
         "card_name": "UW08 Plucky Battledriver",
@@ -525,7 +525,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "116"
+        "position": "113"
     },
     {
         "card_name": "UU08 Consult the Passed",
@@ -533,7 +533,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "132"
+        "position": "128"
     },
     {
         "card_name": "UB08 Malevolent Force",
@@ -541,7 +541,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "144"
+        "position": "140"
     },
     {
         "card_name": "UR08 Crackling Resonance",
@@ -549,7 +549,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "156"
+        "position": "151"
     },
     {
         "card_name": "UG08 Migrating Mammoths",
@@ -557,7 +557,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "169"
+        "position": "164"
     },
     {
         "card_name": "UW09 Warrior's Will",
@@ -565,7 +565,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "117"
+        "position": "114"
     },
     {
         "card_name": "UU09 Consign to History",
@@ -573,7 +573,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "131"
+        "position": "127"
     },
     {
         "card_name": "UB09 Vanquish the Inferior",
@@ -581,7 +581,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "145"
+        "position": "141"
     },
     {
         "card_name": "UR09 Horde's Conquest",
@@ -589,7 +589,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "157"
+        "position": "152"
     },
     {
         "card_name": "UG09 Tusk Through",
@@ -597,7 +597,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "170"
+        "position": "165"
     },
     {
         "card_name": "UW10 Waste's Curse",
@@ -605,7 +605,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "118"
+        "position": "115"
     },
     {
         "card_name": "UU10 Abandon Allegiance",
@@ -613,7 +613,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "130"
+        "position": "126"
     },
     {
         "card_name": "UB10 Ancestral Intervention",
@@ -621,7 +621,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "146"
+        "position": "142"
     },
     {
         "card_name": "UR10 Devastating Bolt",
@@ -629,7 +629,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "240"
+        "position": "229"
     },
     {
         "card_name": "UG10 Kin-Tree Cultivation",
@@ -637,7 +637,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "171"
+        "position": "166"
     },
     {
         "card_name": "UW11 Honor",
@@ -645,7 +645,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "119"
+        "position": "116"
     },
     {
         "card_name": "UU11 Ancient Tribute",
@@ -653,7 +653,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "133"
+        "position": "129"
     },
     {
         "card_name": "UB11 Krumar Initiation",
@@ -661,7 +661,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "218"
+        "position": "211"
     },
     {
         "card_name": "UR11 Tiger Path Slash",
@@ -669,7 +669,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "158"
+        "position": "153"
     },
     {
         "card_name": "UG11 Heritage Reclamation",
@@ -677,7 +677,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "172"
+        "position": "167"
     },
     {
         "card_name": "UW12 Final Encounter",
@@ -685,7 +685,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "120"
+        "position": "117"
     },
     {
         "card_name": "UU12 Blend In",
@@ -693,7 +693,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "134"
+        "position": "130"
     },
     {
         "card_name": "UB12 The Webs I Built",
@@ -701,7 +701,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "148"
+        "position": "144"
     },
     {
         "card_name": "UR12 United Monastery",
@@ -709,7 +709,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "159"
+        "position": "154"
     },
     {
         "card_name": "UG12 Geared for War",
@@ -717,7 +717,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "173"
+        "position": "168"
     },
     {
         "card_name": "UW13 Face Adversity",
@@ -725,7 +725,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "121"
+        "position": "118"
     },
     {
         "card_name": "UU13 Become Obscure",
@@ -733,7 +733,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "135"
+        "position": "131"
     },
     {
         "card_name": "UB13 Secrets of the Grave",
@@ -741,7 +741,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "237"
+        "position": "226"
     },
     {
         "card_name": "UR13 Remarkable Statuary",
@@ -749,7 +749,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "160"
+        "position": "155"
     },
     {
         "card_name": "UG13 Call the Float",
@@ -757,7 +757,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "174"
+        "position": "169"
     },
     {
         "card_name": "UW14 Whirlsand Blade",
@@ -765,7 +765,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "122"
+        "position": "119"
     },
     {
         "card_name": "UU14 Forbidden Form",
@@ -773,7 +773,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "136"
+        "position": "132"
     },
     {
         "card_name": "UB14 Pillagers' Prize",
@@ -781,7 +781,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "149"
+        "position": "145"
     },
     {
         "card_name": "UR14 Harness the Wild",
@@ -789,7 +789,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "161"
+        "position": "156"
     },
     {
         "card_name": "UG14 Bloomvine Symbiosis",
@@ -797,7 +797,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "175"
+        "position": "170"
     },
     {
         "card_name": "CW01 Hidden Ambusher",
@@ -813,7 +813,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "28"
+        "position": "27"
     },
     {
         "card_name": "CB01 Outskirt Scrapper",
@@ -821,7 +821,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "44"
+        "position": "41"
     },
     {
         "card_name": "CR01 Bloodfire Prodigy",
@@ -829,7 +829,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "29"
+        "position": "28"
     },
     {
         "card_name": "CG01 Hilltop Surveyor",
@@ -837,7 +837,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "53"
+        "position": "50"
     },
     {
         "card_name": "CW02 Emesh Cadet",
@@ -853,7 +853,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "17"
+        "position": "16"
     },
     {
         "card_name": "CB02 Afterlife Aspirant",
@@ -869,7 +869,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "39"
+        "position": "37"
     },
     {
         "card_name": "CG02 Guardian of the Wild",
@@ -885,7 +885,7 @@
         "shape": "adventure",
         "set": "TEX",
         "rotated": false,
-        "position": "8"
+        "position": "245"
     },
     {
         "card_name": "CU03 Dragon's Eye Apprentice",
@@ -893,7 +893,7 @@
         "shape": "adventure",
         "set": "TEX",
         "rotated": false,
-        "position": "30"
+        "position": "246"
     },
     {
         "card_name": "CB03 Scourge of the Wastes",
@@ -901,7 +901,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "50"
+        "position": "47"
     },
     {
         "card_name": "CR03 Wandering Wildfire",
@@ -909,7 +909,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "41"
+        "position": "39"
     },
     {
         "card_name": "CG03 Undergrowth Leopard",
@@ -917,7 +917,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "40"
+        "position": "38"
     },
     {
         "card_name": "CW04 Vanguard Gallant",
@@ -925,7 +925,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "9"
+        "position": "8"
     },
     {
         "card_name": "CU04 Sage of the Silent Voice",
@@ -933,7 +933,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "19"
+        "position": "18"
     },
     {
         "card_name": "CB04 Forsaken Butcher",
@@ -941,7 +941,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "18"
+        "position": "17"
     },
     {
         "card_name": "CR04 Qal Sisma Scavengers",
@@ -957,7 +957,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "51"
+        "position": "48"
     },
     {
         "card_name": "CW05 Citadel Sentry",
@@ -965,7 +965,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "10"
+        "position": "9"
     },
     {
         "card_name": "CU05 Avalanche Escort",
@@ -973,7 +973,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "31"
+        "position": "29"
     },
     {
         "card_name": "CB05 Salt Road Escort",
@@ -989,7 +989,7 @@
         "shape": "adventure",
         "set": "TEX",
         "rotated": false,
-        "position": "42"
+        "position": "247"
     },
     {
         "card_name": "CG05 Trade Route Trailblazer",
@@ -997,7 +997,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "52"
+        "position": "49"
     },
     {
         "card_name": "CW06 Respected Strike Leader",
@@ -1013,7 +1013,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "32"
+        "position": "30"
     },
     {
         "card_name": "CB06 Decrepit Scavenger",
@@ -1021,7 +1021,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "20"
+        "position": "19"
     },
     {
         "card_name": "CR06 Introspective Strongarm",
@@ -1029,7 +1029,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "21"
+        "position": "20"
     },
     {
         "card_name": "CG06 Bogwort Beast",
@@ -1037,7 +1037,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "43"
+        "position": "40"
     },
     {
         "card_name": "CW07 Debilitating Tactics",
@@ -1045,7 +1045,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "11"
+        "position": "10"
     },
     {
         "card_name": "CU07 Marang River Horror",
@@ -1053,7 +1053,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "33"
+        "position": "31"
     },
     {
         "card_name": "CB07 Notorious Vanquisher",
@@ -1061,7 +1061,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "54"
+        "position": "51"
     },
     {
         "card_name": "CR07 Alan's Butcher",
@@ -1069,7 +1069,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "22"
+        "position": "21"
     },
     {
         "card_name": "CG07 Captivating Stag",
@@ -1077,7 +1077,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "55"
+        "position": "52"
     },
     {
         "card_name": "CW08 Wasteland Roc",
@@ -1085,7 +1085,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "12"
+        "position": "11"
     },
     {
         "card_name": "CU08 Keep Hidden",
@@ -1093,7 +1093,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "34"
+        "position": "32"
     },
     {
         "card_name": "CB08 Wasteland Marauder",
@@ -1101,7 +1101,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "45"
+        "position": "42"
     },
     {
         "card_name": "CR08 Thunderstep Warmonger",
@@ -1109,7 +1109,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "23"
+        "position": "22"
     },
     {
         "card_name": "CG08 Colossal Dunetreader",
@@ -1117,7 +1117,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "56"
+        "position": "53"
     },
     {
         "card_name": "CW09 Full Force",
@@ -1125,7 +1125,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "24"
+        "position": "23"
     },
     {
         "card_name": "CU09 Augur's Incense",
@@ -1133,7 +1133,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "35"
+        "position": "33"
     },
     {
         "card_name": "CB09 Sandsteppe Ambush",
@@ -1141,7 +1141,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "57"
+        "position": "54"
     },
     {
         "card_name": "CR09 Nature's Ferocity",
@@ -1149,7 +1149,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "46"
+        "position": "43"
     },
     {
         "card_name": "CG09 Awaited Return",
@@ -1157,7 +1157,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "13"
+        "position": "12"
     },
     {
         "card_name": "CW10 Pacifism",
@@ -1165,7 +1165,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "25"
+        "position": "24"
     },
     {
         "card_name": "CU10 Winter's Embrace",
@@ -1173,7 +1173,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "36"
+        "position": "34"
     },
     {
         "card_name": "CB10 Chokehold",
@@ -1181,7 +1181,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "58"
+        "position": "55"
     },
     {
         "card_name": "CR10 Harnessed Lightning",
@@ -1189,7 +1189,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "47"
+        "position": "44"
     },
     {
         "card_name": "CG10 Lavish Dance",
@@ -1197,7 +1197,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "14"
+        "position": "13"
     },
     {
         "card_name": "CW11 Superior Form",
@@ -1205,7 +1205,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "15"
+        "position": "14"
     },
     {
         "card_name": "CU11 Push Back",
@@ -1213,7 +1213,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "26"
+        "position": "25"
     },
     {
         "card_name": "CB11 By Blood and Venom",
@@ -1221,7 +1221,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "59"
+        "position": "56"
     },
     {
         "card_name": "CR11 Lightning Strike",
@@ -1229,7 +1229,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "48"
+        "position": "45"
     },
     {
         "card_name": "CG11 Take the Upper hand",
@@ -1237,7 +1237,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "37"
+        "position": "35"
     },
     {
         "card_name": "CW12 Lost to History",
@@ -1245,7 +1245,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "27"
+        "position": "26"
     },
     {
         "card_name": "CU12 Find Focus",
@@ -1253,7 +1253,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "38"
+        "position": "36"
     },
     {
         "card_name": "CB12 Another Chance",
@@ -1261,7 +1261,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "60"
+        "position": "57"
     },
     {
         "card_name": "CR12 Seize Opportunity",
@@ -1269,7 +1269,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "49"
+        "position": "46"
     },
     {
         "card_name": "CG12 Ferocious Resolve",
@@ -1277,7 +1277,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "16"
+        "position": "15"
     },
     {
         "card_name": "er"
@@ -1300,7 +1300,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "176"
+        "position": "171"
     },
     {
         "card_name": "RM02 Stampeding Bovak",
@@ -1308,7 +1308,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "177"
+        "position": "172"
     },
     {
         "card_name": "RM03 Salt Road Hustler",
@@ -1316,7 +1316,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "178"
+        "position": "173"
     },
     {
         "card_name": "RM04 Riverwheel Master",
@@ -1324,7 +1324,7 @@
         "shape": "adventure",
         "set": "TEX",
         "rotated": false,
-        "position": "179"
+        "position": "250"
     },
     {
         "card_name": "RM05 Qarsi Cultivation",
@@ -1332,7 +1332,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "180"
+        "position": "174"
     },
     {
         "card_name": "UM01 Lowland Outrider",
@@ -1340,7 +1340,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "90"
+        "position": "87"
     },
     {
         "card_name": "UM03 Dazzled Student",
@@ -1348,7 +1348,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "92"
+        "position": "89"
     },
     {
         "card_name": "UM05 House's Head",
@@ -1356,7 +1356,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "94"
+        "position": "91"
     },
     {
         "card_name": "UM07 Reserved Mentor",
@@ -1364,7 +1364,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "96"
+        "position": "93"
     },
     {
         "card_name": "UM09 Whisperer of Seasons Past",
@@ -1372,7 +1372,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "98"
+        "position": "95"
     },
     {
         "card_name": "UM02 Ashdune Avenger",
@@ -1380,7 +1380,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "91"
+        "position": "88"
     },
     {
         "card_name": "UM04 Monastery Sparring",
@@ -1388,7 +1388,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "93"
+        "position": "90"
     },
     {
         "card_name": "UM06 Death's Attendant",
@@ -1396,7 +1396,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "95"
+        "position": "92"
     },
     {
         "card_name": "UM08 Gather the Warband",
@@ -1404,7 +1404,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "97"
+        "position": "94"
     },
     {
         "card_name": "UM10 Sagu Exploration",
@@ -1412,7 +1412,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "99"
+        "position": "96"
     },
     {
         "card_name": "er"
@@ -1435,7 +1435,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "192"
+        "position": "185"
     },
     {
         "card_name": "RM22 Foothill Patrol",
@@ -1443,7 +1443,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "196"
+        "position": "189"
     },
     {
         "card_name": "RM06 Nightblade Infiltrator",
@@ -1451,7 +1451,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "262"
+        "position": "237"
     },
     {
         "card_name": "RM10 Narset, Master Undone",
@@ -1459,7 +1459,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "185"
+        "position": "251"
     },
     {
         "card_name": "RM14 Fiendish Jailer",
@@ -1467,7 +1467,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "188"
+        "position": "181"
     },
     {
         "card_name": "RM19 Horde Strategist",
@@ -1475,7 +1475,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "193"
+        "position": "186"
     },
     {
         "card_name": "RM23 Wildshape Conjurer",
@@ -1483,7 +1483,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "197"
+        "position": "190"
     },
     {
         "card_name": "RM07 Wandering Fortress",
@@ -1491,7 +1491,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "181"
+        "position": "175"
     },
     {
         "card_name": "RM11 Qingliang Calligrapher",
@@ -1499,7 +1499,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "184"
+        "position": "178"
     },
     {
         "card_name": "RM15 Batiga Pool Prowler",
@@ -1507,7 +1507,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "189"
+        "position": "182"
     },
     {
         "card_name": "RM20 Flamethrower Rakshasa",
@@ -1515,7 +1515,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "194"
+        "position": "187"
     },
     {
         "card_name": "RM24 Efflorescent Rite",
@@ -1523,7 +1523,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "264"
+        "position": "239"
     },
     {
         "card_name": "RM08 Accustomed Packbeast",
@@ -1531,7 +1531,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "182"
+        "position": "176"
     },
     {
         "card_name": "RM12 Master's Refusal",
@@ -1539,7 +1539,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "186"
+        "position": "179"
     },
     {
         "card_name": "RM16 Perplexing Gesture",
@@ -1547,7 +1547,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "190"
+        "position": "183"
     },
     {
         "card_name": "RM21 Constant Assault",
@@ -1555,7 +1555,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "195"
+        "position": "188"
     },
     {
         "card_name": "RM25 Vibrant Phenomenon",
@@ -1563,7 +1563,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "198"
+        "position": "191"
     },
     {
         "card_name": "RM09 Come What May",
@@ -1571,7 +1571,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "183"
+        "position": "177"
     },
     {
         "card_name": "RM13 Defend the Monastery",
@@ -1579,7 +1579,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "187"
+        "position": "180"
     },
     {
         "card_name": "RM17 Secrets of Gurmag",
@@ -1587,7 +1587,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "191"
+        "position": "184"
     },
     {
         "card_name": "UM17 Steadfast Conqueror",
@@ -1595,7 +1595,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "105"
+        "position": "102"
     },
     {
         "card_name": "UM19 Snowcrag Stalwart",
@@ -1603,7 +1603,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "107"
+        "position": "104"
     },
     {
         "card_name": "UM11 Expedition Rhino",
@@ -1611,7 +1611,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "100"
+        "position": "97"
     },
     {
         "card_name": "UM13 Wingblade Master",
@@ -1619,7 +1619,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "101"
+        "position": "98"
     },
     {
         "card_name": "UM15 Secretive Serpentmage",
@@ -1627,7 +1627,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "103"
+        "position": "100"
     },
     {
         "card_name": "UM18 Violent Onslaught",
@@ -1635,7 +1635,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "106"
+        "position": "103"
     },
     {
         "card_name": "UM20 Clash of Antlers",
@@ -1643,7 +1643,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "108"
+        "position": "105"
     },
     {
         "card_name": "UM12 Disown",
@@ -1651,7 +1651,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "255"
+        "position": "236"
     },
     {
         "card_name": "UM14 Find Balance",
@@ -1659,7 +1659,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "102"
+        "position": "99"
     },
     {
         "card_name": "UM16 Whisper of Promise",
@@ -1667,7 +1667,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "104"
+        "position": "101"
     },
     {
         "card_name": "CM04 Unyielding Hordemate",
@@ -1675,7 +1675,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "70"
+        "position": "67"
     },
     {
         "card_name": "CM05 Melodic Storyteller",
@@ -1683,7 +1683,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "71"
+        "position": "68"
     },
     {
         "card_name": "CM01 Reclaimer of Tradition",
@@ -1691,7 +1691,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "68"
+        "position": "65"
     },
     {
         "card_name": "CM02 Carrier of Wind",
@@ -1699,7 +1699,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "69"
+        "position": "66"
     },
     {
         "card_name": "CM03 Winding Sage",
@@ -1707,7 +1707,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "229"
+        "position": "220"
     },
     {
         "card_name": "er"
@@ -1728,7 +1728,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "85"
+        "position": "82"
     },
     {
         "card_name": "UA02 Inspiring Monument",
@@ -1736,7 +1736,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "86"
+        "position": "83"
     },
     {
         "card_name": "UA03 Hidden Monument",
@@ -1744,7 +1744,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "87"
+        "position": "84"
     },
     {
         "card_name": "UA04 Barren Monument",
@@ -1752,7 +1752,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "88"
+        "position": "85"
     },
     {
         "card_name": "UA05 Hunter's Monument",
@@ -1760,7 +1760,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "89"
+        "position": "86"
     },
     {
         "card_name": "CA01 manalith",
@@ -1768,7 +1768,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "61"
+        "position": "58"
     },
     {
         "card_name": "CA02 Official's Seal",
@@ -1776,7 +1776,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "62"
+        "position": "59"
     },
     {
         "card_name": "CA03 Weathered Sentinel",
@@ -1784,7 +1784,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "63"
+        "position": "60"
     },
     {
         "card_name": "CA04 flying, mill",
@@ -1792,7 +1792,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "64"
+        "position": "61"
     },
     {
         "card_name": "CA05 fix",
@@ -1800,7 +1800,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "65"
+        "position": "62"
     },
     {
         "card_name": "er"
@@ -1821,7 +1821,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "199"
+        "position": "192"
     },
     {
         "card_name": "RL02 Timbrevale Village",
@@ -1829,7 +1829,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "200"
+        "position": "193"
     },
     {
         "card_name": "RL03 Salt Road",
@@ -1837,7 +1837,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "201"
+        "position": "194"
     },
     {
         "card_name": "RL04 Qingliang Monastery",
@@ -1845,7 +1845,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "202"
+        "position": "195"
     },
     {
         "card_name": "RL05 Batiga Village",
@@ -1853,7 +1853,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "203"
+        "position": "196"
     },
     {
         "card_name": "er"
@@ -1876,7 +1876,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "67"
+        "position": "64"
     },
     {
         "card_name": "CL02 Dismal Backwater",
@@ -1884,7 +1884,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "72"
+        "position": "69"
     },
     {
         "card_name": "CL03 Bloodfell Caves",
@@ -1892,7 +1892,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "73"
+        "position": "70"
     },
     {
         "card_name": "CL04 Rugged Highlands",
@@ -1900,7 +1900,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "74"
+        "position": "71"
     },
     {
         "card_name": "CL05 Blossoming Sands",
@@ -1908,7 +1908,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "75"
+        "position": "72"
     },
     {
         "card_name": "er"
@@ -1931,7 +1931,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "76"
+        "position": "73"
     },
     {
         "card_name": "CL07 Swiftwater Cliffs",
@@ -1939,7 +1939,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "77"
+        "position": "74"
     },
     {
         "card_name": "CL08 Jungle Hollow",
@@ -1947,7 +1947,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "78"
+        "position": "75"
     },
     {
         "card_name": "CL09 Wind-Scarred Crag",
@@ -1955,7 +1955,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "79"
+        "position": "76"
     },
     {
         "card_name": "CL10 Thornwood Falls",
@@ -1963,7 +1963,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "80"
+        "position": "77"
     },
     {
         "card_name": "er"
@@ -1986,7 +1986,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "263"
+        "position": "238"
     },
     {
         "card_name": "UL01 Sandsteppe Citadel",
@@ -1994,7 +1994,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "81"
+        "position": "78"
     },
     {
         "card_name": "UL02 Opulent Palace",
@@ -2002,7 +2002,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "82"
+        "position": "79"
     },
     {
         "card_name": "UL03 Nomad Outpost",
@@ -2010,7 +2010,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "83"
+        "position": "80"
     },
     {
         "card_name": "UL04 Mystic Monastery",
@@ -2018,7 +2018,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "84"
+        "position": "81"
     },
     {
         "card_name": "UL05 Frontier Bivouac",
@@ -2026,7 +2026,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "266"
+        "position": "240"
     },
     {
         "card_name": "CL11 Evolving Wilds",
@@ -2034,7 +2034,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "66"
+        "position": "63"
     },
     {
         "card_name": "e"
@@ -2066,7 +2066,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "232"
+        "position": "221"
     },
     {
         "card_name": "Forest",
@@ -2074,7 +2074,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "233"
+        "position": "222"
     },
     {
         "card_name": "Mountain",
@@ -2082,7 +2082,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "234"
+        "position": "223"
     },
     {
         "card_name": "Swamp",
@@ -2090,7 +2090,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "235"
+        "position": "224"
     },
     {
         "card_name": "Island",
@@ -2098,7 +2098,7 @@
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "236"
+        "position": "225"
     },
     {
         "card_name": "er"
@@ -2119,7 +2119,7 @@
         "shape": "token",
         "set": "TEX",
         "rotated": false,
-        "position": "259"
+        "position": "267"
     },
     {
         "card_name": "Monk",
@@ -2127,7 +2127,7 @@
         "shape": "token",
         "set": "TEX",
         "rotated": false,
-        "position": "258"
+        "position": "266"
     },
     {
         "card_name": "Spirit",
@@ -2135,7 +2135,7 @@
         "shape": "token",
         "set": "TEX",
         "rotated": false,
-        "position": "230"
+        "position": "254"
     },
     {
         "card_name": "Elemental",
@@ -2143,7 +2143,7 @@
         "shape": "token",
         "set": "TEX",
         "rotated": false,
-        "position": "267"
+        "position": "271"
     },
     {
         "card_name": "Zombie Druid",
@@ -2151,7 +2151,7 @@
         "shape": "token",
         "set": "TEX",
         "rotated": false,
-        "position": "261"
+        "position": "269"
     },
     {
         "card_name": "Warrior",
@@ -2159,7 +2159,7 @@
         "shape": "token",
         "set": "TEX",
         "rotated": false,
-        "position": "231"
+        "position": "255"
     },
     {
         "card_name": "Crocodile",
@@ -2167,7 +2167,7 @@
         "shape": "token",
         "set": "TEX",
         "rotated": false,
-        "position": "254"
+        "position": "263"
     },
     {
         "card_name": "Elk",
@@ -2175,7 +2175,7 @@
         "shape": "token",
         "set": "TEX",
         "rotated": false,
-        "position": "256"
+        "position": "264"
     },
     {
         "card_name": "e"
