@@ -1,4 +1,12 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+
+
+CW07 Debilitating Tactics
+
+
+VERSION 10 CHANGELOG
 ====================
 
 CW07 Debilitating Tactics added.

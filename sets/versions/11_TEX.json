@@ -226,7 +226,7 @@
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "Choose one \u2014\n\u2022 Create two 1/1 red Warrior creature tokens.\n\u2022 Tap up to two target creatures.",
-            "flavor_text": "[i]FT\nFT[/i]",
+            "flavor_text": "[i]FT\nFT\nFT[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
