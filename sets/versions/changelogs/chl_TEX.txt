@@ -1,4 +1,512 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+Avenform Guide added.
+Guardian of the Wild added.
+Qal Sisma Scavengers added.
+Afterlife Aspirant added.
+Emesh Cadet added.
+Salt Road Escort added.
+Respected Strike Leader added.
+Hidden Ambusher added.
+Vanguard Gallant added.
+Citadel Sentry added.
+Debilitating Tactics added.
+Wasteland Roc added.
+Awaited Return added.
+Lavish Dance added.
+Superior Form added.
+Ferocious Resolve added.
+Intel Agent added.
+Forsaken Butcher added.
+Sage of the Silent Voice added.
+Decrepit Scavenger added.
+Introspective Strongarm added.
+Alan's Butcher added.
+Thunderstep Warmonger added.
+Staunch Rebuke added.
+Pacifism added.
+Dirgur Flood added.
+Lost to History added.
+Aspect of Winter added.
+Bloodfire Prodigy added.
+Avalanche Escort added.
+Cloudspell Kirin added.
+Marang River Horror added.
+Keep Hidden added.
+Augur's Incense added.
+Winter's Embrace added.
+Take the Upper hand added.
+Find Focus added.
+Death's Challenger added.
+Undergrowth Leopard added.
+Wandering Wildfire added.
+Bogwort Beast added.
+Outskirt Scrapper added.
+Wasteland Marauder added.
+Nature's Ferocity added.
+Harnessed Lightning added.
+Lightning Strike added.
+Seize Opportunity added.
+Scourge of the Wastes added.
+Garden Familiar added.
+Trade Route Trailblazer added.
+Hilltop Surveyor added.
+Notorious Vanquisher added.
+Captivating Stag added.
+Colossal Dunetreader added.
+Sandsteppe Ambush added.
+Chokehold added.
+By Blood and Venom added.
+Another Chance added.
+Vibrant Ruan added.
+Official's Seal added.
+Weathered Sentinel added.
+Palace Garden Replica added.
+Heart of Kin added.
+Evolving Wilds added.
+Tranquil Cove added.
+Reclaimer of Tradition added.
+Carrier of Wind added.
+Unyielding Hordemate added.
+Melodic Storyteller added.
+Dismal Backwater added.
+Bloodfell Caves added.
+Rugged Highlands added.
+Blossoming Sands added.
+Scoured Barrens added.
+Swiftwater Cliffs added.
+Jungle Hollow added.
+Wind-Scarred Crag added.
+Thornwood Falls added.
+Sandsteppe Citadel added.
+Opulent Palace added.
+Nomad Outpost added.
+Mystic Monastery added.
+Ancestral Monument added.
+Inspiring Monument added.
+Hidden Monument added.
+Barren Monument added.
+Hunter's Monument added.
+Lowland Outrider added.
+Ashdune Avenger added.
+Dazzled Student added.
+Monastery Sparring added.
+House's Head added.
+Death's Attendant added.
+Reserved Mentor added.
+Gather the Warband added.
+Whisperer of Seasons Past added.
+Sagu Exploration added.
+Expedition Rhino added.
+Wingblade Master added.
+Find Balance added.
+Secretive Serpentmage added.
+Whisper of Promise added.
+Steadfast Conqueror added.
+Violent Onslaught added.
+Snowcrag Stalwart added.
+Clash of Antlers added.
+Soulfire Clairvoyant added.
+Traveling Merchant added.
+Highspire Sentry added.
+Dalkovan Marshal added.
+Ainok Vindicator added.
+Borderland Vanguard added.
+Soulcrag Kirin added.
+Plucky Battledriver added.
+Warrior's Will added.
+Waste's Curse added.
+Honor added.
+Final Encounter added.
+Face Adversity added.
+Whirlsand Blade added.
+Whisperer's Familiar added.
+Free-spirited Pup added.
+Master of Balance added.
+Palace Archivists added.
+Wingspan Apprentice added.
+Drifting Disaster added.
+Abandon Allegiance added.
+Consign to the Archive added.
+Consult the Passed added.
+Ancient Tribute added.
+Blend In added.
+Become Obscure added.
+Forbidden Form added.
+Scrubland Lookout added.
+Unrelenting Champion added.
+Indulgent Patron added.
+Mardu Warcrier added.
+Remorseless Hordechief added.
+Kheru Gatekeeper added.
+Yathan Heavy added.
+Malevolent Force added.
+Vanquish the Inferior added.
+Ancestral Intervention added.
+Forgotten Kin-Tree added.
+The Webs I Built added.
+Pillagers' Prize added.
+Mardu Frontliner added.
+Meandering Cinderkin added.
+Whisperer's Heir added.
+Blizzard Guide added.
+Twinflame Rakshasa added.
+Crackling Resonance added.
+Horde's Conquest added.
+Tiger Path Slash added.
+United Monastery added.
+Remarkable Statuary added.
+Harness the Wild added.
+Qal Sisma Avenger added.
+Warden of the Hills added.
+Seasoned Wayfarer added.
+Simian Oddity added.
+Reckless Rascals added.
+Kishla Flutefisher added.
+Qatros Foremost added.
+Migrating Mammoths added.
+Tusk Through added.
+Kin-Tree Cultivation added.
+Heritage Reclamation added.
+Geared for War added.
+Call the Float added.
+Bloomvine Symbiosis added.
+Unstoppable Bruiser added.
+Stampeding Bovak added.
+Salt Road Hustler added.
+Qarsi Cultivation added.
+Wandering Fortress added.
+Accustomed Packbeast added.
+Come What May added.
+Qingliang Calligrapher added.
+Master's Refusal added.
+Defend the Monastery added.
+Fiendish Jailer added.
+Batiga Pool Prowler added.
+Perplexing Gesture added.
+Secrets of Gurmag added.
+Dakla Bowmaster added.
+Horde Strategist added.
+Flamethrower Rakshasa added.
+Constant Assault added.
+Foothill Patrol added.
+Wildshape Conjurer added.
+Vibrant Phenomenon added.
+Hoofbeat Crag added.
+Timbrevale Village added.
+Salt Road added.
+Qingliang Monastery added.
+Batiga Village added.
+Barrensteppe Champion added.
+Sandcrafter Guardian added.
+Village Mentor added.
+Captain's Roc added.
+Political Escalation added.
+Calm After the Storm added.
+Dirgur Heights Ancient added.
+Submerged Conscious added.
+Silumgar Devotee added.
+Crossroads Raider added.
+Frenzied Tombguard added.
+Death's Confidant added.
+Insatiable Rakshasa added.
+Their Dead Will Rise Again added.
+Krumar Initiation added.
+Bedrock Lashcaster added.
+Auroral Expression added.
+Sibsig Outlander added.
+Cold-Blooded Hydra added.
+Unbridled Nettlekin added.
+Heavy Cavalry Captain added.
+Tyrant of Qal Sisma added.
+Harness the Cycle added.
+Winding Sage added.
+Secrets of the Grave added.
+Hotheaded Challanger added.
+Clever Infiltrator added.
+Devastating Bolt added.
+Fangkeeper's Attendants added.
+One Last Siege added.
+Necropolis Trove added.
+Pinnacle of the Way added.
+Ironwill Exemplar added.
+Fabled Huntsman added.
+Disown added.
+Nightblade Infiltrator added.
+Vestige of the Spirit Dragon added.
+Efflorescent Rite added.
+Frontier Bivouac added.
+Whispered Visions added.
+March of the Endless Ranks added.
+Shifty Courser added.
+Proud Executioner added.
+Coordinated Students added.
+Dragon's Eye Apprentice added.
+Unorthodox Practitioner added.
+Breezeshaper added.
+Tiger Path Master added.
+Riverwheel Master added.
+Narset, Master Undone added.
+Sarkhan Unredeemed added.
+Gal, Bloodsoaked Nemesis added.
+Spirited Mistleaper added.
+Salchak Dragonclaw added.
+Benyamin, Abzan Exemplar added.
+Fangkeeper Champei added.
+Sarkhan Rekindled added.
+Narset, Master Returned added.
+Ugin, Eternal Warden added.
+Alan, the Last Executioner added.
+Jeskai Ringcaster added.
+Jana, Face of Conquest added.
+Qingliang Scholar added.
+
+UU02 Avenform Guide removed.
+CG02 Guardian of the Wild removed.
+CR04 Qal Sisma Scavengers removed.
+CB02 Afterlife Aspirant removed.
+CW02 Emesh Cadet removed.
+CB05 Salt Road Escort removed.
+CW06 Respected Strike Leader removed.
+CW01 Hidden Ambusher removed.
+CW04 Vanguard Gallant removed.
+CW05 Citadel Sentry removed.
+CW07 Debilitating Tactics removed.
+CW08 Wasteland Roc removed.
+CG09 Awaited Return removed.
+CG10 Lavish Dance removed.
+CW11 Superior Form removed.
+CG12 Ferocious Resolve removed.
+CU02 Intel Agent removed.
+CB04 Forsaken Butcher removed.
+CU04 Sage of the Silent Voice removed.
+CB06 Decrepit Scavenger removed.
+CR06 Introspective Strongarm removed.
+CR07 Alan's Butcher removed.
+CR08 Thunderstep Warmonger removed.
+CW09 Full Force removed.
+CW10 Pacifism removed.
+CU11 Push Back removed.
+CW12 Lost to History removed.
+CU01 Aspect of Winter removed.
+CR01 Bloodfire Prodigy removed.
+CU05 Avalanche Escort removed.
+CU06 Cloudspell Kirin removed.
+CU07 Marang River Horror removed.
+CU08 Keep Hidden removed.
+CU09 Augur's Incense removed.
+CU10 Winter's Embrace removed.
+CG11 Take the Upper hand removed.
+CU12 Find Focus removed.
+CR02 Death's Challenger removed.
+CG03 Undergrowth Leopard removed.
+CR03 Wandering Wildfire removed.
+CG06 Bogwort Beast removed.
+CB01 Outskirt Scrapper removed.
+CB08 Wasteland Marauder removed.
+CR09 Nature's Ferocity removed.
+CR10 Harnessed Lightning removed.
+CR11 Lightning Strike removed.
+CR12 Seize Opportunity removed.
+CB03 Scourge of the Wastes removed.
+CG04 Garden Familiar removed.
+CG05 Trade Route Trailblazer removed.
+CG01 Hilltop Surveyor removed.
+CB07 Notorious Vanquisher removed.
+CG07 Captivating Stag removed.
+CG08 Colossal Dunetreader removed.
+CB09 Sandsteppe Ambush removed.
+CB10 Chokehold removed.
+CB11 By Blood and Venom removed.
+CB12 Another Chance removed.
+CA01 manalith removed.
+CA02 Official's Seal removed.
+CA03 Weathered Sentinel removed.
+CA04 flying, mill removed.
+CA05 fix removed.
+CL11 Evolving Wilds removed.
+CL01 Tranquil Cove removed.
+CM01 Reclaimer of Tradition removed.
+CM02 Carrier of Wind removed.
+CM04 Unyielding Hordemate removed.
+CM05 Melodic Storyteller removed.
+CL02 Dismal Backwater removed.
+CL03 Bloodfell Caves removed.
+CL04 Rugged Highlands removed.
+CL05 Blossoming Sands removed.
+CL06 Scoured Barrens removed.
+CL07 Swiftwater Cliffs removed.
+CL08 Jungle Hollow removed.
+CL09 Wind-Scarred Crag removed.
+CL10 Thornwood Falls removed.
+UL01 Sandsteppe Citadel removed.
+UL02 Opulent Palace removed.
+UL03 Nomad Outpost removed.
+UL04 Mystic Monastery removed.
+UA01 Ancestral Monument removed.
+UA02 Inspiring Monument removed.
+UA03 Hidden Monument removed.
+UA04 Barren Monument removed.
+UA05 Hunter's Monument removed.
+UM01 Lowland Outrider removed.
+UM02 Ashdune Avenger removed.
+UM03 Dazzled Student removed.
+UM04 Monastery Sparring removed.
+UM05 House's Head removed.
+UM06 Death's Attendant removed.
+UM07 Reserved Mentor removed.
+UM08 Gather the Warband removed.
+UM09 Whisperer of Seasons Past removed.
+UM10 Sagu Exploration removed.
+UM11 Expedition Rhino removed.
+UM13 Wingblade Master removed.
+UM14 Find Balance removed.
+UM15 Secretive Serpentmage removed.
+UM16 Whisper of Promise removed.
+UM17 Steadfast Conqueror removed.
+UM18 Violent Onslaught removed.
+UM19 Snowcrag Stalwart removed.
+UM20 Clash of Antlers removed.
+UW01 Soulfire Clairvoyant removed.
+UW02 Traveling Merchant removed.
+UW03 Highspire Sentry removed.
+UW04 Dalkovan Marshal removed.
+UW05 Ainok Vindicator removed.
+UW06 Borderland Vanguard removed.
+UW07 Soulcrag Kirin removed.
+UW08 Plucky Battledriver removed.
+UW09 Warrior's Will removed.
+UW10 Waste's Curse removed.
+UW11 Honor removed.
+UW12 Final Encounter removed.
+UW13 Face Adversity removed.
+UW14 Whirlsand Blade removed.
+UU01 Whisperer's Familiar removed.
+RU03 Free-spirited Pup removed.
+UU03 Master of Balance removed.
+UU05 Palace Archivists removed.
+UU06 Wingspan Apprentice removed.
+UU07 Drifting Disaster removed.
+UU10 Abandon Allegiance removed.
+UU09 Consign to the Archive removed.
+UU08 Consult the Passed removed.
+UU11 Ancient Tribute removed.
+UU12 Blend In removed.
+UU13 Become Obscure removed.
+UU14 Forbidden Form removed.
+UB01 Scrubland Lookout removed.
+UB02 Unrelenting Champion removed.
+UB03 Indulgent Patron removed.
+UB04 Mardu Warcrier removed.
+UB05 Remorseless Hordechief removed.
+UB06 Kheru Gatekeeper removed.
+UB07 Yathan Heavy removed.
+UB08 Malevolent Force removed.
+UB09 Vanquish the Inferior removed.
+UB10 Ancestral Intervention removed.
+RB06 Forgotten Kin-Tree removed.
+UB12 The Webs I Built removed.
+UB14 Pillagers' Prize removed.
+UR02 Mardu Frontliner removed.
+UR03 Meandering Cinderkin removed.
+UR04 Whisperer's Heir removed.
+RR03 Blizzard Guide removed.
+UR07 Twinflame Rakshasa removed.
+UR08 Crackling Resonance removed.
+UR09 Horde's Conquest removed.
+UR11 Tiger Path Slash removed.
+UR12 United Monastery removed.
+UR13 Remarkable Statuary removed.
+UR14 Harness the Wild removed.
+UG02 Qal Sisma Avenger removed.
+UG01 Warden of the Hills removed.
+UG03 Seasoned Wayfarer removed.
+UG04 Simian Oddity removed.
+UG05 Reckless Rascals removed.
+UG06 Kishla Flutefisher removed.
+UG07 Qatros Foremost removed.
+UG08 Migrating Mammoths removed.
+UG09 Tusk Through removed.
+UG10 Kin-Tree Cultivation removed.
+UG11 Heritage Reclamation removed.
+UG12 Geared for War removed.
+UG13 Call the Float removed.
+UG14 Bloomvine Symbiosis removed.
+RM01 Unstoppable Bruiser removed.
+RM02 Stampeding Bovak removed.
+RM03 Salt Road Hustler removed.
+RM05 Qarsi Cultivation removed.
+RM07 Wandering Fortress removed.
+RM08 Accustomed Packbeast removed.
+RM09 Come What May removed.
+RM11 Qingliang Calligrapher removed.
+RM12 Master's Refusal removed.
+RM13 Defend the Monastery removed.
+RM14 Fiendish Jailer removed.
+RM15 Batiga Pool Prowler removed.
+RM16 Perplexing Gesture removed.
+RM17 Secrets of Gurmag removed.
+RM18 Dakla Bowmaster removed.
+RM19 Horde Strategist removed.
+RM20 Flamethrower Rakshasa removed.
+RM21 Constant Assault removed.
+RM22 Foothill Patrol removed.
+RM23 Wildshape Conjurer removed.
+RM25 Vibrant Phenomenon removed.
+RL01 Hoofbeat Crag removed.
+RL02 Timbrevale Village removed.
+RL03 Salt Road removed.
+RL04 Qingliang Monastery removed.
+RL05 Batiga Village removed.
+RW01 Barrensteppe Champion removed.
+RW02 Sandcrafter Guardian removed.
+RW03 Village Mentor removed.
+RW04 Captain's Roc removed.
+RW05 Political Escalation removed.
+RW06 Calm After the Storm removed.
+RU04 Dirgur Heights Ancient removed.
+RU05 Submerged Conscious removed.
+RU02 Silumgar Devotee removed.
+RB01 Crossroads Raider removed.
+RB03 Frenzied Tombguard removed.
+RB02 Death's Confidant removed.
+RB04 Insatiable Rakshasa removed.
+RB05 Their Dead Will Rise Again removed.
+UB11 Krumar Initiation removed.
+RR05 Bedrock Lashcaster removed.
+RR06 Auroral Expression removed.
+RG01 Sibsig Outlander removed.
+RG02 Cold-Blooded Hydra removed.
+RG04 Heavy Cavalry Captain removed.
+RG05 Tyrant of Qal Sisma removed.
+RG06 Harness the Cycle removed.
+CM03 Winding Sage removed.
+UB13 Secrets of the Grave removed.
+UR05 Hotheaded Challanger removed.
+UR01 Clever Infiltrator removed.
+UR10 Devastating Bolt removed.
+RG03 Fangkeeper's Attendants removed.
+UM12 Disown removed.
+RM06 Nightblade Infiltrator removed.
+RL06 Vestige of the Spirit Dragon removed.
+RM24 Efflorescent Rite removed.
+UL05 Frontier Bivouac removed.
+RU06 Whispered Visions removed.
+CW03 Coordinated Students removed.
+CU03 Dragon's Eye Apprentice removed.
+CR05 Unorthodox Practitioner removed.
+UU04 Breezeshaper removed.
+UR06 Tiger Path Master removed.
+RM04 Riverwheel Master removed.
+RM10 Narset, Master Undone removed.
+RR01 Sarkhan Unredeemed removed.
+RR04 Gal, Bloodsoaked Nemesis removed.
+RU01 Spirited Mistleaper removed.
+RR02 Jeskai Ringcaster removed.
+
+
+VERSION 11 CHANGELOG
 ====================
 
 
