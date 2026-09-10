@@ -4929,7 +4929,7 @@
             "number": 193,
             "color_identity": "WBR",
             "cost": "{R}{W}{B}",
-            "rules_text": "Deathtouch\nWhenever this creature attacks, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]\nOnce during each of your turns, you may cast a creature spell from your graveyard that was put there from anywhere this turn.",
+            "rules_text": "Menace\nWhenever this creature attacks, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]\nOnce during each of your turns, you may cast a creature spell from your graveyard that was put there from anywhere this turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
