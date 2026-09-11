@@ -1803,7 +1803,7 @@
 		{
 			"name": "Defend the Monastery",
 			"rarity": "rare",
-			"mana_cost": "{4}{U}{R}{W}",
+			"mana_cost": "{3}{U}{R}{W}",
 			"type": "Sorcery",
 			"collector_number": "180",
 			"image_uris": {

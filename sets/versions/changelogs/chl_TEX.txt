@@ -1,4 +1,22 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+
+
+Qarsi Cultivation
+rules_text: When this enchantment enters, mill two cards.
+Whenever one or more cards are put into your graveyard from your library, you may put one of them into your hand. Do this only once each turn. => Whenever one or more cards are put into your graveyard from your library, you may put one of them into your hand. Do this only once each turn.
+
+Defend the Monastery
+cost: {4}{U}{R}{W} => {3}{U}{R}{W}
+
+Silumgar Devotee
+rules_text: When this creature enters, mill two cards.
+Whenever this creature enters or attacks, you may cast target instant or sorcery spell from your graveyard this turn by exiling two other cards from your graveyard in addition to paying its other costs. If that spell would be put into your graveyard, exile it instead. => When this creature enters, mill two cards.
+Whenever this creature enters or attacks, you may exile two cards from your graveyard. When you do, you may cast target instant or sorcery spell from your graveyard this turn. If that spell would be put into your graveyard, exile it instead.
+
+
+VERSION 13 CHANGELOG
 ====================
 
 

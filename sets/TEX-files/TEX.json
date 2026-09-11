@@ -3669,7 +3669,7 @@
             "number": 206,
             "color_identity": "UG",
             "cost": "{G}{U}",
-            "rules_text": "When this enchantment enters, mill two cards.\nWhenever one or more cards are put into your graveyard from your library, you may put one of them into your hand. Do this only once each turn.",
+            "rules_text": "Whenever one or more cards are put into your graveyard from your library, you may put one of them into your hand. Do this only once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3794,7 +3794,7 @@
             "type": "Sorcery",
             "number": 180,
             "color_identity": "WUR",
-            "cost": "{4}{U}{R}{W}",
+            "cost": "{3}{U}{R}{W}",
             "rules_text": "Choose two. Exile Defend the Monastery.\n\u2022 Defend the Monastery deals 4 damage to each creature.\n\u2022 Return up to two target noncreature, nonland cards from your graveyard to your hand.\n\u2022 Create three 1/1 white Monk creature tokens with prowess.",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -4320,7 +4320,7 @@
             "number": 61,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "When this creature enters, mill two cards.\nWhenever this creature enters or attacks, you may cast target instant or sorcery spell from your graveyard this turn by exiling two other cards from your graveyard in addition to paying its other costs. If that spell would be put into your graveyard, exile it instead.",
+            "rules_text": "When this creature enters, mill two cards.\nWhenever this creature enters or attacks, you may exile two cards from your graveyard. When you do, you may cast target instant or sorcery spell from your graveyard this turn. If that spell would be put into your graveyard, exile it instead.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -5849,5 +5849,5 @@
             "notes": "!tag wishlist"
         }
     ],
-    "version": 13
+    "version": 14
 }

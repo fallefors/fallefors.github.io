@@ -5,7 +5,7 @@
 			<name>TEX</name>
 			<longname>Tarkir: Extinction</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-10</releasedate>
+			<releasedate>2026-09-12</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -3074,8 +3074,7 @@ When this creature enters, you draw X cards and you lose X life, where X is the 
 		</card>
 		<card>
 			<name>Qarsi Cultivation</name>
-			<text>When this enchantment enters, mill two cards.
-Whenever one or more cards are put into your graveyard from your library, you may put one of them into your hand. Do this only once each turn.</text>
+			<text>Whenever one or more cards are put into your graveyard from your library, you may put one of them into your hand. Do this only once each turn.</text>
 			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/174.png" num="206">TEX</set>
 			<prop>
 				<layout>normal</layout>
@@ -3191,8 +3190,8 @@ Counter target spell. Master&apos;s Refusal deals 3 damage to its controller and
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>4URW</manacost>
-				<cmc>7</cmc>
+				<manacost>3URW</manacost>
+				<cmc>6</cmc>
 				<colors>WUR</colors>
 				<coloridentity>WUR</coloridentity>
 			</prop>
@@ -3629,7 +3628,7 @@ Ceremony—{4}{U}, Exile two other cards from your graveyard. (You may cast a co
 		<card>
 			<name>Silumgar Devotee</name>
 			<text>When this creature enters, mill two cards.
-Whenever this creature enters or attacks, you may cast target instant or sorcery spell from your graveyard this turn by exiling two other cards from your graveyard in addition to paying its other costs. If that spell would be put into your graveyard, exile it instead.</text>
+Whenever this creature enters or attacks, you may exile two cards from your graveyard. When you do, you may cast target instant or sorcery spell from your graveyard this turn. If that spell would be put into your graveyard, exile it instead.</text>
 			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/205.png" num="61">TEX</set>
 			<prop>
 				<layout>normal</layout>
