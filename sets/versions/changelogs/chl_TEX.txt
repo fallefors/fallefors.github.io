@@ -1,4 +1,13 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+Land added.
+
+
+Fabled Huntsman
+
+
+VERSION 14 CHANGELOG
 ====================
 
 

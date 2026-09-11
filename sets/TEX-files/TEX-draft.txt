@@ -2729,6 +2729,16 @@
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/272.png"
 			}
+		},
+		{
+			"name": "Land",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Land",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/TEX-files/img/273.png"
+			}
 		}
 	]
 

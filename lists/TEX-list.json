@@ -2302,6 +2302,14 @@
         "position": "267"
     },
     {
+        "card_name": "Land",
+        "number": 9,
+        "shape": "token",
+        "set": "TEX",
+        "rotated": false,
+        "position": "273"
+    },
+    {
         "card_name": "Monk",
         "number": 2,
         "shape": "token",
@@ -2356,9 +2364,6 @@
         "set": "TEX",
         "rotated": false,
         "position": "264"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"

@@ -5424,7 +5424,7 @@
             "alias": "",
             "position": "235",
             "rotated": false,
-            "notes": "!tag interactive-threat",
+            "notes": "!tag interactive-threat\n!tokens Land TEX",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6384,6 +6384,29 @@
             "rules_text3": "",
             "rotated": false,
             "notes": "!tag wishlist",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Land",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Land",
+            "number": 9,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{T}: Add one mana of any color.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "TEX",
+            "loyalty": "",
+            "artist": "Ga\u00eblle Seguillon (edited)",
+            "alias": "",
+            "position": "273",
+            "rotated": false,
+            "notes": "",
             "image_type": "png",
             "v_mana": ""
         }

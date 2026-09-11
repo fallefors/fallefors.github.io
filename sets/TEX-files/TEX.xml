@@ -4166,6 +4166,7 @@ When this creature enters, create a tapped land token with &quot;{T}: Add one ma
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related>Land TEX</related>
 		</card>
 		<card>
 			<name>Disown</name>
@@ -4862,6 +4863,21 @@ Discard your hand, then draw two cards. (Cast a copy of this spell only once. Ca
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Land TEX</name>
+			<text>{T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/273.png" num="9">TEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+			<token>1</token>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
