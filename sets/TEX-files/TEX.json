@@ -4961,7 +4961,7 @@
             "alias": "",
             "position": "235",
             "rotated": false,
-            "notes": "!tag interactive-threat\n!tokens Land TEX"
+            "notes": "!tag interactive-threat\n!tokens Glacier TEX"
         },
         {
             "card_name": "Disown",
@@ -5870,5 +5870,5 @@
             "notes": ""
         }
     ],
-    "version": 16
+    "version": 17
 }

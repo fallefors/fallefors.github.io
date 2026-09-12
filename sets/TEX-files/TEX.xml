@@ -4166,7 +4166,7 @@ When this creature enters, create a tapped colorless land token named Glacier wi
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Land TEX</related>
+			<related>Glacier TEX</related>
 		</card>
 		<card>
 			<name>Disown</name>
