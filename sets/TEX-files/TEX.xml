@@ -4152,7 +4152,7 @@ Once during each of your turns, you may cast a creature spell from your graveyar
 		<card>
 			<name>Fabled Huntsman</name>
 			<text>Flying
-When this creature enters, create a tapped land token with &quot;{T}: Add one mana of any color.&quot; When you do, this creature deals damage equal to the number of lands you control to target creature or planeswalker an opponent controls.</text>
+When this creature enters, create a tapped colorless land token named Glacier with &quot;{T}: Add one mana of any color.&quot; When you do, this creature deals damage equal to the number of lands you control to target creature or planeswalker an opponent controls.</text>
 			<set rarity="mythic" picurl="https://fallefors.github.io/sets/TEX-files/img/235.png" num="184">TEX</set>
 			<prop>
 				<layout>normal</layout>
@@ -4865,7 +4865,7 @@ Discard your hand, then draw two cards. (Cast a copy of this spell only once. Ca
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Land TEX</name>
+			<name>Glacier TEX</name>
 			<text>{T}: Add one mana of any color.</text>
 			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/273.png" num="9">TEX</set>
 			<prop>

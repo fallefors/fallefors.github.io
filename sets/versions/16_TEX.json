@@ -4950,7 +4950,7 @@
             "number": 184,
             "color_identity": "URG",
             "cost": "{3}{G}{U}{R}",
-            "rules_text": "Flying\nWhen this creature enters, create a tapped land token with \u201c{T}: Add one mana of any color.\u201d When you do, this creature deals damage equal to the number of lands you control to target creature or planeswalker an opponent controls.",
+            "rules_text": "Flying\nWhen this creature enters, create a tapped colorless land token named Glacier with \u201c{T}: Add one mana of any color.\u201d When you do, this creature deals damage equal to the number of lands you control to target creature or planeswalker an opponent controls.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -5849,7 +5849,7 @@
             "notes": "!tag wishlist"
         },
         {
-            "card_name": "Land",
+            "card_name": "Glacier",
             "color": "",
             "rarity": "common",
             "type": "Token Land",

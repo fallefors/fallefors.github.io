@@ -1,4 +1,17 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+Glacier added.
+
+Land removed.
+
+Fabled Huntsman
+rules_text: Flying
+When this creature enters, create a tapped land token with “{T}: Add one mana of any color.” When you do, this creature deals damage equal to the number of lands you control to target creature or planeswalker an opponent controls. => Flying
+When this creature enters, create a tapped colorless land token named Glacier with “{T}: Add one mana of any color.” When you do, this creature deals damage equal to the number of lands you control to target creature or planeswalker an opponent controls.
+
+
+VERSION 15 CHANGELOG
 ====================
 
 Land added.
