@@ -5,7 +5,7 @@
 			<name>TEX</name>
 			<longname>Tarkir: Extinction</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-12</releasedate>
+			<releasedate>2026-09-13</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -49,7 +49,7 @@ Accord — At the beginning of your end step, if you&apos;ve cast both a creatur
 			<name>Qal Sisma Scavengers</name>
 			<text>Menace
 Accord — This creature gets +2/+0 and has haste as long as you&apos;ve cast both a creature spell and a noncreature spell this turn.</text>
-			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/2.png" num="121">TEX</set>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/2.png" num="120">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -367,7 +367,7 @@ Whenever this creature attacks, you may exile a card from your graveyard. If you
 			<name>Introspective Strongarm</name>
 			<text>Trample
 Whenever you cast a noncreature spell, put a +1/+1 counter on this creature. This ability triggers only once each turn.</text>
-			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/20.png" num="115">TEX</set>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/20.png" num="114">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -772,7 +772,7 @@ Whenever this creature enters or attacks, surveil 1. (Look at the top card of yo
 			<text>Choose one —
 • Target creature you control deals damage equal to its power to target creature an opponent controls.
 • Destroy target artifact.</text>
-			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/43.png" num="120">TEX</set>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/43.png" num="119">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -786,11 +786,11 @@ Whenever this creature enters or attacks, surveil 1. (Look at the top card of yo
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Harnessed Lightning</name>
+			<name>Stormsinger&apos;s Grasp</name>
 			<text>Enchant creature
 When this Aura enters, it deals 3 damage to target creature an opponent controls. If that creature would die this turn, exile it instead.
 Enchanted creature gets +1/+1.</text>
-			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/44.png" num="112">TEX</set>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/44.png" num="126">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -806,7 +806,7 @@ Enchanted creature gets +1/+1.</text>
 		<card>
 			<name>Lightning Strike</name>
 			<text>Lightning Strike deals 3 damage to any target.</text>
-			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/45.png" num="117">TEX</set>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/45.png" num="116">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -824,7 +824,7 @@ Enchanted creature gets +1/+1.</text>
 			<text>Choose one —
 • Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
 • Up to two target creatures each get +2/+1 until end of turn.</text>
-			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/46.png" num="126">TEX</set>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/TEX-files/img/46.png" num="125">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2577,7 +2577,7 @@ Whenever one or more creatures you control deal combat damage to a player, you m
 			<name>Mardu Frontliner</name>
 			<text>At the beginning of combat on your turn, you may discard a card. When you do, target creature gets +1/+0 and gains haste until end of turn.
 {1}{R}, Discard your hand, Sacrifice this creature: Draw two cards.</text>
-			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/146.png" num="118">TEX</set>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/146.png" num="117">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2595,7 +2595,7 @@ Whenever one or more creatures you control deal combat damage to a player, you m
 			<name>Meandering Cinderkin</name>
 			<text>Menace
 Whenever this creature attacks, add {R}. Until end of turn, you don&apos;t lose this mana as steps and phases end.</text>
-			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/147.png" num="119">TEX</set>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/147.png" num="118">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2685,7 +2685,7 @@ Accord — Crackling Resonance deals 3 damage instead if you&apos;ve cast both a
 			<text>Choose one —
 • Horde&apos;s Conquest deals 2 damage to each tapped creature.
 • Horde&apos;s Conquest deals 2 damage to each untapped creature.</text>
-			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/152.png" num="113">TEX</set>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/152.png" num="112">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2735,7 +2735,7 @@ Whenever you attack with two or more creatures, exile the top card of your libra
 			<name>Remarkable Statuary</name>
 			<text>Whenever you cast a noncreature spell, this artifact deals 1 damage to each opponent.
 {3}{R}, {T}, Sacrifice this artifact: Copy target instant or sorcery spell you control.</text>
-			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/155.png" num="123">TEX</set>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/155.png" num="122">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4011,7 +4011,7 @@ Surveil 1, then you draw a card and lose 1 life. (To surveil 1, look at the top 
 			<name>Hotheaded Challanger</name>
 			<text>Trample
 Glory — Whenever this creature or another creature you control dies, if it was attacking, you may discard a card. If you do, draw a card.</text>
-			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/227.png" num="114">TEX</set>
+			<set rarity="uncommon" picurl="https://fallefors.github.io/sets/TEX-files/img/227.png" num="113">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4472,7 +4472,7 @@ Exhaust — {4}: You may cast target instant or sorcery card with mana value 2 o
 			<name>Sarkhan Unredeemed</name>
 			<text>When Sarkhan enters, mill three cards, then exile one of them. During any turn you attacked with Sarkhan, you may play that card.
 Exhaust — {3}{R}: Put two +1/+1 counters and a flying counter on Sarkhan. It becomes a Dragon in addition to its other types. It gains haste until end of turn. Activate only as a sorcery. (Activate each exhaust ability only once.)</text>
-			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/252.png" num="125">TEX</set>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/252.png" num="124">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4622,7 +4622,7 @@ Once during each of your turns, you may cast a spell from your hand by exiling a
 [+2]: Add two mana in any combination of colors.
 [0]: Until end of turn, Sarkhan becomes a legendary 4/4 red Dragon creature with flying, indestructible, and haste. (He doesn&apos;t lose loyalty while he&apos;s not a planeswalker.)
 [-3]: Sarkhan deals 5 damage to target creature.</text>
-			<set rarity="mythic" picurl="https://fallefors.github.io/sets/TEX-files/img/260.png" num="124">TEX</set>
+			<set rarity="mythic" picurl="https://fallefors.github.io/sets/TEX-files/img/260.png" num="123">TEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4772,7 +4772,7 @@ Whenever you cast a Technique spell, exile the top card of your library. You may
 ---
 
 When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy. (Cast a copy of this spell only once. Cast only if this creature attacked this turn.)</text>
-			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/268.png" num="116">TEX</set>
+			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/268.png" num="115">TEX</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -4850,7 +4850,7 @@ As long as you have one or fewer cards in hand and you&apos;ve cast a noncreatur
 ---
 
 Discard your hand, then draw two cards. (Cast a copy of this spell only once. Cast only if this creature attacked this turn.)</text>
-			<set rarity="mythic" picurl="https://fallefors.github.io/sets/TEX-files/img/272.png" num="122">TEX</set>
+			<set rarity="mythic" picurl="https://fallefors.github.io/sets/TEX-files/img/272.png" num="121">TEX</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>

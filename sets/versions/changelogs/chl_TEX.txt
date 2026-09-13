@@ -1,4 +1,12 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+Stormsinger's Grasp added.
+
+Harnessed Lightning removed.
+
+
+VERSION 17 CHANGELOG
 ====================
 
 

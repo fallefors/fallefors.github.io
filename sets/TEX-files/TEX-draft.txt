@@ -25,7 +25,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Ape",
-			"collector_number": "121",
+			"collector_number": "120",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/2.png"
 			}
@@ -205,7 +205,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Elephant Warrior",
-			"collector_number": "115",
+			"collector_number": "114",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/20.png"
 			}
@@ -435,17 +435,17 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "120",
+			"collector_number": "119",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/43.png"
 			}
 		},
 		{
-			"name": "Harnessed Lightning",
+			"name": "Stormsinger's Grasp",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "112",
+			"collector_number": "126",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/44.png"
 			}
@@ -455,7 +455,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "117",
+			"collector_number": "116",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/45.png"
 			}
@@ -465,7 +465,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "126",
+			"collector_number": "125",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/46.png"
 			}
@@ -1465,7 +1465,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "118",
+			"collector_number": "117",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/146.png"
 			}
@@ -1475,7 +1475,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Elemental",
-			"collector_number": "119",
+			"collector_number": "118",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/147.png"
 			}
@@ -1525,7 +1525,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "113",
+			"collector_number": "112",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/152.png"
 			}
@@ -1555,7 +1555,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact",
-			"collector_number": "123",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/155.png"
 			}
@@ -2275,7 +2275,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Berserker",
-			"collector_number": "114",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/227.png"
 			}
@@ -2525,7 +2525,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Sorcerer",
-			"collector_number": "125",
+			"collector_number": "124",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/252.png"
 			}
@@ -2605,7 +2605,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Legendary Planeswalker — Sarkhan",
-			"collector_number": "124",
+			"collector_number": "123",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/260.png"
 			}
@@ -2685,7 +2685,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Monk",
-			"collector_number": "116",
+			"collector_number": "115",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/268.png"
 			}
@@ -2725,7 +2725,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Monk",
-			"collector_number": "122",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://fallefors.github.io/sets/TEX-files/img/272.png"
 			}
@@ -2967,7 +2967,7 @@
 	8 Outskirt Scrapper
 	8 Wasteland Marauder
 	8 Nature's Ferocity
-	8 Harnessed Lightning
+	8 Stormsinger's Grasp
 	8 Lightning Strike
 	8 Seize Opportunity
 	8 Scourge of the Wastes
@@ -3049,7 +3049,7 @@
 	8 Outskirt Scrapper
 	8 Wasteland Marauder
 	8 Nature's Ferocity
-	8 Harnessed Lightning
+	8 Stormsinger's Grasp
 	8 Lightning Strike
 	8 Seize Opportunity
 	8 Scourge of the Wastes
@@ -3132,7 +3132,7 @@
 	12 Outskirt Scrapper
 	12 Wasteland Marauder
 	12 Nature's Ferocity
-	12 Harnessed Lightning
+	12 Stormsinger's Grasp
 	12 Lightning Strike
 	12 Seize Opportunity
 	12 Scourge of the Wastes
@@ -3393,7 +3393,7 @@
 	6 Outskirt Scrapper
 	6 Wasteland Marauder
 	6 Nature's Ferocity
-	6 Harnessed Lightning
+	6 Stormsinger's Grasp
 	6 Lightning Strike
 	6 Seize Opportunity
 	6 Scourge of the Wastes

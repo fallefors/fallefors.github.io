@@ -25,7 +25,7 @@
     },
     {
         "card_name": "Qingliang Scholar",
-        "number": 122,
+        "number": 121,
         "shape": "adventure",
         "set": "TEX",
         "rotated": false,
@@ -65,7 +65,7 @@
     },
     {
         "card_name": "Sarkhan Rekindled",
-        "number": 124,
+        "number": 123,
         "shape": "planeswalker",
         "set": "TEX",
         "rotated": false,
@@ -265,7 +265,7 @@
     },
     {
         "card_name": "Jeskai Ringcaster",
-        "number": 116,
+        "number": 115,
         "shape": "adventure",
         "set": "TEX",
         "rotated": false,
@@ -305,7 +305,7 @@
     },
     {
         "card_name": "Sarkhan Unredeemed",
-        "number": 125,
+        "number": 124,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -505,7 +505,7 @@
     },
     {
         "card_name": "Horde's Conquest",
-        "number": 113,
+        "number": 112,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -545,7 +545,7 @@
     },
     {
         "card_name": "Hotheaded Challanger",
-        "number": 114,
+        "number": 113,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -585,7 +585,7 @@
     },
     {
         "card_name": "Mardu Frontliner",
-        "number": 118,
+        "number": 117,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -625,7 +625,7 @@
     },
     {
         "card_name": "Meandering Cinderkin",
-        "number": 119,
+        "number": 118,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -665,7 +665,7 @@
     },
     {
         "card_name": "Remarkable Statuary",
-        "number": 123,
+        "number": 122,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
@@ -1024,12 +1024,12 @@
         "position": "19"
     },
     {
-        "card_name": "Harnessed Lightning",
-        "number": 112,
+        "card_name": "Introspective Strongarm",
+        "number": 114,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "44"
+        "position": "20"
     },
     {
         "card_name": "Ferocious Resolve",
@@ -1064,12 +1064,12 @@
         "position": "17"
     },
     {
-        "card_name": "Introspective Strongarm",
-        "number": 115,
+        "card_name": "Lightning Strike",
+        "number": 116,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "20"
+        "position": "45"
     },
     {
         "card_name": "Garden Familiar",
@@ -1104,12 +1104,12 @@
         "position": "51"
     },
     {
-        "card_name": "Lightning Strike",
-        "number": 117,
+        "card_name": "Nature's Ferocity",
+        "number": 119,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "45"
+        "position": "43"
     },
     {
         "card_name": "Guardian of the Wild",
@@ -1144,12 +1144,12 @@
         "position": "41"
     },
     {
-        "card_name": "Nature's Ferocity",
+        "card_name": "Qal Sisma Scavengers",
         "number": 120,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "43"
+        "position": "2"
     },
     {
         "card_name": "Hilltop Surveyor",
@@ -1184,12 +1184,12 @@
         "position": "5"
     },
     {
-        "card_name": "Qal Sisma Scavengers",
-        "number": 121,
+        "card_name": "Seize Opportunity",
+        "number": 125,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "2"
+        "position": "46"
     },
     {
         "card_name": "Lavish Dance",
@@ -1224,12 +1224,12 @@
         "position": "54"
     },
     {
-        "card_name": "Seize Opportunity",
+        "card_name": "Stormsinger's Grasp",
         "number": 126,
         "shape": "normal",
         "set": "TEX",
         "rotated": false,
-        "position": "46"
+        "position": "44"
     },
     {
         "card_name": "Take the Upper hand",
