@@ -5,7 +5,7 @@
 			<name>TEX</name>
 			<longname>Tarkir: Extinction</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-13</releasedate>
+			<releasedate>2026-09-21</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -3274,7 +3274,7 @@ Whenever this creature deals combat damage to a player, draw a card, then discar
 		<card>
 			<name>Dakla Bowmaster</name>
 			<text>Reach
-When this creature enters, it deals 3 damage divided as you choose among one, two, or three target creatures your opponents control. You gain 3 life.</text>
+When this creature enters, it deals 3 damage divided as you choose among one or two target creatures your opponents control. You gain 3 life.</text>
 			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/185.png" num="177">TEX</set>
 			<prop>
 				<layout>normal</layout>
@@ -3435,7 +3435,7 @@ Creatures you control have trample and haste.</text>
 			<name>Salt Road</name>
 			<text>This land enters tapped unless you control a Forest or a Plains.
 {T}: Add {B}.
-{1}{B}, {T}: Exile target card from a graveyard. If it&apos;s a creature card you own, sacrifice this land and put that card into your hand.</text>
+{3}{B}, {T}: Each opponent loses 1 life and you gain 1 life.</text>
 			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/194.png" num="252">TEX</set>
 			<prop>
 				<layout>normal</layout>
@@ -3628,7 +3628,7 @@ Ceremony—{4}{U}, Exile two other cards from your graveyard. (You may cast a co
 		<card>
 			<name>Silumgar Devotee</name>
 			<text>When this creature enters, mill two cards.
-Whenever this creature enters or attacks, you may exile two cards from your graveyard. When you do, you may cast target instant or sorcery spell from your graveyard this turn. If that spell would be put into your graveyard, exile it instead.</text>
+Whenever this creature attacks, you may exile two cards from your graveyard. When you do, you may cast target instant or sorcery spell from your graveyard this turn. If that spell would be put into your graveyard, exile it instead.</text>
 			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/205.png" num="61">TEX</set>
 			<prop>
 				<layout>normal</layout>
@@ -3809,8 +3809,8 @@ When this creature dies, exile it. If you do, you may return a card exiled with 
 		<card>
 			<name>Cold-Blooded Hydra</name>
 			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
-This creature enters with X +1/+1 counters on it.
-When this creature enters, it fights up to one other target creature.</text>
+Deathtouch
+This creature enters with X +1/+1 counters on it.</text>
 			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/215.png" num="140">TEX</set>
 			<prop>
 				<layout>normal</layout>
@@ -3828,7 +3828,7 @@ When this creature enters, it fights up to one other target creature.</text>
 		<card>
 			<name>Unbridled Nettlekin</name>
 			<text>Reach
-Accord — At the beginning of your end step, if you&apos;ve cast both a creature spell and a noncreature spell this turn, draw a card, then you may cast a spell from your hand without paying its mana cost.</text>
+Accord — At the beginning of your end step, if you&apos;ve cast both a creature spell and a noncreature spell this turn, draw a card, then you may cast a spell from your hand with mana value less than or equal to the number of lands you control without paying its mana cost.</text>
 			<set rarity="mythic" picurl="https://fallefors.github.io/sets/TEX-files/img/216.png" num="165">TEX</set>
 			<prop>
 				<layout>normal</layout>
@@ -4186,7 +4186,7 @@ When this creature enters, create a tapped colorless land token named Glacier wi
 		</card>
 		<card>
 			<name>Nightblade Infiltrator</name>
-			<text>Heritage 2 (This enters with two +1/+1 counters. You may move a counter from it to another target permanent whenever your combat starts.)
+			<text>Heritage 1 (This enters with a +1/+1 counter. You may move a counter from it to another target permanent whenever your combat starts.)
 When this creature enters, exile up to one target nonland permanent with mana value X or less, where X is the number of counters among creatures you control.</text>
 			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/237.png" num="202">TEX</set>
 			<prop>
@@ -4198,7 +4198,7 @@ When this creature enters, exile up to one target nonland permanent with mana va
 				<cmc>4</cmc>
 				<colors>WBG</colors>
 				<coloridentity>WBG</coloridentity>
-				<pt>1/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4312,7 +4312,7 @@ Whenever this creature deals combat damage to a player, draw a card, then discar
 		<card>
 			<name>Proud Executioner</name>
 			<text>Whenever you attack, put your choice of a +1/+1 counter or a menace counter on target attacking creature.
-Whenever you put one or more counters on a creature you control, target opponent loses that much life.</text>
+Whenever you put one or more counters on a creature you control, target opponent loses 1 life.</text>
 			<set rarity="mythic" picurl="https://fallefors.github.io/sets/TEX-files/img/244.png" num="88">TEX</set>
 			<prop>
 				<layout>normal</layout>
@@ -4600,8 +4600,8 @@ Whenever Salchak deals combat damage to a player, draw a card, then you may cast
 		</card>
 		<card>
 			<name>Fangkeeper Champei</name>
-			<text>Whenever Champei deals combat damage to a player, draw a card.
-Once during each of your turns, you may cast a spell from your hand by exiling a number of cards from your graveyard equal to its mana value rather than paying its mana cost.</text>
+			<text>Whenever Champei attacks, you may cast a spell from your hand by exiling a number of cards from your graveyard equal to its mana value rather than paying its mana cost this turn.
+Whenever Champei deals combat damage to a player, draw a card.</text>
 			<set rarity="mythic" picurl="https://fallefors.github.io/sets/TEX-files/img/259.png" num="185">TEX</set>
 			<prop>
 				<layout>normal</layout>
@@ -4806,9 +4806,9 @@ When you next cast an instant or sorcery spell this turn, copy that spell. You m
 		</card>
 		<card>
 			<name>Jana, Face of Conquest</name>
-			<text>First strike, haste
+			<text>First strike
 When Jana enters, create a 1/1 red Warrior creature token.
-Jana and other creatures you control have base power equal to the number of creatures you control.</text>
+Whenever Jana attacks, it and other creatures you control have base power equal to the number of creatures you control until end of turn.</text>
 			<set rarity="mythic" picurl="https://fallefors.github.io/sets/TEX-files/img/270.png" num="194">TEX</set>
 			<prop>
 				<layout>normal</layout>
@@ -4819,7 +4819,7 @@ Jana and other creatures you control have base power equal to the number of crea
 				<cmc>4</cmc>
 				<colors>WBR</colors>
 				<coloridentity>WBR</coloridentity>
-				<pt>*/4</pt>
+				<pt>1/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<related>Warrior TEX</related>
@@ -4845,6 +4845,7 @@ Jana and other creatures you control have base power equal to the number of crea
 		<card>
 			<name>Qingliang Scholar // Mental Archive</name>
 			<text>Haste
+This creature can&apos;t block.
 As long as you have one or fewer cards in hand and you&apos;ve cast a noncreature spell this turn, you may cast this card from your graveyard.
 
 ---

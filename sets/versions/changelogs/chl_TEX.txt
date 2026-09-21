@@ -1,4 +1,69 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+
+
+Dakla Bowmaster
+rules_text: Reach
+When this creature enters, it deals 3 damage divided as you choose among one, two, or three target creatures your opponents control. You gain 3 life. => Reach
+When this creature enters, it deals 3 damage divided as you choose among one or two target creatures your opponents control. You gain 3 life.
+
+Salt Road
+rules_text: This land enters tapped unless you control a Forest or a Plains.
+{T}: Add {B}.
+{1}{B}, {T}: Exile target card from a graveyard. If it's a creature card you own, sacrifice this land and put that card into your hand. => This land enters tapped unless you control a Forest or a Plains.
+{T}: Add {B}.
+{3}{B}, {T}: Each opponent loses 1 life and you gain 1 life.
+
+Silumgar Devotee
+rules_text: When this creature enters, mill two cards.
+Whenever this creature enters or attacks, you may exile two cards from your graveyard. When you do, you may cast target instant or sorcery spell from your graveyard this turn. If that spell would be put into your graveyard, exile it instead. => When this creature enters, mill two cards.
+Whenever this creature attacks, you may exile two cards from your graveyard. When you do, you may cast target instant or sorcery spell from your graveyard this turn. If that spell would be put into your graveyard, exile it instead.
+
+Cold-Blooded Hydra
+rules_text: Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+This creature enters with X +1/+1 counters on it.
+When this creature enters, it fights up to one other target creature. => Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+Deathtouch
+This creature enters with X +1/+1 counters on it.
+
+Unbridled Nettlekin
+rules_text: Reach
+[i]Accord[/i] — At the beginning of your end step, if you've cast both a creature spell and a noncreature spell this turn, draw a card, then you may cast a spell from your hand without paying its mana cost. => Reach
+[i]Accord[/i] — At the beginning of your end step, if you've cast both a creature spell and a noncreature spell this turn, draw a card, then you may cast a spell from your hand with mana value less than or equal to the number of lands you control without paying its mana cost.
+
+Nightblade Infiltrator
+rules_text: Heritage 2 [i](This enters with two +1/+1 counters. You may move a counter from it to another target permanent whenever your combat starts.)[/i]
+When this creature enters, exile up to one target nonland permanent with mana value X or less, where X is the number of counters among creatures you control. => Heritage 1 [i](This enters with a +1/+1 counter. You may move a counter from it to another target permanent whenever your combat starts.)[/i]
+When this creature enters, exile up to one target nonland permanent with mana value X or less, where X is the number of counters among creatures you control.
+pt: 1/1 => 2/2
+
+Proud Executioner
+rules_text: Whenever you attack, put your choice of a +1/+1 counter or a menace counter on target attacking creature.
+Whenever you put one or more counters on a creature you control, target opponent loses that much life. => Whenever you attack, put your choice of a +1/+1 counter or a menace counter on target attacking creature.
+Whenever you put one or more counters on a creature you control, target opponent loses 1 life.
+
+Fangkeeper Champei
+rules_text: Whenever Champei deals combat damage to a player, draw a card.
+Once during each of your turns, you may cast a spell from your hand by exiling a number of cards from your graveyard equal to its mana value rather than paying its mana cost. => Whenever Champei attacks, you may cast a spell from your hand by exiling a number of cards from your graveyard equal to its mana value rather than paying its mana cost this turn.
+Whenever Champei deals combat damage to a player, draw a card.
+
+Jana, Face of Conquest
+rules_text: First strike, haste
+When Jana enters, create a 1/1 red Warrior creature token.
+Jana and other creatures you control have base power equal to the number of creatures you control. => First strike
+When Jana enters, create a 1/1 red Warrior creature token.
+Whenever Jana attacks, it and other creatures you control have base power equal to the number of creatures you control until end of turn.
+pt: */4 => 1/4
+
+Qingliang Scholar
+rules_text: Haste
+As long as you have one or fewer cards in hand and you've cast a noncreature spell this turn, you may cast this card from your graveyard. => Haste
+This creature can't block.
+As long as you have one or fewer cards in hand and you've cast a noncreature spell this turn, you may cast this card from your graveyard.
+
+
+VERSION 18 CHANGELOG
 ====================
 
 Stormsinger's Grasp added.
