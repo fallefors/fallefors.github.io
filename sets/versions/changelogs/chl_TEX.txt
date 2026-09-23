@@ -1,4 +1,16 @@
-﻿VERSION 19 CHANGELOG
+﻿VERSION 20 CHANGELOG
+====================
+
+
+
+Debilitating Tactics
+
+Gather the Warband
+
+Defend the Monastery
+
+
+VERSION 19 CHANGELOG
 ====================
 
 

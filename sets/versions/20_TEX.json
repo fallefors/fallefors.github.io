@@ -236,7 +236,7 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": "!tokens Warrior TEX 2"
+            "notes": "!tokens Warrior TEX"
         },
         {
             "card_name": "Wasteland Roc",
@@ -2000,7 +2000,7 @@
             "alias": "",
             "position": "94",
             "rotated": false,
-            "notes": "!tokens Warrior TEX 2"
+            "notes": "!tokens Warrior TEX"
         },
         {
             "card_name": "Whisperer of Seasons Past",
@@ -3806,7 +3806,7 @@
             "alias": "",
             "position": "180",
             "rotated": false,
-            "notes": "!tokens Monk TEX 3\n!tag wishlist"
+            "notes": "!tokens Monk TEX\n!tag wishlist"
         },
         {
             "card_name": "Fiendish Jailer",

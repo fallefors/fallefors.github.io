@@ -249,7 +249,7 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": "!tokens Warrior TEX 2",
+            "notes": "!tokens Warrior TEX",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2181,7 +2181,7 @@
             "alias": "",
             "position": "94",
             "rotated": false,
-            "notes": "!tokens Warrior TEX 2",
+            "notes": "!tokens Warrior TEX",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4159,7 +4159,7 @@
             "alias": "",
             "position": "180",
             "rotated": false,
-            "notes": "!tokens Monk TEX 3\n!tag wishlist",
+            "notes": "!tokens Monk TEX\n!tag wishlist",
             "image_type": "png",
             "v_mana": ""
         },

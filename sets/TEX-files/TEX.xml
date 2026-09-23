@@ -5,7 +5,7 @@
 			<name>TEX</name>
 			<longname>Tarkir: Extinction</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-21</releasedate>
+			<releasedate>2026-09-23</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -206,7 +206,7 @@ When this creature enters, put a +1/+1 counter on target creature you control.</
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related>Warrior TEX 2</related>
+			<related>Warrior TEX</related>
 		</card>
 		<card>
 			<name>Wasteland Roc</name>
@@ -1663,7 +1663,7 @@ Whenever you attack with two or more creatures, exile the top card of your libra
 				<coloridentity>WR</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related>Warrior TEX 2</related>
+			<related>Warrior TEX</related>
 		</card>
 		<card>
 			<name>Whisperer of Seasons Past</name>
@@ -3196,7 +3196,7 @@ Counter target spell. Master&apos;s Refusal deals 3 damage to its controller and
 				<coloridentity>WUR</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related>Monk TEX 3</related>
+			<related>Monk TEX</related>
 		</card>
 		<card>
 			<name>Fiendish Jailer</name>
