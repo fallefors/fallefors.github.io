@@ -3628,7 +3628,7 @@ Ceremony—{4}{U}, Exile two other cards from your graveyard. (You may cast a co
 		</card>
 		<card>
 			<name>Silumgar Devotee</name>
-			<text>When this creature enters, surveil 2.
+			<text>When this creature enters, mill two cards.
 Whenever this creature attacks, you may exile two cards from your graveyard. When you do, you may cast target instant or sorcery spell from your graveyard this turn. If that spell would be put into your graveyard, exile it instead.</text>
 			<set rarity="rare" picurl="https://fallefors.github.io/sets/TEX-files/img/205.png" num="61">TEX</set>
 			<prop>
@@ -4714,9 +4714,9 @@ Whenever Champei deals combat damage to a player, draw a card.</text>
 		</card>
 		<card>
 			<name>Alan, the Last Executioner</name>
-			<text>[+1]: Create a 1/1 red Warrior creature token. 
+			<text>[+1]: Create a 1/1 red Warrior creature token.
 [-2]: Destroy target creature with mana value 3 or greater.
-[-5]: Exile each opponent&apos;s graveyard. Distribute four +1/+1 counters among up to four creatures you control.</text>
+[-5]: Exile each opponent&apos;s graveyard. Distribute three +1/+1 counters among one, two, or three creatures you control.</text>
 			<set rarity="mythic" picurl="https://fallefors.github.io/sets/TEX-files/img/265.png" num="169">TEX</set>
 			<prop>
 				<layout>normal</layout>

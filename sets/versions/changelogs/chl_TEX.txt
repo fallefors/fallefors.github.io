@@ -1,4 +1,27 @@
-﻿VERSION 21 CHANGELOG
+﻿VERSION 22 CHANGELOG
+====================
+
+
+
+Silumgar Devotee
+rules_text: When this creature enters, surveil 2.
+Whenever this creature attacks, you may exile two cards from your graveyard. When you do, you may cast target instant or sorcery spell from your graveyard this turn. If that spell would be put into your graveyard, exile it instead. => When this creature enters, mill two cards.
+Whenever this creature attacks, you may exile two cards from your graveyard. When you do, you may cast target instant or sorcery spell from your graveyard this turn. If that spell would be put into your graveyard, exile it instead.
+
+Alan, the Last Executioner
+rules_text: [+1]: Create a 1/1 red Warrior creature token. 
+[-2]: Destroy target creature with mana value 3 or greater.
+[-5]: Exile each opponent's graveyard. Distribute four +1/+1 counters among up to four creatures you control. => [+1]: Create a 1/1 red Warrior creature token.
+[-2]: Destroy target creature with mana value 3 or greater.
+[-5]: Exile each opponent's graveyard. Distribute three +1/+1 counters among one, two, or three creatures you control.
+special_text: [+1]: Create a 1/1 red Warrior creature token. 
+[-2]: Destroy target creature with mana value 3 or greater.
+[-5]: Exile each opponent's graveyard. Distribute four +1/+1 counters among up to four creatures you control. => [+1]: Create a 1/1 red Warrior creature token.
+[-2]: Destroy target creature with mana value 3 or greater.
+[-5]: Exile each opponent's graveyard. Distribute three +1/+1 counters among one, two, or three creatures you control.
+
+
+VERSION 21 CHANGELOG
 ====================
 
 

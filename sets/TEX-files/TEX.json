@@ -4320,7 +4320,7 @@
             "number": 61,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "When this creature enters, surveil 2.\nWhenever this creature attacks, you may exile two cards from your graveyard. When you do, you may cast target instant or sorcery spell from your graveyard this turn. If that spell would be put into your graveyard, exile it instead.",
+            "rules_text": "When this creature enters, mill two cards.\nWhenever this creature attacks, you may exile two cards from your graveyard. When you do, you may cast target instant or sorcery spell from your graveyard this turn. If that spell would be put into your graveyard, exile it instead.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -5664,10 +5664,10 @@
             "number": 169,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
-            "rules_text": "[+1]: Create a 1/1 red Warrior creature token. \n[-2]: Destroy target creature with mana value 3 or greater.\n[-5]: Exile each opponent's graveyard. Distribute four +1/+1 counters among up to four creatures you control.",
+            "rules_text": "[+1]: Create a 1/1 red Warrior creature token.\n[-2]: Destroy target creature with mana value 3 or greater.\n[-5]: Exile each opponent's graveyard. Distribute three +1/+1 counters among one, two, or three creatures you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[+1]: Create a 1/1 red Warrior creature token. \n[-2]: Destroy target creature with mana value 3 or greater.\n[-5]: Exile each opponent's graveyard. Distribute four +1/+1 counters among up to four creatures you control.",
+            "special_text": "[+1]: Create a 1/1 red Warrior creature token.\n[-2]: Destroy target creature with mana value 3 or greater.\n[-5]: Exile each opponent's graveyard. Distribute three +1/+1 counters among one, two, or three creatures you control.",
             "shape": "planeswalker",
             "set": "TEX",
             "loyalty": "3",
@@ -5870,5 +5870,5 @@
             "notes": ""
         }
     ],
-    "version": 21
+    "version": 22
 }
