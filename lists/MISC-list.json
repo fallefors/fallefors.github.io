@@ -811,18 +811,28 @@
     },
     "a->token",
     {
-        "card_name": "Memento",
+        "card_name": "Fulfillment",
         "number": 1,
+        "shape": "token",
+        "set": "MISC",
+        "rotated": false,
+        "position": "199"
+    },
+    {
+        "card_name": "Memento",
+        "number": 3,
         "shape": "token",
         "set": "MISC",
         "rotated": false,
         "position": "2"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
+        "card_name": "Human",
+        "number": 2,
+        "shape": "token",
+        "set": "MISC",
+        "rotated": false,
+        "position": "200"
     },
     {
         "card_name": "e"

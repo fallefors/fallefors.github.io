@@ -48,7 +48,7 @@ As long as you&apos;re fulfilled, this creature gets +2/+0.</text>
 		<card>
 			<name>Memento MISC</name>
 			<text>{1}, Sacrifice this token: Surveil 1.</text>
-			<set rarity="common" picurl="https://fallefors.github.io/sets/MISC-files/img/2.png" num="1">MISC</set>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/MISC-files/img/2.png" num="3">MISC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1625,6 +1625,39 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fulfillment MISC</name>
+			<text></text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/MISC-files/img/199.png" num="1">MISC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Human MISC</name>
+			<text></text>
+			<set rarity="common" picurl="https://fallefors.github.io/sets/MISC-files/img/200.png" num="2">MISC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

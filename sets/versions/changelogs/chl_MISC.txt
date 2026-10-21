@@ -1,4 +1,12 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Fulfillment added.
+Human added.
+
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
