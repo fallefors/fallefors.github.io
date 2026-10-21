@@ -1,0 +1,848 @@
+﻿[
+    {
+        "card_name": "CW01 Litter Sitter",
+        "number": 1,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "CU01 Green Reef Aquanaut",
+        "number": 30,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "40"
+    },
+    {
+        "card_name": "CB01 Tricky Treater",
+        "number": 59,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "54"
+    },
+    {
+        "card_name": "CR01 Rowdy Kittens",
+        "number": 88,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "69"
+    },
+    {
+        "card_name": "CG01 Lakeside Linecaster",
+        "number": 118,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "81"
+    },
+    {
+        "card_name": "CW02 Lofty Sprite",
+        "number": 2,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "CU02 Cloudpool Tender",
+        "number": 31,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "41"
+    },
+    {
+        "card_name": "CB02 Giltbait Fisher",
+        "number": 60,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "55"
+    },
+    {
+        "card_name": "CR02 Impassioned Chef",
+        "number": 89,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "68"
+    },
+    {
+        "card_name": "CG02 Reptilian Sprite",
+        "number": 119,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "82"
+    },
+    {
+        "card_name": "CW03 Classroom Cleaning Crew",
+        "number": 3,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "34"
+    },
+    {
+        "card_name": "CU03 Applicative Innovator",
+        "number": 32,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "45"
+    },
+    {
+        "card_name": "CB03 Eerie Ghoul",
+        "number": 61,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "56"
+    },
+    {
+        "card_name": "CR03 Library Ransackers",
+        "number": 90,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "70"
+    },
+    {
+        "card_name": "CG03 Still Street Florist",
+        "number": 120,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "83"
+    },
+    {
+        "card_name": "CW04 Artificial NOUN",
+        "number": 4,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "CU04 Memory Dispatcher",
+        "number": 33,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "42"
+    },
+    {
+        "card_name": "CB04 Whisker Sister Clique",
+        "number": 62,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "57"
+    },
+    {
+        "card_name": "CR04 Dragonface Artist",
+        "number": 91,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "71"
+    },
+    {
+        "card_name": "CG04 Scaled Outlander",
+        "number": 121,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "84"
+    },
+    {
+        "card_name": "CW05 Paperwing Crane",
+        "number": 5,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "CU05 Fruiteress Waverider",
+        "number": 34,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "43"
+    },
+    {
+        "card_name": "CB05 Gullback Poacher",
+        "number": 63,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "58"
+    },
+    {
+        "card_name": "CR05 Local Handyman",
+        "number": 92,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "72"
+    },
+    {
+        "card_name": "CG05 Knight of Play Pretend",
+        "number": 122,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "85"
+    },
+    {
+        "card_name": "CW06 Master of Traffic",
+        "number": 6,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "31"
+    },
+    {
+        "card_name": "CU06 Contemplative Officer",
+        "number": 35,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "44"
+    },
+    {
+        "card_name": "CB06 Displaced Dolphin",
+        "number": 64,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "59"
+    },
+    {
+        "card_name": "CR06 Stoked Super Soldier",
+        "number": 93,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "73"
+    },
+    {
+        "card_name": "CG06 Rusted Guardian",
+        "number": 123,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "86"
+    },
+    {
+        "card_name": "CW07 Faring Pair",
+        "number": 7,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "32"
+    },
+    {
+        "card_name": "CU07 Remarkable Paperlift",
+        "number": 36,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "46"
+    },
+    {
+        "card_name": "CB07 Infatuated Machine",
+        "number": 65,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "60"
+    },
+    {
+        "card_name": "CR07 Grimacing Beast",
+        "number": 94,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "74"
+    },
+    {
+        "card_name": "CG07 Crusty Crusher",
+        "number": 124,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "87"
+    },
+    {
+        "card_name": "CW08 Wistful Sprite",
+        "number": 8,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "CU08 Fishy Streamer",
+        "number": 37,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "47"
+    },
+    {
+        "card_name": "CB08 Pigeongirls",
+        "number": 66,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "61"
+    },
+    {
+        "card_name": "CR08 Hulking Automaton",
+        "number": 95,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "75"
+    },
+    {
+        "card_name": "CG08 Lunch Bandits",
+        "number": 125,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "88"
+    },
+    {
+        "card_name": "CW09 Rattling NOUN",
+        "number": 9,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "CU09 Miscalculation",
+        "number": 38,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "48"
+    },
+    {
+        "card_name": "CB09 Crashing Shark",
+        "number": 67,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "62"
+    },
+    {
+        "card_name": "CR09 Brushstripe Tiger",
+        "number": 96,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "76"
+    },
+    {
+        "card_name": "CG09 NAME",
+        "number": 126,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "89"
+    },
+    {
+        "card_name": "CW10 Forty-Foot Girl",
+        "number": 10,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "35"
+    },
+    {
+        "card_name": "CU10 Blessed by Carp",
+        "number": 39,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "49"
+    },
+    {
+        "card_name": "CB10 Dollmaker's Trick",
+        "number": 68,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "63"
+    },
+    {
+        "card_name": "CR10 Abrade",
+        "number": 97,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "77"
+    },
+    {
+        "card_name": "CG10 Awe-Inspiring Presence",
+        "number": 127,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "90"
+    },
+    {
+        "card_name": "CW11 Pursuant's Ride",
+        "number": 11,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "36"
+    },
+    {
+        "card_name": "CU11 Recurring Revelation",
+        "number": 40,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "50"
+    },
+    {
+        "card_name": "CB11 NAME",
+        "number": 69,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "64"
+    },
+    {
+        "card_name": "CR11 Make Sparks Fly",
+        "number": 98,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "78"
+    },
+    {
+        "card_name": "CG11 NAME",
+        "number": 128,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "91"
+    },
+    {
+        "card_name": "CW12 Day Out",
+        "number": 12,
+        "shape": "saga",
+        "set": "MISC",
+        "rotated": false,
+        "position": "37"
+    },
+    {
+        "card_name": "CU12 Caught in a Camera",
+        "number": 41,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "51"
+    },
+    {
+        "card_name": "CB12 Her Anticipated Ascent",
+        "number": 70,
+        "shape": "saga",
+        "set": "MISC",
+        "rotated": false,
+        "position": "65"
+    },
+    {
+        "card_name": "CR12 NAME",
+        "number": 99,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "80"
+    },
+    {
+        "card_name": "CG12 Dumpster Diving",
+        "number": 129,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "92"
+    },
+    {
+        "card_name": "CW13 On Paper Wings",
+        "number": 13,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "CU13 NAME",
+        "number": 42,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "52"
+    },
+    {
+        "card_name": "CB13 Crushing Engine",
+        "number": 71,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "66"
+    },
+    {
+        "card_name": "CR13 Let It All Go",
+        "number": 100,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "79"
+    },
+    {
+        "card_name": "CG13 Rust in Peace",
+        "number": 130,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "93"
+    },
+    {
+        "card_name": "CW14 Bottle Up",
+        "number": 14,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "39"
+    },
+    {
+        "card_name": "CU14 Buoyant Home",
+        "number": 43,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "53"
+    },
+    {
+        "card_name": "CB14 Tragic Ceremony",
+        "number": 72,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "67"
+    },
+    {
+        "card_name": "CR14 Crosswalk Racer",
+        "number": 101,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "CG14 Heart of Ivy",
+        "number": 131,
+        "shape": "saga",
+        "set": "MISC",
+        "rotated": false,
+        "position": "94"
+    },
+    {
+        "card_name": "CW15 NAME",
+        "number": 15,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "192"
+    },
+    {
+        "card_name": "CU15 The Marlin Inspires",
+        "number": 44,
+        "shape": "saga",
+        "set": "MISC",
+        "rotated": false,
+        "position": "193"
+    },
+    {
+        "card_name": "CB15 Whittle Away",
+        "number": 73,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "194"
+    },
+    {
+        "card_name": "CR15 Summer Fling",
+        "number": 102,
+        "shape": "saga",
+        "set": "MISC",
+        "rotated": false,
+        "position": "195"
+    },
+    {
+        "card_name": "CG15 Cogwork Cattle",
+        "number": 132,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "196"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "CA01 Artifical Assistant",
+        "number": 167,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "CA02 Papercraft Pal",
+        "number": 168,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "CA03 Official's Seal",
+        "number": 169,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "CA04 Retired Fighter",
+        "number": 170,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "CL01 Awash Alley",
+        "number": 175,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "96"
+    },
+    {
+        "card_name": "CL02 Remote Retreat",
+        "number": 176,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "95"
+    },
+    {
+        "card_name": "CL03 Vandals' Canvas",
+        "number": 177,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "97"
+    },
+    {
+        "card_name": "CL04 Worn Train Tracks",
+        "number": 178,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "98"
+    },
+    {
+        "card_name": "CL05 Still Street",
+        "number": 179,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "99"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "CL06 Bustling Cityscape",
+        "number": 180,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "100"
+    },
+    {
+        "card_name": "CL07 Skyward Station",
+        "number": 181,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "101"
+    },
+    {
+        "card_name": "CL08 Concrete Jungle",
+        "number": 182,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "102"
+    },
+    {
+        "card_name": "CL09 Totaled Metro",
+        "number": 183,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "103"
+    },
+    {
+        "card_name": "CL10 Verdant Gate",
+        "number": 184,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "106"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "CL11 Neighbouring Stairwell",
+        "number": 185,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "105"
+    },
+    {
+        "card_name": "CL12 Best Diner in Town",
+        "number": 186,
+        "shape": "normal",
+        "set": "MISC",
+        "rotated": false,
+        "position": "104"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Memento",
+        "number": 1,
+        "shape": "token",
+        "set": "MISC",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

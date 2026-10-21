@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "MISC",
+            "set_name": "Unnamed Set",
+            "formats": ""
+        },
+        {
             "set_code": "TEX",
             "set_name": "Tarkir: Extinction",
             "formats": ""
