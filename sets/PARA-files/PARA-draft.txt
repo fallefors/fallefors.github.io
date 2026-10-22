@@ -1,0 +1,1314 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "CW02 Lofty Sprite",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/0.png"
+			}
+		},
+		{
+			"name": "CW01 Litter Sitter",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Cat Citizen",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/1.png"
+			}
+		},
+		{
+			"name": "Memento",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Memento",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/2.png"
+			}
+		},
+		{
+			"name": "CR14 Crosswalk Racer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/10.png"
+			}
+		},
+		{
+			"name": "CA01 Artifical Assistant",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/24.png"
+			}
+		},
+		{
+			"name": "CA02 Papercraft Pal",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/25.png"
+			}
+		},
+		{
+			"name": "CA03 Official's Seal",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/26.png"
+			}
+		},
+		{
+			"name": "CA04 Retired Fighter",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/27.png"
+			}
+		},
+		{
+			"name": "CW09 Rattling NOUN",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Shark Skeleton",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/28.png"
+			}
+		},
+		{
+			"name": "CW04 Artificial NOUN",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Human",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/29.png"
+			}
+		},
+		{
+			"name": "CW05 Paperwing Crane",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Bird Construct",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/30.png"
+			}
+		},
+		{
+			"name": "CW06 Master of Traffic",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/31.png"
+			}
+		},
+		{
+			"name": "CW07 Faring Pair",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Dog Scout",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/32.png"
+			}
+		},
+		{
+			"name": "CW08 Wistful Sprite",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/33.png"
+			}
+		},
+		{
+			"name": "CW03 Classroom Cleaning Crew",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/34.png"
+			}
+		},
+		{
+			"name": "CW10 Forty-Foot Girl",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Giant Human",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/35.png"
+			}
+		},
+		{
+			"name": "CW11 Pursuant's Ride",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/36.png"
+			}
+		},
+		{
+			"name": "CW12 Day Out",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/37.png"
+			}
+		},
+		{
+			"name": "CW13 On Paper Wings",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/38.png"
+			}
+		},
+		{
+			"name": "CW14 Bottle Up",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/39.png"
+			}
+		},
+		{
+			"name": "CU01 Green Reef Aquanaut",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Human Scout",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/40.png"
+			}
+		},
+		{
+			"name": "CU02 Cloudpool Tender",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/41.png"
+			}
+		},
+		{
+			"name": "CU04 Memory Dispatcher",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/42.png"
+			}
+		},
+		{
+			"name": "CU05 Fruiteress Waverider",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/43.png"
+			}
+		},
+		{
+			"name": "CU06 Contemplative Officer",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/44.png"
+			}
+		},
+		{
+			"name": "CU03 Applicative Innovator",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/45.png"
+			}
+		},
+		{
+			"name": "CU07 Remarkable Paperlift",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Artifact Creature — Bird Construct",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/46.png"
+			}
+		},
+		{
+			"name": "CU08 Fishy Streamer",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Artifact Creature — Fish Construct",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/47.png"
+			}
+		},
+		{
+			"name": "CU09 Miscalculation",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/48.png"
+			}
+		},
+		{
+			"name": "CU10 Blessed by Carp",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/49.png"
+			}
+		},
+		{
+			"name": "CU11 Recurring Revelation",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/50.png"
+			}
+		},
+		{
+			"name": "CU12 Caught in a Camera",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/51.png"
+			}
+		},
+		{
+			"name": "CU13 NAME",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/52.png"
+			}
+		},
+		{
+			"name": "CU14 Buoyant Home",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/53.png"
+			}
+		},
+		{
+			"name": "CB01 Tricky Treater",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/54.png"
+			}
+		},
+		{
+			"name": "CB02 Giltbait Fisher",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/55.png"
+			}
+		},
+		{
+			"name": "CB03 Eerie Ghoul",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/56.png"
+			}
+		},
+		{
+			"name": "CB04 Whisker Sister Clique",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Cat",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/57.png"
+			}
+		},
+		{
+			"name": "CB05 Gullback Poacher",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/58.png"
+			}
+		},
+		{
+			"name": "CB06 Displaced Dolphin",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Dolphin",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/59.png"
+			}
+		},
+		{
+			"name": "CB07 Infatuated Machine",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/60.png"
+			}
+		},
+		{
+			"name": "CB08 Pigeongirls",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Bird Scout",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/61.png"
+			}
+		},
+		{
+			"name": "CB09 Crashing Shark",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Shark",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/62.png"
+			}
+		},
+		{
+			"name": "CB10 Dollmaker's Trick",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/63.png"
+			}
+		},
+		{
+			"name": "CB11 NAME",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/64.png"
+			}
+		},
+		{
+			"name": "CB12 Her Anticipated Ascent",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/65.png"
+			}
+		},
+		{
+			"name": "CB13 Crushing Engine",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/66.png"
+			}
+		},
+		{
+			"name": "CB14 Tragic Ceremony",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/67.png"
+			}
+		},
+		{
+			"name": "CR02 Impassioned Chef",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/68.png"
+			}
+		},
+		{
+			"name": "CR01 Rowdy Kittens",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Cat",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/69.png"
+			}
+		},
+		{
+			"name": "CR03 Library Ransackers",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/70.png"
+			}
+		},
+		{
+			"name": "CR04 Dragonface Artist",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/71.png"
+			}
+		},
+		{
+			"name": "CR05 Local Handyman",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/72.png"
+			}
+		},
+		{
+			"name": "CR06 Paracity Super Soldier",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Human Mercenary",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/73.png"
+			}
+		},
+		{
+			"name": "CR07 Grimacing Beast",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment Creature — Spirit Beast",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/74.png"
+			}
+		},
+		{
+			"name": "CR08 Hulking Automaton",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/75.png"
+			}
+		},
+		{
+			"name": "CR09 Brushstripe Tiger",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Enchantment Creature — Spirit Cat",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/76.png"
+			}
+		},
+		{
+			"name": "CR10 Abrade",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/77.png"
+			}
+		},
+		{
+			"name": "CR11 Make Sparks Fly",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/78.png"
+			}
+		},
+		{
+			"name": "CR13 Let It All Go",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/79.png"
+			}
+		},
+		{
+			"name": "CR12 NAME",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/80.png"
+			}
+		},
+		{
+			"name": "CG01 Lakeside Linecaster",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/81.png"
+			}
+		},
+		{
+			"name": "CG02 Reptilian Sprite",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment Creature — Spirit Crocodile",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/82.png"
+			}
+		},
+		{
+			"name": "CG03 Still Street Florist",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/83.png"
+			}
+		},
+		{
+			"name": "CG04 Scaled Outlander",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Lizard Scout",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/84.png"
+			}
+		},
+		{
+			"name": "CG05 Knight of Play Pretend",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Knight",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/85.png"
+			}
+		},
+		{
+			"name": "CG06 Rusted Guardian",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/86.png"
+			}
+		},
+		{
+			"name": "CG07 Crusty Crusher",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Giant Crab",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/87.png"
+			}
+		},
+		{
+			"name": "CG08 Lunch Bandits",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Giraffe Rogue",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/88.png"
+			}
+		},
+		{
+			"name": "CG09 NAME",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/89.png"
+			}
+		},
+		{
+			"name": "CG10 Awe-Inspiring Presence",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Enchantment Creature — Giant Spirit",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/90.png"
+			}
+		},
+		{
+			"name": "CG11 NAME",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/91.png"
+			}
+		},
+		{
+			"name": "CG12 Dumpster Diving",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/92.png"
+			}
+		},
+		{
+			"name": "CG13 Rust in Peace",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/93.png"
+			}
+		},
+		{
+			"name": "CG14 Heart of Ivy",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/94.png"
+			}
+		},
+		{
+			"name": "CL02 Remote Retreat",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/95.png"
+			}
+		},
+		{
+			"name": "CL01 Awash Alley",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/96.png"
+			}
+		},
+		{
+			"name": "CL03 Vandals' Canvas",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/97.png"
+			}
+		},
+		{
+			"name": "CL04 Worn Train Tracks",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/98.png"
+			}
+		},
+		{
+			"name": "CL05 Still Street",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/99.png"
+			}
+		},
+		{
+			"name": "CL06 Bustling Cityscape",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/100.png"
+			}
+		},
+		{
+			"name": "CL07 Skyward Station",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/101.png"
+			}
+		},
+		{
+			"name": "CL08 Concrete Jungle",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/102.png"
+			}
+		},
+		{
+			"name": "CL09 Totaled Metro",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/103.png"
+			}
+		},
+		{
+			"name": "CL12 Best Diner in Town",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/104.png"
+			}
+		},
+		{
+			"name": "CL11 Neighbouring Stairwell",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/105.png"
+			}
+		},
+		{
+			"name": "CL10 Verdant Gate",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/106.png"
+			}
+		},
+		{
+			"name": "CW15 NAME",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/192.png"
+			}
+		},
+		{
+			"name": "CU15 The Marlin Inspires",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/193.png"
+			}
+		},
+		{
+			"name": "CB15 Whittle Away",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/194.png"
+			}
+		},
+		{
+			"name": "CR15 Summer Fling",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/195.png"
+			}
+		},
+		{
+			"name": "CG15 Cogwork Cattle",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/196.png"
+			}
+		},
+		{
+			"name": "Fulfillment",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/199.png"
+			}
+		},
+		{
+			"name": "Human",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://fallefors.github.io/sets/PARA-files/img/200.png"
+			}
+		}
+	]
+
+[rare(1)]
+[uncommon(3)]
+[common(6)]
+	8 CW02 Lofty Sprite
+	8 CW01 Litter Sitter
+	8 CR14 Crosswalk Racer
+	8 CA01 Artifical Assistant
+	8 CA02 Papercraft Pal
+	8 CA03 Official's Seal
+	8 CA04 Retired Fighter
+	8 CW09 Rattling NOUN
+	8 CW04 Artificial NOUN
+	8 CW05 Paperwing Crane
+	8 CW06 Master of Traffic
+	8 CW07 Faring Pair
+	8 CW08 Wistful Sprite
+	8 CW03 Classroom Cleaning Crew
+	8 CW10 Forty-Foot Girl
+	8 CW11 Pursuant's Ride
+	8 CW12 Day Out
+	8 CW13 On Paper Wings
+	8 CW14 Bottle Up
+	8 CU01 Green Reef Aquanaut
+	8 CU02 Cloudpool Tender
+	8 CU04 Memory Dispatcher
+	8 CU05 Fruiteress Waverider
+	8 CU06 Contemplative Officer
+	8 CU03 Applicative Innovator
+	8 CU07 Remarkable Paperlift
+	8 CU08 Fishy Streamer
+	8 CU09 Miscalculation
+	8 CU10 Blessed by Carp
+	8 CU11 Recurring Revelation
+	8 CU12 Caught in a Camera
+	8 CU13 NAME
+	8 CU14 Buoyant Home
+	8 CB01 Tricky Treater
+	8 CB02 Giltbait Fisher
+	8 CB03 Eerie Ghoul
+	8 CB04 Whisker Sister Clique
+	8 CB05 Gullback Poacher
+	8 CB06 Displaced Dolphin
+	8 CB07 Infatuated Machine
+	8 CB08 Pigeongirls
+	8 CB09 Crashing Shark
+	8 CB10 Dollmaker's Trick
+	8 CB11 NAME
+	8 CB12 Her Anticipated Ascent
+	8 CB13 Crushing Engine
+	8 CB14 Tragic Ceremony
+	8 CR02 Impassioned Chef
+	8 CR01 Rowdy Kittens
+	8 CR03 Library Ransackers
+	8 CR04 Dragonface Artist
+	8 CR05 Local Handyman
+	8 CR06 Paracity Super Soldier
+	8 CR07 Grimacing Beast
+	8 CR08 Hulking Automaton
+	8 CR09 Brushstripe Tiger
+	8 CR10 Abrade
+	8 CR11 Make Sparks Fly
+	8 CR13 Let It All Go
+	8 CR12 NAME
+	8 CG01 Lakeside Linecaster
+	8 CG02 Reptilian Sprite
+	8 CG03 Still Street Florist
+	8 CG04 Scaled Outlander
+	8 CG05 Knight of Play Pretend
+	8 CG06 Rusted Guardian
+	8 CG07 Crusty Crusher
+	8 CG08 Lunch Bandits
+	8 CG09 NAME
+	8 CG10 Awe-Inspiring Presence
+	8 CG11 NAME
+	8 CG12 Dumpster Diving
+	8 CG13 Rust in Peace
+	8 CG14 Heart of Ivy
+	8 CL02 Remote Retreat
+	8 CL01 Awash Alley
+	8 CL03 Vandals' Canvas
+	8 CL04 Worn Train Tracks
+	8 CL05 Still Street
+	8 CL06 Bustling Cityscape
+	8 CL07 Skyward Station
+	8 CL08 Concrete Jungle
+	8 CL09 Totaled Metro
+	8 CL12 Best Diner in Town
+	8 CL11 Neighbouring Stairwell
+	8 CL10 Verdant Gate
+	8 CW15 NAME
+	8 CU15 The Marlin Inspires
+	8 CB15 Whittle Away
+	8 CR15 Summer Fling
+	8 CG15 Cogwork Cattle
+[common | masterpiece(1)]
+	8 CW02 Lofty Sprite
+	8 CW01 Litter Sitter
+	8 CR14 Crosswalk Racer
+	8 CA01 Artifical Assistant
+	8 CA02 Papercraft Pal
+	8 CA03 Official's Seal
+	8 CA04 Retired Fighter
+	8 CW09 Rattling NOUN
+	8 CW04 Artificial NOUN
+	8 CW05 Paperwing Crane
+	8 CW06 Master of Traffic
+	8 CW07 Faring Pair
+	8 CW08 Wistful Sprite
+	8 CW03 Classroom Cleaning Crew
+	8 CW10 Forty-Foot Girl
+	8 CW11 Pursuant's Ride
+	8 CW12 Day Out
+	8 CW13 On Paper Wings
+	8 CW14 Bottle Up
+	8 CU01 Green Reef Aquanaut
+	8 CU02 Cloudpool Tender
+	8 CU04 Memory Dispatcher
+	8 CU05 Fruiteress Waverider
+	8 CU06 Contemplative Officer
+	8 CU03 Applicative Innovator
+	8 CU07 Remarkable Paperlift
+	8 CU08 Fishy Streamer
+	8 CU09 Miscalculation
+	8 CU10 Blessed by Carp
+	8 CU11 Recurring Revelation
+	8 CU12 Caught in a Camera
+	8 CU13 NAME
+	8 CU14 Buoyant Home
+	8 CB01 Tricky Treater
+	8 CB02 Giltbait Fisher
+	8 CB03 Eerie Ghoul
+	8 CB04 Whisker Sister Clique
+	8 CB05 Gullback Poacher
+	8 CB06 Displaced Dolphin
+	8 CB07 Infatuated Machine
+	8 CB08 Pigeongirls
+	8 CB09 Crashing Shark
+	8 CB10 Dollmaker's Trick
+	8 CB11 NAME
+	8 CB12 Her Anticipated Ascent
+	8 CB13 Crushing Engine
+	8 CB14 Tragic Ceremony
+	8 CR02 Impassioned Chef
+	8 CR01 Rowdy Kittens
+	8 CR03 Library Ransackers
+	8 CR04 Dragonface Artist
+	8 CR05 Local Handyman
+	8 CR06 Paracity Super Soldier
+	8 CR07 Grimacing Beast
+	8 CR08 Hulking Automaton
+	8 CR09 Brushstripe Tiger
+	8 CR10 Abrade
+	8 CR11 Make Sparks Fly
+	8 CR13 Let It All Go
+	8 CR12 NAME
+	8 CG01 Lakeside Linecaster
+	8 CG02 Reptilian Sprite
+	8 CG03 Still Street Florist
+	8 CG04 Scaled Outlander
+	8 CG05 Knight of Play Pretend
+	8 CG06 Rusted Guardian
+	8 CG07 Crusty Crusher
+	8 CG08 Lunch Bandits
+	8 CG09 NAME
+	8 CG10 Awe-Inspiring Presence
+	8 CG11 NAME
+	8 CG12 Dumpster Diving
+	8 CG13 Rust in Peace
+	8 CG14 Heart of Ivy
+	8 CL02 Remote Retreat
+	8 CL01 Awash Alley
+	8 CL03 Vandals' Canvas
+	8 CL04 Worn Train Tracks
+	8 CL05 Still Street
+	8 CL06 Bustling Cityscape
+	8 CL07 Skyward Station
+	8 CL08 Concrete Jungle
+	8 CL09 Totaled Metro
+	8 CL12 Best Diner in Town
+	8 CL11 Neighbouring Stairwell
+	8 CL10 Verdant Gate
+	8 CW15 NAME
+	8 CU15 The Marlin Inspires
+	8 CB15 Whittle Away
+	8 CR15 Summer Fling
+	8 CG15 Cogwork Cattle
+[foil(1)]
+	12 CW02 Lofty Sprite
+	12 CW01 Litter Sitter
+	12 CR14 Crosswalk Racer
+	12 CA01 Artifical Assistant
+	12 CA02 Papercraft Pal
+	12 CA03 Official's Seal
+	12 CA04 Retired Fighter
+	12 CW09 Rattling NOUN
+	12 CW04 Artificial NOUN
+	12 CW05 Paperwing Crane
+	12 CW06 Master of Traffic
+	12 CW07 Faring Pair
+	12 CW08 Wistful Sprite
+	12 CW03 Classroom Cleaning Crew
+	12 CW10 Forty-Foot Girl
+	12 CW11 Pursuant's Ride
+	12 CW12 Day Out
+	12 CW13 On Paper Wings
+	12 CW14 Bottle Up
+	12 CU01 Green Reef Aquanaut
+	12 CU02 Cloudpool Tender
+	12 CU04 Memory Dispatcher
+	12 CU05 Fruiteress Waverider
+	12 CU06 Contemplative Officer
+	12 CU03 Applicative Innovator
+	12 CU07 Remarkable Paperlift
+	12 CU08 Fishy Streamer
+	12 CU09 Miscalculation
+	12 CU10 Blessed by Carp
+	12 CU11 Recurring Revelation
+	12 CU12 Caught in a Camera
+	12 CU13 NAME
+	12 CU14 Buoyant Home
+	12 CB01 Tricky Treater
+	12 CB02 Giltbait Fisher
+	12 CB03 Eerie Ghoul
+	12 CB04 Whisker Sister Clique
+	12 CB05 Gullback Poacher
+	12 CB06 Displaced Dolphin
+	12 CB07 Infatuated Machine
+	12 CB08 Pigeongirls
+	12 CB09 Crashing Shark
+	12 CB10 Dollmaker's Trick
+	12 CB11 NAME
+	12 CB12 Her Anticipated Ascent
+	12 CB13 Crushing Engine
+	12 CB14 Tragic Ceremony
+	12 CR02 Impassioned Chef
+	12 CR01 Rowdy Kittens
+	12 CR03 Library Ransackers
+	12 CR04 Dragonface Artist
+	12 CR05 Local Handyman
+	12 CR06 Paracity Super Soldier
+	12 CR07 Grimacing Beast
+	12 CR08 Hulking Automaton
+	12 CR09 Brushstripe Tiger
+	12 CR10 Abrade
+	12 CR11 Make Sparks Fly
+	12 CR13 Let It All Go
+	12 CR12 NAME
+	12 CG01 Lakeside Linecaster
+	12 CG02 Reptilian Sprite
+	12 CG03 Still Street Florist
+	12 CG04 Scaled Outlander
+	12 CG05 Knight of Play Pretend
+	12 CG06 Rusted Guardian
+	12 CG07 Crusty Crusher
+	12 CG08 Lunch Bandits
+	12 CG09 NAME
+	12 CG10 Awe-Inspiring Presence
+	12 CG11 NAME
+	12 CG12 Dumpster Diving
+	12 CG13 Rust in Peace
+	12 CG14 Heart of Ivy
+	12 CL02 Remote Retreat
+	12 CL01 Awash Alley
+	12 CL03 Vandals' Canvas
+	12 CL04 Worn Train Tracks
+	12 CL05 Still Street
+	12 CL06 Bustling Cityscape
+	12 CL07 Skyward Station
+	12 CL08 Concrete Jungle
+	12 CL09 Totaled Metro
+	12 CL12 Best Diner in Town
+	12 CL11 Neighbouring Stairwell
+	12 CL10 Verdant Gate
+	12 CW15 NAME
+	12 CU15 The Marlin Inspires
+	12 CB15 Whittle Away
+	12 CR15 Summer Fling
+	12 CG15 Cogwork Cattle
+[wildcard(1)]
+	6 CW02 Lofty Sprite
+	6 CW01 Litter Sitter
+	6 CR14 Crosswalk Racer
+	6 CA01 Artifical Assistant
+	6 CA02 Papercraft Pal
+	6 CA03 Official's Seal
+	6 CA04 Retired Fighter
+	6 CW09 Rattling NOUN
+	6 CW04 Artificial NOUN
+	6 CW05 Paperwing Crane
+	6 CW06 Master of Traffic
+	6 CW07 Faring Pair
+	6 CW08 Wistful Sprite
+	6 CW03 Classroom Cleaning Crew
+	6 CW10 Forty-Foot Girl
+	6 CW11 Pursuant's Ride
+	6 CW12 Day Out
+	6 CW13 On Paper Wings
+	6 CW14 Bottle Up
+	6 CU01 Green Reef Aquanaut
+	6 CU02 Cloudpool Tender
+	6 CU04 Memory Dispatcher
+	6 CU05 Fruiteress Waverider
+	6 CU06 Contemplative Officer
+	6 CU03 Applicative Innovator
+	6 CU07 Remarkable Paperlift
+	6 CU08 Fishy Streamer
+	6 CU09 Miscalculation
+	6 CU10 Blessed by Carp
+	6 CU11 Recurring Revelation
+	6 CU12 Caught in a Camera
+	6 CU13 NAME
+	6 CU14 Buoyant Home
+	6 CB01 Tricky Treater
+	6 CB02 Giltbait Fisher
+	6 CB03 Eerie Ghoul
+	6 CB04 Whisker Sister Clique
+	6 CB05 Gullback Poacher
+	6 CB06 Displaced Dolphin
+	6 CB07 Infatuated Machine
+	6 CB08 Pigeongirls
+	6 CB09 Crashing Shark
+	6 CB10 Dollmaker's Trick
+	6 CB11 NAME
+	6 CB12 Her Anticipated Ascent
+	6 CB13 Crushing Engine
+	6 CB14 Tragic Ceremony
+	6 CR02 Impassioned Chef
+	6 CR01 Rowdy Kittens
+	6 CR03 Library Ransackers
+	6 CR04 Dragonface Artist
+	6 CR05 Local Handyman
+	6 CR06 Paracity Super Soldier
+	6 CR07 Grimacing Beast
+	6 CR08 Hulking Automaton
+	6 CR09 Brushstripe Tiger
+	6 CR10 Abrade
+	6 CR11 Make Sparks Fly
+	6 CR13 Let It All Go
+	6 CR12 NAME
+	6 CG01 Lakeside Linecaster
+	6 CG02 Reptilian Sprite
+	6 CG03 Still Street Florist
+	6 CG04 Scaled Outlander
+	6 CG05 Knight of Play Pretend
+	6 CG06 Rusted Guardian
+	6 CG07 Crusty Crusher
+	6 CG08 Lunch Bandits
+	6 CG09 NAME
+	6 CG10 Awe-Inspiring Presence
+	6 CG11 NAME
+	6 CG12 Dumpster Diving
+	6 CG13 Rust in Peace
+	6 CG14 Heart of Ivy
+	6 CL02 Remote Retreat
+	6 CL01 Awash Alley
+	6 CL03 Vandals' Canvas
+	6 CL04 Worn Train Tracks
+	6 CL05 Still Street
+	6 CL06 Bustling Cityscape
+	6 CL07 Skyward Station
+	6 CL08 Concrete Jungle
+	6 CL09 Totaled Metro
+	6 CL12 Best Diner in Town
+	6 CL11 Neighbouring Stairwell
+	6 CL10 Verdant Gate
+	6 CW15 NAME
+	6 CU15 The Marlin Inspires
+	6 CB15 Whittle Away
+	6 CR15 Summer Fling
+	6 CG15 Cogwork Cattle
